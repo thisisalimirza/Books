@@ -9,14 +9,15 @@ directory that stopped changing.
 ```
 Books/
 ├── _template/                  # copy this to start a new book
-├── the-first-book/
+├── providence/                 # autobiography, built from journal entries
 │   ├── README.md               # title, logline, status, word count
 │   ├── outline.md              # structure, beats, what each chapter does
 │   ├── 01-chapter-title.md
 │   ├── 02-chapter-title.md
 │   ├── ...
 │   └── reference/              # research, interviews, sources, images
-└── another-book/
+└── policy-patient/              # nonfiction, health policy + patient harm
+```
 ```
 
 ## Conventions
