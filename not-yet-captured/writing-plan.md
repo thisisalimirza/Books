@@ -39,6 +39,26 @@ Ch9 is the odd row: its seed is longer than its target, but the seed is
 entirely about textual analysis. The clinical half is new writing and the
 textual half compresses, so treat it as ~3,000 words of genuinely new work.
 
+**Drafting reality check (added after Wave 1's first chapters).** Ch6 and Ch7
+came in at roughly 60% of target — 3,654 and 2,151 against 6,000 and 5,000.
+The argument in each is complete; the shortfall is not thin reasoning, it is
+two specific missing ingredients:
+
+1. **Scenes.** Every chapter has at least one place where a moment from the
+   author's own training belongs, and those are marked `[SCENE NEEDED]` rather
+   than invented. Each is worth 300–600 words and they are the best words in
+   any memoir-argument book.
+2. **Real sourcing.** Citations are currently inline placeholders carried over
+   from the seed essays. Verifying them against primary literature, and
+   pulling the actual figures and trial details, adds both credibility and
+   length — legitimately, unlike padding.
+
+If both get done across the book, chapters land near target. If neither does,
+the manuscript finishes around 51,000 words (~165pp), below the 200-page
+floor. **Do not close this gap by inflating prose.** Close it with scenes and
+sources, or cut the page target and accept a shorter book — those are the two
+honest options.
+
 Roughly a third of the book exists in some form. That is a real head start and
 also a trap — see §5, because the existing third is the *easiest* third, and
 the remaining two-thirds is where the book is actually won.
