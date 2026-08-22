@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*~
+.idea/
+.vscode/
+
+# Exported builds — the markdown is the source of truth, so generated
+# .epub/.pdf/.docx belong in a build/ or export/ dir, which is ignored.
+# Reference material (source PDFs, etc.) lives in reference/ and is tracked.
+build/
+export/
