@@ -24,7 +24,7 @@ I'm keeping the analogy anyway, with its failure attached, because the policy lo
 
 ## South Korea, which is the case against me
 
-Starting in the 1990s, South Korea made cheap thyroid ultrasound widely available at routine checkups. By 2011 thyroid cancer diagnoses had risen to roughly fifteen times the 1993 rate. The death rate didn't move. [Cite: Ahn et al., NEJM 2014 — verify]
+Starting in the 1990s, South Korea made cheap thyroid ultrasound widely available alongside government-funded cancer screening. By 2011 the rate of thyroid cancer diagnoses was fifteen times the 1993 rate. Mortality did not move. Cancers under two centimeters accounted for 94.4 percent of the increase. [Ahn HS, Kim HJ, Welch HG. "Korea's Thyroid-Cancer 'Epidemic' — Screening and Overdiagnosis." *N Engl J Med* 2014;371:1765–1767.]
 
 The scans were finding small, indolent disease that autopsy studies show sits quietly in a large fraction of the population and never does anything. For years the only response on offer was surgery — tens of thousands of thyroidectomies, with their real complication rates, performed on people who were never in danger.
 
@@ -32,7 +32,7 @@ That is not "the data was bad." That is data with no normalization layer doing r
 
 But sit with the whole case rather than half of it, because both halves matter. The fix was not to stop scanning. The fix was to build the thresholds this chapter argues demand should produce: risk stratification systems that score a nodule before anyone reaches for a needle, plus active surveillance for small low-risk lesions instead of reflexive surgery. That took decades and a great many unnecessary operations to get right.
 
-And it still isn't clean. After screening pulled back sharply, mortality among people diagnosed after 2015 crept back up — which suggests the screening wave had been catching some genuinely dangerous disease alongside the overdiagnosis, and that overcorrecting away from data has its own body count. [Cite: verify post-2015 Korean mortality trend]
+And it still isn't clean. After public concern mounted, screening and thyroidectomy rates fell sharply — the follow-up in the same journal was titled "Turning the Tide." Whether the pullback carried its own cost in missed aggressive disease is contested and the data is observational. [Ahn HS, Welch HG. "South Korea's Thyroid-Cancer 'Epidemic' — Turning the Tide." *N Engl J Med* 2015. The post-pullback mortality question needs a current source before this sentence can say anything stronger.]
 
 So the honest read isn't that screening won or that screening lost. It's that building the right threshold is real, ongoing, expensive work rather than something that materializes the moment the data shows up. I had been treating threshold-building as a footnote to the abundance argument. Korea says it's the main event.
 
@@ -40,7 +40,7 @@ So the honest read isn't that screening won or that screening lost. It's that bu
 
 The reason I still land where I land is that the ledger has a second column, and medicine is much worse at reading it.
 
-In 2012 the US Preventive Services Task Force recommended against routine PSA screening for prostate cancer at any age, largely over overdiagnosis and overtreatment — the same logic now aimed at whole-body scanning. Screening dropped sharply. In the years following, multiple independent analyses found metastatic and high-grade prostate cancer rising at diagnosis, and prostate-cancer mortality, which had been falling for two decades, flattening or turning back upward. The Task Force walked the recommendation partway back in 2018. [Cite: USPSTF 2012 and 2018 statements; verify the incidence and mortality analyses]
+In 2012 the US Preventive Services Task Force recommended against routine PSA screening for prostate cancer at any age, largely over overdiagnosis and overtreatment — the same logic now aimed at whole-body scanning. Screening dropped sharply. In the years following, multiple analyses found higher-stage disease and rising metastatic prostate cancer at diagnosis. Mortality, which had been falling for two decades, flattened. The Task Force revised the recommendation in 2018 to shared decision-making for men aged 55 to 69. [USPSTF 2012 and 2018 recommendation statements; *JAMA Netw Open* 2022 on the grade D recommendation and prostate-cancer-specific mortality. Note: mortality flattened rather than rose, and no causal relationship has been established — the association is real, the mechanism inferred.]
 
 The evidence there is mostly observational rather than a randomized smoking gun, and I won't oversell it. But the direction and the timing line up closely enough to take seriously the proposition that excess caution kills people too, and that its victims are just as real as the woman who had an unnecessary thyroidectomy — only harder to count, because nobody writes a case report about a diagnosis that was never made.
 

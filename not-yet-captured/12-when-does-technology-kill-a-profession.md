@@ -18,7 +18,7 @@ In 1865, William Stanley Jevons noticed something that should have been impossib
 
 The ATM is the modern textbook case. When automated teller machines spread through the 1980s and 1990s, the obvious prediction was fewer tellers. The machine handled deposits, withdrawals, balance checks — the core of the job. And per branch, the prediction held: the average urban branch needed about twenty-one tellers in 1988 and about thirteen by 2004.
 
-But the number of bank tellers in the United States roughly doubled over that longer period, from 268,000 in 1970 to 608,000 by 2006. Cheaper branches meant more branches. More branches meant more tellers, even at lower headcount per location. Jevons won. [Cite: Bessen, *Learning by Doing*; BLS historical series]
+But total teller employment *rose* over that period. James Bessen's work on this puts it at roughly 500,000 in the early 1980s to nearly 600,000 by 2010, across a stretch when some 400,000 ATMs were installed nationwide. Cheaper branches meant more branches — urban branch counts rose about 43 percent — and more branches meant more tellers even at lower headcount per location. Jevons won. [Bessen, *Learning by Doing*, and his 2015 IMF *Finance & Development* essay. Figures vary by series; some retellings cite a larger increase using a different employment measure, so use Bessen's numbers rather than the doubled-from-268,000 version that circulates.]
 
 Which produces the comfortable conclusion that technology doesn't kill jobs, it creates them.
 
@@ -44,7 +44,7 @@ The radiologist who only reads scans is the teller whose only job was counting c
 
 Jevons requires an elastic market. Lower cost has to unlock new demand rather than just make existing demand cheaper to serve. This is where the two banking stories diverge most sharply.
 
-ATMs made branches cheaper to run and banks responded by opening more of them — urban branch density rose forty-three percent between 1988 and 2004. More branches, more customers, more complex transactions, more need for judgment at the window. The efficiency gain grew the pie and kept humans inside it.
+ATMs made branches cheaper to run and banks responded by opening more of them — urban branch counts rose roughly forty-three percent over the period. More branches, more customers, more complex transactions, more need for judgment at the window. The efficiency gain grew the pie and kept humans inside it.
 
 Mobile banking also made transactions dramatically cheaper. But it didn't generate more banking activity requiring human presence; it routed existing activity away from the places humans worked. The gain went to consumers and to margins, and it shrank the institutional context those jobs depended on.
 

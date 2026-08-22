@@ -105,6 +105,7 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 
 | # | Title | Status | Target | Words |
 | --- | --- | --- | ---: | ---: |
+| 00 | Author's Note | revising | — | 506 |
 | 01 | Not Yet Captured | revising | 4,000 | 1,538 |
 | 02 | What Business Taught Me That Medical School Never Could | revising | 3,500 | 1,252 |
 | 03 | What I Got Wrong | revising | 5,000 | 1,917 |
@@ -122,10 +123,18 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 15 | Capitalism vs. Humanitarianism Is a False Choice | revising | 3,500 | 1,234 |
 | 16 | The Pattern Problem | revising | 4,500 | 1,545 |
 | 17 | What I'd Change | revising | 5,500 | 1,741 |
-| | **Total** | | **76,500** | **30,078** |
+| 18 | Epilogue: What Has Already Changed | revising | — | 1009 |
+| | **Total** | | **76,500** | **31,728** |
 
-**In progress:** Waves 1–3 complete — 10 of 17 chapters drafted (5, 6, 7, 8, 9,
-10, 11, 12, 13, 17) at 20,017 words. All of Part Two now exists. Chapters are
-running roughly half of target; see `writing-plan.md` §1 — the gap closes with
-scenes and verified sources, not by inflating prose. **Next:** Wave 4 (Ch3,
-Ch2, Ch4, Ch14, Ch15, Ch16), then Ch1 and the revision pass.
+**All 17 chapters plus author's note and epilogue drafted** — 31,728 words.
+Every piece is a complete argument in continuous prose. The manuscript is
+roughly 41% of the word target and about 102 pages at 6"×9", so it does not
+yet meet the 200-page floor. See `writing-plan.md` §1: that gap closes with
+the marked scenes and verified citations, not by inflating prose.
+
+**Citation status:** see `reference/sources.md`. Three claims verified, two
+corrected where the draft overstated evidence, 21 bracketed markers still
+unverified.
+
+**Next:** finish citation verification, then the revision pass and the scene
+list.
