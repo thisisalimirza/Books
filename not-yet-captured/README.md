@@ -1,7 +1,7 @@
 # Not Yet Captured
 
 **Working subtitle:** A Physician-in-Training's Case Against Medicine's Scarcity Mindset
-**Status:** outlining
+**Status:** drafting complete / revising
 **Started:** 2026-08-22
 **Target length:** ~76,500 words / 17 chapters → ~250pp at 6"×9" (see `publishing.md`)
 
@@ -105,24 +105,24 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 
 | # | Title | Status | Target | Words |
 | --- | --- | --- | ---: | ---: |
-| 01 | Not Yet Captured | planned | 4,000 | — |
-| 02 | What Business Taught Me That Medical School Never Could | planned | 3,500 | — |
-| 03 | What I Got Wrong | planned | 5,000 | — |
-| 04 | Turn the Volume Up, Doctor | planned | 4,000 | — |
-| 05 | Why Healthcare Feels Broken | revising | 4,000 | 1,222 |
-| 06 | Scarcity as Virtue | revising | 6,000 | 3,654 |
-| 07 | The Steelman | revising | 5,000 | 2,151 |
-| 08 | What $300,000 in Education Failed to Teach Me | revising | 4,000 | 1,532 |
-| 09 | The Compression Loss Problem | revising | 5,500 | 2,078 |
-| 10 | What a $1 MRI Would Actually Tell You | revising | 3,500 | 1,106 |
-| 11 | On the Midjourney Whole-Body Ultrasound Scanner | revising | 4,500 | 2,245 |
-| 12 | When Does Technology Kill a Profession | revising | 5,500 | 2,697 |
-| 13 | Psychiatry and the Double Moat | revising | 4,000 | 1,607 |
-| 14 | The Wedge | planned | 4,500 | — |
-| 15 | Capitalism vs. Humanitarianism Is a False Choice | planned | 3,500 | — |
-| 16 | The Pattern Problem | planned | 4,500 | — |
-| 17 | What I'd Change | revising | 5,500 | 1725 |
-| | **Total** | | **76,500** | **20,017** |
+| 01 | Not Yet Captured | revising | 4,000 | 1,538 |
+| 02 | What Business Taught Me That Medical School Never Could | revising | 3,500 | 1,252 |
+| 03 | What I Got Wrong | revising | 5,000 | 1,917 |
+| 04 | Turn the Volume Up, Doctor | revising | 4,000 | 1,293 |
+| 05 | Why Healthcare Feels Broken | revising | 4,000 | 1,230 |
+| 06 | Scarcity as Virtue | revising | 6,000 | 3,674 |
+| 07 | The Steelman | revising | 5,000 | 2,166 |
+| 08 | What $300,000 in Education Failed to Teach Me | revising | 4,000 | 1,542 |
+| 09 | The Compression Loss Problem | revising | 5,500 | 2,090 |
+| 10 | What a $1 MRI Would Actually Tell You | revising | 3,500 | 1,113 |
+| 11 | On the Midjourney Whole-Body Ultrasound Scanner | revising | 4,500 | 2,263 |
+| 12 | When Does Technology Kill a Profession | revising | 5,500 | 2,719 |
+| 13 | Psychiatry and the Double Moat | revising | 4,000 | 1,621 |
+| 14 | The Wedge | revising | 4,500 | 1,140 |
+| 15 | Capitalism vs. Humanitarianism Is a False Choice | revising | 3,500 | 1,234 |
+| 16 | The Pattern Problem | revising | 4,500 | 1,545 |
+| 17 | What I'd Change | revising | 5,500 | 1,741 |
+| | **Total** | | **76,500** | **30,078** |
 
 **In progress:** Waves 1–3 complete — 10 of 17 chapters drafted (5, 6, 7, 8, 9,
 10, 11, 12, 13, 17) at 20,017 words. All of Part Two now exists. Chapters are
