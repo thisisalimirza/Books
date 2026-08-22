@@ -110,7 +110,7 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 03 | What I Got Wrong | planned | 5,000 | — |
 | 04 | Turn the Volume Up, Doctor | planned | 4,000 | — |
 | 05 | Why Healthcare Feels Broken | planned | 4,000 | — |
-| 06 | Scarcity as Virtue | drafting | 6,000 | — |
+| 06 | Scarcity as Virtue | drafting | 6,000 | 3,441 |
 | 07 | The Steelman | planned | 5,000 | — |
 | 08 | What $300,000 in Education Failed to Teach Me | planned | 4,000 | — |
 | 09 | The Compression Loss Problem | planned | 5,500 | — |
@@ -122,7 +122,10 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 15 | Capitalism vs. Humanitarianism Is a False Choice | planned | 3,500 | — |
 | 16 | The Pattern Problem | planned | 4,500 | — |
 | 17 | What I'd Change | planned | 5,500 | — |
-| | **Total** | | **76,500** | **0** |
+| | **Total** | | **76,500** | **3,441** |
 
-**Next:** draft Ch6 (`06-scarcity-as-virtue.md`). Drafting order is not
-chapter order — see `writing-plan.md` §2.
+**In progress:** Ch6 has a complete first pass at 3,441 words against a 6,000
+target. It needs the pulse-oximetry and liquid-biopsy cases carried further,
+one marked scene from rotations, and citation verification. **Next:** finish
+Ch6, then Ch7 (the steelman), then Ch17. Drafting order is not chapter order —
+see `writing-plan.md` §2.
