@@ -16,7 +16,8 @@ Books/
 │   ├── 02-chapter-title.md
 │   ├── ...
 │   └── reference/              # research, interviews, sources, images
-└── policy-patient/              # nonfiction, health policy + patient harm
+├── policy-patient/              # nonfiction, health policy + patient harm
+└── not-yet-captured/            # physician-in-training's case against medicine's scarcity mindset
 ```
 ```
 
