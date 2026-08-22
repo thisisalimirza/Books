@@ -1,175 +1,392 @@
 # Outline
 
-Each entry says what the chapter *argues*, not just what it's about, and
-names the seed essay(s) it grows from in `providence/substack-essays/`
-(post-id.slug.md). "Seed: none" means the chapter is needed for the
-argument's structure but hasn't been written in any form yet.
+14 chapters, four parts, ~59,500 words.
 
-## Part One — The Vantage Point
+Each entry states what the chapter **argues** (not what it's about), names its
+seed essay(s) in `providence/substack-essays/`, and gives a word target.
+"Seed: none" means the chapter is structurally required but has no existing
+draft in any form.
 
-Establishes who's telling this story and why the angle is load-bearing, not
-just a bio detail.
-
-### 01 — Not Yet Captured
-
-- **Does:** opens the book on the mechanism itself — why almost every
-  physician loses the ability to see medicine's culture as a set of choices,
-  and why this particular writer, for a narrow window, hasn't yet
-- **Covers:** the M1-year classroom moment where a room of students voted
-  *more* pro-whole-body-MRI after 90 minutes of being taught the dangers of
-  overdiagnosis — reframed as the book's central image
-- **Seed:** `189806602.why-i-write-this.md` (origin/framing), plus the
-  classroom anecdote opening `180503036.why-is-medicine-so-anti-abundance.md`
-- **Ends on:** the promise the rest of the book keeps — specific,
-  fixable things, not a general complaint
-
-### 02 — What Business Taught Me That Medical School Never Could
-
-- **Does:** makes the outsider-vantage concrete — the specific habits of
-  mind (diagnosing incentive structures, treating "that's just how it's
-  done" as a claim to test, not a fact) that running a business first
-  actually installs, and that medical training doesn't teach and sometimes
-  actively discourages
-- **Covers:** the identify-the-problem vs. solve-the-problem contrast between
-  med school and business
-- **Seed:** `166861903.what-business-taught-me-that-medical-school-never-could.md`
-- **Ends on:** setting up Part Two's case-by-case diagnosis
-
-### 03 — Build, Destroy, Build Again
-
-- **Does:** a personal/family-history interlude — uses the writer's own
-  ancestor's building-and-tearing-down parable as a lens on ambition,
-  legacy, and why "just build something that lasts" is harder and rarer
-  than it sounds, grounding the book's stakes in something older than
-  the writer's own career
-- **Seed:** `186463840.the-man-who-built-and-destroyed.md`
-- **Ends on:** the personal stakes of writing this book instead of just
-  practicing medicine quietly
-
-## Part Two — The Diagnosis: Scarcity as Virtue
-
-The book's central argument, built case by case.
-
-### 04 — Why Healthcare Feels Broken and How
-
-- **Does:** lays out the misaligned-incentives thesis that every later
-  chapter is an instance of — patients, physicians, and institutions
-  optimizing for different, non-overlapping things
-- **Covers:** documentation-for-billing as the concrete running example
-- **Seed:** `166867592.why-healthcare-feels-broken-and-how.md`
-- **Ends on:** the claim that misalignment is designed, not inevitable —
-  which sets up "so what specifically got designed wrong"
-
-### 05 — Why Is Medicine So Anti-Abundance (the book's title essay)
-
-- **Does:** the core chapter — names the scarcity-as-virtue reflex directly,
-  traces where it came from (training trauma, legitimate bad experiences,
-  payment models, status games), and makes the data/action distinction that
-  the whole book's thesis rests on
-- **Covers:** CGMs, whole-body MRI, genetic sequencing, patient data access;
-  includes the built-in rebuttals-and-responses structure already drafted
-- **Seed:** `180503036.why-is-medicine-so-anti-abundance.md` (longest,
-  most fully-argued essay in the archive — likely needs to be *split*
-  across two chapters rather than compressed into one)
-- **Ends on:** "training trauma becomes identity, not just technique" —
-  the personal cost of the reflex, not just the systemic one
-
-### 06 — What $300,000 in Education Failed to Teach Me
-
-- **Does:** narrows from culture to a specific literacy failure — the
-  difference between "statistically significant" and "clinically
-  meaningful" that four years of paid-for undergraduate education never
-  once surfaced, and what that gap costs patients downstream
-- **Seed:** `185752867.what-300000-in-education-failed-to.md`
-- **Ends on:** trust — if the training itself has this gap, what else does
-
-### 07 — What a $1 MRI Would Actually Tell You
-
-- **Does:** a reasoning-tools chapter — teaches the reader (via a concrete,
-  almost puzzle-like example) how to read price and access signals in
-  healthcare correctly, as a skill the rest of the book's arguments depend
-  on the reader having
-- **Seed:** `166861902.what-a-1-mri-would-actually-tell-you.md`
-- **Ends on:** the reframe that cheaper/more-accessible isn't automatically
-  better for patients — setting up Part Three's specific technology fights
-
-## Part Three — Case Studies in Institutional Lag
-
-Concrete, named fights over specific technologies, each an instance of
-Part Two's abstract pattern.
-
-### 08 — On the Midjourney Whole-Body Ultrasound Scanner
-
-- **Does:** a live, real-time case study — watching physicians publicly
-  react to a new diagnostic technology in real time, and being embarrassed
-  by his own professional community's reflexive dismissal
-- **Seed:** `202973675.on-the-midjourney-whole-body-ultrasound.md`
-- **Ends on:** "cheap and harmless first, sharp and invasive only for what
-  the cheap stuff flags" — medicine's own stated logic, selectively applied
-
-### 09 — Turn the Volume Up, Doctor
-
-- **Does:** contrasts the entrepreneurial permission structure ("turn the
-  volume up on who you already are") against medicine's default suppression
-  of individual judgment in favor of protocol — and asks what's actually
-  being protected by that suppression
-- **Seed:** `206490675.turn-the-volume-up-doctor.md`
-- **Ends on:** the cost of the suppression to the exact humanistic, present
-  qualities medicine claims to select for
-
-### 10 — It's Really Not Clocking for People
-
-- **Does:** documents the specific failure mode of otherwise-smart people
-  (including physicians) underestimating a fast-moving technology because
-  their mental model is frozen at an earlier version of it — a pattern this
-  book argues is structurally the same failure as the CGM/MRI resistance
-- **Seed:** `207981486.its-really-not-clocking-for-people.md`
-- **Ends on:** why this failure mode is forgivable individually and
-  dangerous institutionally
-
-### 11 — Psychiatry and the Double Moat
-
-- **Does:** the deliberate counter-chapter — argues some of medicine's
-  resistance to disruption is *correct*, using psychiatry's genuinely
-  irreducible human element as the test case, so the book's thesis doesn't
-  collapse into "all resistance is bad"
-- **Seed:** `198415080.psychiatry-and-the-double-moat-why.md`
-- **Ends on:** the actual dividing line between load-bearing caution and
-  scarcity-as-reflex — the book's most important nuance, placed deliberately
-  near the end of the case studies
-
-## Part Four — Money and Whom Medicine Actually Serves
-
-### 12 — Capitalism vs. Humanitarianism in Medicine Is a False Choice
-
-- **Does:** takes on the framing that patients hear constantly — that
-  caring about money and caring about patients are opposed — and argues
-  the real fault line is somewhere else entirely
-- **Seed:** `166861911.capitalism-vs-humanitarianism-in-medicine-is-a-false-choice.md`
-- **Ends on:** reframing "physician-entrepreneur" from a conflict of
-  interest to the actual leverage point for fixing what's broken
-
-## Part Five — What Would Actually Change It
-
-### 13 — What This Looks Like From the Patient's Chair
-
-- **Does:** the synthesis chapter — translates every prior diagnosis back
-  into what a patient actually experiences and could concretely demand;
-  written for the book's stated audience (how healthcare is *perceived by
-  patients*), not for other physicians
-- **Seed:** none yet — needs to be written fresh, likely the chapter this
-  book's argument has been building toward the whole time
-- **Ends on:** the book's closing claim and, potentially, a direct bridge
-  into Policy Patient's index for readers who want the systems-level version
+**Read `writing-plan.md` alongside this.** That file holds the drafting order,
+the anecdote ledger (which chapter owns which story — several essays reuse the
+same anecdotes and the ledger prevents telling one twice), the expansion
+playbook, and the open research gaps.
 
 ---
 
-## Candidates held back, deliberately
+## Part One — The Vantage Point
 
-Essays that are strong but general-ambition/business pieces rather than
-specific to this book's medicine argument (`the-fragmentation-of-ambition`,
-`what-are-you-actually-trying-to-do`, `things-i-would-tell-my-younger-self`,
-`the-pattern-problem-and-the-2-questions`, etc.) stay in
-`providence/substack-essays/` as personal essays rather than getting pulled
-in here. The whole point of "pointed and specific" is saying no to material
-that's merely adjacent.
+Four chapters establishing who is speaking, what they can see that colleagues
+can't, what they've already gotten wrong, and why they're speaking at all.
+This part has to earn the reader's trust before Part Two spends it.
+
+### 01 — Not Yet Captured
+
+- **Argues:** every physician eventually loses the ability to see medicine's
+  culture as a set of *choices* rather than facts, because nearly all of them
+  enter knowing nothing else — and the narrator is writing from inside the
+  narrow, closing window before that happens to him.
+- **Central scene:** the M1 classroom. Professor asks who'd take a free
+  whole-body MRI; half the hands go up. Ninety careful minutes on
+  overdiagnosis follow. Second vote: *more* hands. The professor's face; the
+  quiet, honest laughter. That image is the whole book in miniature —
+  the gap between what medicine teaches and what people, including its own
+  trainees, actually conclude.
+- **Also covers:** four countries before middle school (Pakistan, Lebanon,
+  Kenya, America) as the origin of the inability to believe any single set of
+  rules is the only possible set; messaging the imaging-company executive
+  directly from the back of that classroom.
+- **Seed:** `180503036.why-is-medicine-so-anti-abundance.md` (opening scene
+  only — the argument itself belongs to Ch6), `189806602.why-i-write-this.md`
+  (biography and framing)
+- **Ends on:** the promise — specific and fixable, not a general complaint.
+  And the clock: this book has an expiration date built into it.
+- **Words:** 4,000
+
+### 02 — What Business Taught Me That Medical School Never Could
+
+- **Argues:** the outsider advantage isn't attitude, it's a specific and
+  teachable set of habits — read the incentive before the stated reason,
+  treat "that's how it's done" as a claim to be tested, follow the money to
+  the behavior. Medical training doesn't install these and sometimes selects
+  against them.
+- **Covers:** med school trains you to *identify* a problem, business trains
+  you to *solve* one; the agency shut down at 65% annual compounding to come
+  to medical school.
+- **Seed:** `166861903.what-business-taught-me-that-medical-school-never-could.md`
+- **Ends on:** handing the reader the analytical toolkit the rest of the book
+  will use on medicine.
+- **Words:** 3,500
+
+### 03 — What I Got Wrong
+
+- **Argues:** the vantage point is real but it is not superior — placed
+  deliberately *before* the critique, so the reader meets a narrator who
+  audits his own predictions before auditing his profession's.
+- **Covers, from the seed essay:** thinking he could run the agency through
+  med school; assuming med school wouldn't actually be hard (it is — his
+  classmates have "superhuman" recall); the romanticized Osler-and-Avicenna
+  vision meeting the reality of social determinants; the guilty secret that
+  lifestyle beats most medicine, and how psychiatry rotations complicated it;
+  and the two most important entries —
+  - **the capture mechanism, first-person:** arriving with the founder's
+    conviction that nobody is watching you, and discovering that in medicine
+    everybody is, that he now "represented an institution, a profession" —
+    the tall poppy, the peacock. This is the book's thesis happening *to* the
+    narrator, and it's why Ch1's window is genuinely closing.
+  - **institutional lag, first-person:** the claim-denial prediction MVP built
+    in a weekend, walked to the CEO's office, routed to the SVP of Billing,
+    never answered again. Healthcare as the slowest sales cycle he'll ever
+    encounter — learned by losing, not by theorizing.
+- **Seed:** `197099017.what-i-got-wrong.md`
+- **Ends on:** "you don't need to be an insider if you're a relentless
+  outsider" — and the harder corollary, that insider access substitutes for
+  none of the work.
+- **Words:** 4,500
+
+### 04 — Turn the Volume Up, Doctor
+
+- **Argues:** medicine trains physicians into public silence as a
+  risk-management reflex, and that silence is not neutral — it hands the
+  public square to people with no clinical training and total mastery of the
+  volume knob. Invisibility is a dereliction, not an ethic. This chapter is
+  the book's own permission slip.
+- **Covers:** Sam Parr's trainer ("you are the product... turn the volume
+  knob up") and why that lands as a green light for founders and a threat to
+  physicians; Joel Bervell warned by advisors to "think twice" about
+  publicizing racial bias in pulse oximetry — where the objection was never
+  accuracy, only visibility; the institutional-silence → information-vacuum →
+  wellness-grift chain; the Clinical Alignment Test and the Performance
+  Filter as a workable replacement for vague professionalism norms.
+- **Absorbs:** `174110945.the-blue-link-and-the-backseat.md` — hyperlinks are
+  blue because one man liked blue. Culture is built by people who asserted a
+  preference; the backseat is a choice dressed as humility.
+- **Seed:** `206490675.turn-the-volume-up-doctor.md` +
+  `174110945.the-blue-link-and-the-backseat.md`
+- **Ends on:** the credentials were meant as a foundation, not a shield —
+  which is the justification for every chapter that follows.
+- **Words:** 4,000
+
+---
+
+## Part Two — The Diagnosis: Scarcity as Virtue
+
+The book's central argument, built from general frame to specific mechanism
+to the reasoning tool the reader needs for Part Three.
+
+### 05 — Why Healthcare Feels Broken
+
+- **Argues:** healthcare isn't randomly dysfunctional, it's *predictably*
+  dysfunctional — patients, physicians, and institutions each optimize for
+  goals that are individually reasonable and jointly incompatible. Every
+  later chapter is an instance of this one.
+- **Covers:** documentation-for-billing as the running example — hospitals
+  need defensible codes, physicians aren't paid to document, patients get a
+  doctor facing a screen; the four realignments (volume→value, physician
+  autonomy, technology built for care rather than billing, price and outcome
+  transparency).
+- **Seed:** `166867592.why-healthcare-feels-broken-and-how.md`
+- **Ends on:** misalignment is a design problem, not destiny — human-designed
+  therefore human-changeable. Which forces the question Ch6 answers: what,
+  specifically, got designed wrong?
+- **Words:** 4,000
+
+### 06 — Scarcity as Virtue
+
+The book's title chapter and central argument. Split from its seed essay,
+which is 4,543 words and carries two distinct modes — the diagnosis lives
+here, the self-adversarial defense lives in Ch7.
+
+- **Argues:** medicine has internalized scarcity as a virtue and now applies
+  intervention-logic to information-gathering, which are different categories
+  requiring different heuristics. **Abundance of data is usually good;
+  abundance of action is often bad.** Conflating them is where the damage
+  happens — and it's a trained reflex, not a law of nature.
+- **Covers:** why doctors learned to say no (the impressive attending needs
+  *fewer* data points; parsimony as demonstrated competence — which is
+  correct as far as it goes); the four reasons the reflex outlives its
+  original constraint — training trauma, genuinely bad experiences, payment
+  models frozen at old economics, and status games; the constraint
+  disappearing while the mentality persists (CGMs dismissed as "too much
+  data" until they became standard of care; collapsed sequencing costs still
+  behind specialist gatekeeping; patient access to their own data still
+  treated as hazardous); the processing problem — abundance at the collection
+  layer, extreme scarcity at the interpretation layer, which is an
+  infrastructure gap rather than a fundamental limit; the risk reframe from
+  "what's the harm of this test?" to "what's the harm of *not* having this
+  information?"
+- **Seed:** `180503036.why-is-medicine-so-anti-abundance.md` (main argument;
+  the opening classroom scene has gone to Ch1, the post-mortem to Ch7)
+- **Ends on:** scarcity mentality is *load-bearing* for quality in the current
+  system — you can't simply remove it without replacing its function. Which
+  is the honest problem Ch7 has to face.
+- **Words:** 5,500
+
+### 07 — The Steelman
+
+- **Argues:** the strongest objections to Ch6 deserve to be stated in their
+  best form and answered on the merits — because a book making this argument
+  from a second-year's vantage point has to out-argue the "you'll understand
+  when you've seen more" dismissal rather than assert past it.
+- **Covers, each stated at full strength before response:** incidentalomas
+  and the documented net harm of aggressive screening in asymptomatic
+  populations; the CGM analogy not transferring (clear actionable thresholds
+  vs. an absent evidence base); the false-positive math in low-prevalence
+  screening; "first do no harm" as a genuine principle rather than a
+  rhetorical shield. Responses turn on the asymmetry — harms of false
+  positives get carefully quantified while harms of missed diagnoses stay
+  invisible; protocol-design failures get misread as inherent properties of
+  information; absence of evidence gets treated as evidence of absence, and
+  the resulting Catch-22 blocks the very studies that would settle it.
+- **Seed:** `180503036.why-is-medicine-so-anti-abundance.md` (post-mortem
+  section, already drafted as rebuttals-and-responses)
+- **Ends on:** the burden of proof should be symmetrical. That's the whole
+  ask — not reckless adoption.
+- **Words:** 4,500
+
+### 08 — What $300,000 in Education Failed to Teach Me
+
+- **Argues:** the scarcity reflex isn't the only thing training installs
+  badly — it also produces clinicians and citizens who can detect whether an
+  effect is *real* without ever being taught to ask whether it *matters*.
+- **Owns:** the biostatistics lecture. Professor notes in passing that
+  statistical significance tells you an effect exists and clinical
+  significance tells you if it matters, then moves to the next slide.
+  Classmates keep writing. Narrator's hand freezes. He approaches after
+  class: "that's the most important thing you said today, isn't it?" — "I
+  hope so. I try to emphasize it." — "I don't think it landed."
+  **This anecdote appears in two source essays; it belongs to this chapter
+  alone.**
+- **Covers:** the 10,000-participant supplement trial that proves 0.8 pounds;
+  sample size and detectable effect size as inversely related, so with enough
+  n you can prove almost anything does *something*; Number Needed to Treat as
+  the question that actually matters (strep antibiotics ≈ 4, aspirin during
+  MI ≈ 40, statins for primary prevention ≈ 100–300) and what it means that
+  all of these are "statistically significant"; why the mechanics crowd out
+  the judgment — you can test whether a student computes a p-value, not
+  whether they can weigh what a finding is worth.
+- **Seed:** `185752867.what-300000-in-education-failed-to.md`
+- **Ends on:** trust. If training has *this* gap, the reader should want to
+  know what else it has — which is the rest of the book.
+- **Words:** 4,000
+
+### 09 — What a $1 MRI Would Actually Tell You
+
+- **Argues:** a reasoning-tools chapter. Cheaper and more accessible is not
+  automatically better for patients, and the reader needs to be able to read
+  price and access signals correctly before Part Three's technology fights
+  make sense.
+- **Covers:** price as a signal of scarcity and *relative* value rather than
+  cost; why production-cost savings alone wouldn't drive an MRI to $1 (a
+  still-dominant tool keeps its margin); what would — superior alternatives
+  displacing it; therefore a $1 MRI is evidence the MRI has been *surpassed*,
+  not that patients are better served by it; updating priors as the general
+  skill, with the magnitude of a price collapse as evidence of the size of
+  the gap.
+- **Seed:** `166861902.what-a-1-mri-would-actually-tell-you.md`
+- **Ends on:** the transferable question — *what conditions must be true to
+  produce this outcome?* — which is the analytical move every Part Three
+  chapter runs.
+- **Words:** 3,500
+
+---
+
+## Part Three — Case Studies in Institutional Lag
+
+Three chapters. The pattern from Part Two, tested against specific fights,
+with the third deliberately arguing the other way.
+
+### 10 — On the Midjourney Whole-Body Ultrasound Scanner
+
+- **Argues:** a live case study in the reflex — an image-generation company
+  ships a whole-body ultrasound prototype, radiologists dunk within hours,
+  and the narrator's first reaction is embarrassment at his own profession
+  rather than skepticism of the device.
+- **Covers:** what the thing actually is and isn't (licensed
+  ultrasound-on-chip hardware, "general wellness" positioning, no FDA
+  clearance for diagnosis, and the "Ultrasonic CT" marketing that is simply
+  nonsense — the chapter should concede the hype honestly before defending
+  the direction); the real argument — medicine's own logic is cheap and
+  harmless first, sharp and invasive only for what the cheap stuff flags, and
+  the profession applies it selectively; the missing intermediate rungs
+  between a calcium score and an angiogram, between finding a growth and
+  knowing whether it matters.
+- **Absorbs:** the one durable point from
+  `207981486.its-really-not-clocking-for-people.md` — that institutions
+  evaluate a fast-moving technology against a frozen mental model of an
+  earlier version of it. One or two paragraphs, not a chapter.
+- **Seed:** `202973675.on-the-midjourney-whole-body-ultrasound.md`
+- **Ends on:** the profession invented the escalation ladder it's now
+  refusing to extend.
+- **Words:** 4,500
+
+### 11 — When Does Technology Kill a Profession
+
+- **Argues:** the load-bearing framework chapter — three conditions determine
+  whether a technology destroys a profession or expands it, and applying them
+  to radiology-and-AI predicts *increased* demand, not obsolescence. Gives
+  the book a general instrument rather than a series of one-off opinions.
+- **Covers:** the group-chat argument that started it (a hospital-system CEO
+  announcing readiness to replace radiologists with AI; the narrator's
+  contrarian reply that this raises radiologist demand and pay); the three
+  conditions, developed properly; the historical test cases the essay already
+  reaches for — ATMs and bank tellers, the iPhone, cardiac surgery — plus
+  induced-demand dynamics.
+- **Seed:** `192809169.when-does-technology-kill-a-profession.md`
+- **Ends on:** the framework, stated cleanly enough that a reader can run it
+  on their own field — and pointed directly at Ch12, which runs it on
+  psychiatry and gets the opposite answer.
+- **Words:** 5,000
+
+### 12 — Psychiatry and the Double Moat
+
+- **Argues:** the deliberate counter-chapter. Some of medicine's resistance
+  is *correct*, and the book has to say where — otherwise "scarcity is a
+  reflex" collapses into "all caution is wrong," which is both false and
+  easy to dismiss.
+- **Covers:** the voice note recorded on the way to a psychiatry rotation;
+  the double moat — regulatory (prescription rights, controlled-substance
+  authority, licensure, malpractice liability) plus the irreducibly human
+  (transference, genuine presence, someone with actual skin in the game when
+  a person is in crisis); why the centaur model dilutes rather than augments
+  where work is relational and stakes are unbounded; the irony that AI likely
+  *increases* psychiatric demand — decision paralysis, meaning collapse,
+  status anxiety as old markers of worth compress faster than identities
+  adapt; and, kept from the seed essay, the explicit falsifiability section:
+  what would make this thesis wrong.
+- **Seed:** `198415080.psychiatry-and-the-double-moat-why.md`
+- **Ends on:** the dividing line the whole book has been circling — caution
+  that is load-bearing versus caution that is reflex. **This is the book's
+  most important nuance and its placement is deliberate.**
+- **Words:** 4,000
+
+---
+
+## Part Four — Whom Medicine Actually Serves
+
+### 13 — Capitalism vs. Humanitarianism Is a False Choice
+
+- **Argues:** the dichotomy — you either care or you capitalize — is wrong
+  and is itself blocking repair. Profit isn't inherently corrupting; the
+  *design* is broken, and aligning it so the right thing is also the
+  profitable thing is a design challenge that only gets solved when
+  principled people are willing to build.
+- **Covers:** what each camp gets right (capital scales what works from one
+  hospital to a thousand; humanitarianism insists healthcare isn't merely a
+  market) and where each fails (extraction on one side; on the other, moral
+  clarity with no infrastructure, and the idolizing of clinician sacrifice
+  while ignoring the systems doing the burning).
+- **Also does necessary work for the book:** this is where the narrator's own
+  commercial interest gets addressed in the open rather than left as an
+  unanswered objection.
+- **Seed:** `166861911.capitalism-vs-humanitarianism-in-medicine-is-a-false-choice.md`
+- **Ends on:** medicine needs architects rather than heroes or hustlers.
+- **Words:** 3,500
+
+### 14 — What This Looks Like From the Patient's Chair
+
+- **Argues:** the synthesis and the payoff — translating every prior
+  diagnosis into what a patient actually experiences, and what they can
+  concretely ask for. Written for patients, not for physicians.
+- **Must deliver:** the specific, addressable things that would change how
+  American healthcare is *perceived by patients* — the book's stated purpose.
+  Data access and the right to one's own information; what to ask when told a
+  test isn't necessary; how to read "statistically significant" in a
+  headline or a consent conversation; what a realigned incentive would feel
+  like from the chair rather than the boardroom.
+- **Seed:** none. **This chapter has no existing draft and carries the
+  book's ending.** See `writing-plan.md` → Research gaps; it also needs
+  patient material the archive does not currently contain.
+- **Ends on:** the closing claim, plus an optional bridge to *Policy Patient*
+  for readers who want the systems-level version of the same argument.
+- **Words:** 5,000
+
+---
+
+## Front matter
+
+**Epigraph candidate:** the Asaf ud-Daulah parable from
+`186463840.the-man-who-built-and-destroyed.md` — the narrator's
+great-great-great-grandfather, Nawab of Oudh, responding to the 1784 famine
+by employing 20,000 people to build the Bara Imambara, with a second crew
+hired every fourth night to tear down what the first had built. Build,
+destroy, build again.
+
+Demoted from a chapter deliberately: it's a strong piece but it isn't about
+medicine's scarcity mindset, and this book's whole discipline is refusing
+material that's merely adjacent. As an epigraph it does real work — work that
+looks like progress, institutions that consume effort without accumulating
+it — without costing a chapter.
+
+---
+
+## Held back, deliberately
+
+The archive has ~51 essays. This book uses 13. That ratio is the point.
+
+**Cut from an earlier draft of this outline:**
+
+- **`207981486.its-really-not-clocking-for-people.md`** — reads as a
+  stream-of-consciousness reaction to a viral LinkedIn post about AI
+  capability in general; physicians get one passing mention. Its durable
+  point (institutions judging a technology by a frozen mental model) is
+  absorbed into Ch10. Ch11 now covers the AI-and-professions ground far
+  better.
+- **`186463840.the-man-who-built-and-destroyed.md`** — demoted to epigraph,
+  per above.
+
+**Strong essays deliberately left in Providence** as personal/general work:
+`166861908.the-fragmentation-of-ambition.md`,
+`166864846.what-are-you-actually-trying-to-do.md`,
+`166871908.things-i-would-tell-my-younger-self.md`,
+`180051552.the-pattern-problem-and-the-2-questions.md`,
+`166873246.what-poverty-really-means.md`,
+`166861914.why-good-people-need-to-control-more-capital.md` (adjacent to Ch13
+but broader than medicine),
+`180897054.the-compression-loss-problem-how.md` (the archive's longest essay
+and one the narrator rates highly, but it's epistemology of reading, not
+medicine),
+`194914425.pendulums-run-the-world.md` (the intervene-vs-let-be tension; a
+possible paragraph in Ch12, not a chapter),
+`199676170.the-open-screen.md` (AI's promised ease vs. real complexity;
+possible support for Ch6's processing problem).

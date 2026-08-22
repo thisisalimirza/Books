@@ -3,88 +3,115 @@
 **Working subtitle:** A Physician-in-Training's Case Against Medicine's Scarcity Mindset
 **Status:** outlining
 **Started:** 2026-08-22
-**Target length:** TBD
+**Target length:** ~59,500 words / 14 chapters
 
-*(Title and subtitle are both provisional — folder name is an ID, not a
-commitment. Change either freely; nothing else depends on them.)*
+*(Title and subtitle are both provisional — the folder name is an ID, not a
+commitment. See `writing-plan.md` §9 for title alternatives under
+consideration.)*
 
 ## Logline
 
 Every physician eventually stops noticing what's strange about medicine,
 because almost everyone enters it knowing nothing else — the culture becomes
-the water they swim in before they're old enough to compare it to anything.
-This book is written from the narrow window before that happens: a medical
-student who spent years building and running businesses first, still able
-to see the profession's assumptions as *choices* — usually defended as
-patient safety, often actually serving institutional incentives, inertia,
-or professional status — rather than as facts about how medicine has to
-work. It's a diagnosis of specific, fixable things, written by someone with
-enough insider access to see the mechanism and not yet enough institutional
-identity invested in defending it.
+the water they swim in before they can compare it to anything. This book is
+written from the narrow window before that happens: a medical student who
+built and ran businesses first, still able to see the profession's assumptions
+as *choices* — usually defended as patient safety, often actually serving
+institutional incentives, inertia, or professional status — rather than as
+facts about how medicine has to work.
 
 ## Why this vantage point, specifically
 
-Most people who eventually write books critiquing medicine are either
-lifelong outsiders (journalists, patients, policy wonks) who never see how
-the incentives actually operate from inside a hospital, or lifelong insiders
-who've been trained for a decade-plus to see the current structure as simply
-how good medicine is practiced. Both write real, useful books. Neither can
-write this one. The angle here is specifically the overlap: enough time
-inside medical training to know the actual mechanisms (documentation and
-billing, how attendings are evaluated, what "clinical judgment" actually
-selects for) — plus enough time before that running a business to notice
-when an argument defended as patient safety is actually an incentive
-problem, a liability shield, or a status game wearing a lab coat.
+People who write books critiquing medicine are usually either lifelong
+outsiders — journalists, patients, policy analysts — who never see how
+incentives actually operate inside a hospital, or lifelong insiders trained
+for a decade to experience the current structure as simply how good medicine
+is practiced. Both write real books. Neither can write this one.
 
-That window closes. This book exists because it's still open.
+The angle here is the overlap: enough time inside training to know the
+mechanisms (documentation and billing, how attendings are evaluated, what
+"clinical judgment" actually selects for), plus enough time before it running
+a business to notice when an argument defended as patient safety is an
+incentive problem, a liability shield, or a status game wearing a lab coat.
+
+That window closes — and the book knows it. Chapter 3 documents it closing in
+real time: arriving with a founder's certainty that nobody is watching, and
+discovering that in medicine everybody is, that he now "represented an
+institution, a profession." The premise carries its own deadline.
 
 ## Working thesis
 
-Medicine has internalized **scarcity as a virtue** — in testing, in data,
-in access, in information given directly to patients — for reasons that
-were often legitimate when they were established and now mostly aren't.
-The book's throughline (from `why-is-medicine-so-anti-abundance`, the essay
-this whole project grew out of):
+Medicine has internalized **scarcity as a virtue** — in testing, in data, in
+access, in what patients are told about their own bodies — for reasons often
+legitimate when established and mostly not now.
 
-> Medicine currently treats **abundance of data** and **abundance of
-> action** as the same category of risk, when they're not. Information is
-> now cheap to gather, store, and analyze. Intervention still carries real
-> cost and risk. Collapsing those two into one "more = more dangerous"
-> reflex is where the scarcity mindset does its damage — and it's a
-> retrainable reflex, not a law of nature.
+> Medicine treats **abundance of data** and **abundance of action** as the
+> same category of risk. They are not. Information is cheap to gather, store,
+> and analyze; intervention still carries real cost and risk. Collapsing the
+> two into one "more is more dangerous" reflex is where the damage happens —
+> and it is a trained reflex, not a law of nature.
 
-Each chapter is a specific, named instance of that pattern — misaligned
-incentives, institutional resistance to new diagnostic technology,
-statistical literacy failures baked into training itself — argued from a
-concrete case, not abstraction. The book ends where the pattern-recognition
-becomes prescriptive: what would actually have to change, for patients
-specifically, not for the system's own metrics.
+Each chapter is a named instance of that pattern, argued from a concrete case.
+The book ends where diagnosis becomes prescription: what would have to change,
+for patients specifically, rather than for the system's own metrics.
+
+## Structure
+
+| Part | Chapters | Does |
+| --- | --- | --- |
+| One — The Vantage Point | 1–4 | Who's speaking, what they see, what they've gotten wrong, why they're speaking at all |
+| Two — The Diagnosis | 5–9 | Misaligned incentives → scarcity as virtue → the steelman → two reasoning tools |
+| Three — Institutional Lag | 10–12 | The pattern tested against specific fights, including one where medicine is right |
+| Four — Whom Medicine Serves | 13–14 | Money, and what all of it looks like from the patient's chair |
+
+See `outline.md` for full chapter specs and `writing-plan.md` for drafting
+order, the anecdote ledger, research gaps, and the definition of done.
 
 ## Relationship to the other books in this repo
 
 - **Policy Patient** is the systems-and-index book — abstracted across many
-  policies, aimed at building a predictive tool. This book is one
-  physician's specific, first-person case, grounded in medical training as
-  lived rather than policy as studied. They rhyme (both are fundamentally
-  about incentive structures producing patient harm that looks accidental
-  but isn't) but don't duplicate — this book can be a source of concrete,
-  human case material *for* Policy Patient's more abstracted argument, not
-  a competing version of the same book.
-- **Providence** is the full-life autobiography. This book pulls from the
-  same Substack essay archive (`providence/substack-essays/`) but is scoped
-  tightly to the medicine-and-building thread — it does not try to cover
-  the whole life, just this argument.
+  policies, aimed at a predictive tool. This book is one physician's specific,
+  first-person case, grounded in training as lived rather than policy as
+  studied. They rhyme (both are about incentive structures producing patient
+  harm that looks accidental and isn't) without duplicating: this book can
+  feed concrete human case material *to* Policy Patient's abstraction.
+- **Providence** is the full-life autobiography. This book draws on the same
+  Substack archive (`providence/substack-essays/`) but is scoped tightly to
+  the medicine-and-building argument. 13 of ~51 essays are used here; that
+  ratio is the discipline, not an oversight.
 
 ## Source material
 
-Seed essays live in `providence/substack-essays/` — they're not duplicated
-here. `outline.md` links each chapter to the specific essay(s) it grows
-from. A chapter here is a rewritten, expanded, book-length treatment of its
-seed essay(s), not a copy-paste; where no seed essay exists yet, that's
-noted too.
+Seed essays live in `providence/substack-essays/` and are **not duplicated
+here** — `outline.md` maps each chapter to its source. A chapter is a
+rewritten, expanded, book-length treatment of its seed, not a copy-paste;
+`writing-plan.md` §4 covers how that expansion works. Chapter 14 has no seed
+at all and carries the book's ending.
+
+`reference/` holds material specific to this book: sources for the
+diagnosis chapters, technology-adoption research, and — pending the decision
+in `writing-plan.md` §6.1 — patient interview material.
 
 ## Chapters
 
-| # | Title | Status | Words |
-| --- | --- | --- | --- |
-| — | *(outline drafted, no chapters written yet — see outline.md)* | | |
+Status values: `planned` → `drafting` → `revising` → `done`.
+
+| # | Title | Status | Target | Words |
+| --- | --- | --- | ---: | ---: |
+| 01 | Not Yet Captured | planned | 4,000 | — |
+| 02 | What Business Taught Me That Medical School Never Could | planned | 3,500 | — |
+| 03 | What I Got Wrong | planned | 4,500 | — |
+| 04 | Turn the Volume Up, Doctor | planned | 4,000 | — |
+| 05 | Why Healthcare Feels Broken | planned | 4,000 | — |
+| 06 | Scarcity as Virtue | planned | 5,500 | — |
+| 07 | The Steelman | planned | 4,500 | — |
+| 08 | What $300,000 in Education Failed to Teach Me | planned | 4,000 | — |
+| 09 | What a $1 MRI Would Actually Tell You | planned | 3,500 | — |
+| 10 | On the Midjourney Whole-Body Ultrasound Scanner | planned | 4,500 | — |
+| 11 | When Does Technology Kill a Profession | planned | 5,000 | — |
+| 12 | Psychiatry and the Double Moat | planned | 4,000 | — |
+| 13 | Capitalism vs. Humanitarianism Is a False Choice | planned | 3,500 | — |
+| 14 | What This Looks Like From the Patient's Chair | planned | 5,000 | — |
+
+**Next:** draft Ch6 (`06-scarcity-as-virtue.md`). Drafting order is not
+chapter order — see `writing-plan.md` §2.
