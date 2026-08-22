@@ -62,13 +62,13 @@ Your doctor suggests a statin. "Studies show it reduces heart attack risk."
 
 The studies are real. The effect is real. Statistically significant, replicated, solid evidence.
 
-What the studies show is that for people with no prior heart disease, you need to treat somewhere between one and three hundred people with statins for five years to prevent one heart attack. Not one death. One heart attack. [Cite: verify NNT range against current primary-prevention meta-analyses]
+What the studies show is that for people with no prior heart disease, you need to treat roughly a hundred people with statins for five years to prevent one nonfatal heart attack — and around a hundred and fifty to prevent one stroke. Not one death. One heart attack. [TheNNT summary of statins in primary prevention: NNT 104 for one nonfatal MI and 154 for one stroke over five years. These numbers move substantially with baseline risk — in higher-risk hyperlipidemic men the five-year NNT falls to roughly 40 to 70 — which is itself the point: an NNT is a statement about a population, not about you.]
 
-So one to three hundred people take a daily medication for five years. They deal with potential side effects. They spend money on pills and visits. They become, in a small but real way, patients — people who take something every morning because a professional told them to.
+So a hundred people take a daily medication for five years. They deal with potential side effects. They spend money on pills and visits. They become, in a small but real way, patients — people who take something every morning because a professional told them to.
 
-And one of them benefits. The others were going to be fine anyway.
+And one of them benefits. The other ninety-nine were going to be fine anyway.
 
-Is that good medicine? I genuinely don't know. It depends entirely on how a given person weighs the tradeoffs. If you're frightened of heart attacks and don't mind pills, maybe it's clearly worth it. If you'd rather not medicalize your life for a one-in-two-hundred shot, maybe not. Both positions are defensible, and the statistics don't resolve the disagreement. They only quantify it well enough that you can disagree precisely.
+Is that good medicine? I genuinely don't know. It depends entirely on how a given person weighs the tradeoffs. If you're frightened of heart attacks and don't mind pills, maybe it's clearly worth it. If you'd rather not medicalize your life for a one-in-a-hundred shot, maybe not. Both positions are defensible, and the statistics don't resolve the disagreement. They only quantify it well enough that you can disagree precisely.
 
 What makes me want to flip a table is this: my education taught me to trust *statistically significant* as a seal of quality without ever teaching me that significance says nothing about magnitude. And I went into a profession where I would be the one saying it to people.
 
@@ -76,9 +76,9 @@ What makes me want to flip a table is this: my education taught me to trust *sta
 
 Medicine has a metric for exactly this. Number needed to treat: how many people must be treated for one person to benefit.
 
-Some calibration. Antibiotics for strep throat, roughly four. Blood pressure medication after a stroke, roughly eleven. Aspirin during a heart attack, roughly forty. Intensive blood pressure control in otherwise healthy people, roughly sixty. Statins for primary prevention, one to three hundred. [Cite: verify each against current sources]
+Some calibration, with the caveat that every one of these numbers depends on the population and the endpoint being counted. Antibiotics for strep throat, single digits. Blood pressure medication after a stroke, low double digits. Aspirin given during an acute heart attack, a few dozen. Statins for primary prevention in low-risk people, around a hundred for a nonfatal heart attack — falling to forty or seventy in higher-risk groups. [Individual figures need checking against current sources before typesetting; TheNNT is the standard reference. The spread is the argument, so approximate figures serve here better than false precision.]
 
-All of these interventions are statistically significant. All of them work in the technical sense. And a number needed to treat of four versus three hundred describes wildly different clinical realities — one is a cure, the other is a lottery ticket with side effects.
+All of these interventions are statistically significant. All of them work in the technical sense. And a number needed to treat in the single digits versus one in the hundreds describes wildly different clinical realities — one is close to a cure, the other is a lottery ticket with side effects.
 
 I don't know whether other fields have an equivalent metric. They should, because it's the only question that finally matters: *how much do you have to do to get one unit of the thing you actually care about?*
 

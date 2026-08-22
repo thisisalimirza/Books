@@ -16,9 +16,11 @@ I've thought about why for a long time, and this chapter is the answer. It's als
 
 Medicine trains invisibility on purpose, and the conditioning starts on day one.
 
-Consider Joel Bervell, a medical student who began producing short videos on clinical blind spots — racial bias in pulse oximetry, in lung function algorithms. Objectively vital public health information, exactly the kind of evidence translation the public needs. His institutional advisors warned him to think twice before speaking publicly about hot-button issues. [Cite: verify Bervell details and the pulse-oximetry bias literature]
+Consider Joel Bervell, a medical student who began producing short videos on clinical blind spots — racial bias in pulse oximetry, in lung function algorithms. Objectively vital public health information, exactly the kind of evidence translation the public needs. His institutional advisors warned him to think twice before speaking publicly about hot-button issues. [Bervell details to be confirmed with a primary interview or profile.]
 
-The warning wasn't about accuracy. Nobody disputed the data. It was about the fact that he was visible at all. In the legacy paradigm, visibility itself is treated as a risk-management failure.
+The warning wasn't about accuracy. Nobody disputed the data, and the data was not marginal. Sjoding and colleagues, examining nearly fifty thousand paired measurements, found Black patients had close to three times the rate of occult hypoxemia missed by pulse oximetry as white patients. Among readings showing an oxygen saturation of 92 to 96 percent, actual arterial saturation was below 88 percent in twelve percent of measurements in Black patients and four percent in white patients. [Sjoding MW, Dickson RP, Iwashyna TJ, Gay SE, Valley TS. "Racial Bias in Pulse Oximetry Measurement." *N Engl J Med* 2020;383:2477–2478.]
+
+A device in every hospital room in the country was systematically less accurate for some patients than for others. The objection was never that he had the science wrong. It was that he was visible at all — and in the legacy paradigm, visibility itself is treated as a risk-management failure.
 
 And the conditioning starts long before it reaches the internet. We are trained toward a sterile emotional distance from patients under the banner of objective professionalism. The system wants the physician to be an interchangeable node — a white coat, a stethoscope, an institutional logo. No edge, no distinct perspective, no volume.
 

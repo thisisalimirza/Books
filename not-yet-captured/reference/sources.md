@@ -60,9 +60,15 @@ that circulates in retellings and does not match Bessen's series. Corrected.**
 ~164,000 by 2022. Directionally consistent with the mobile-banking argument
 but the specific figures need a BLS series check.
 
-**unverified.** The 36% figure for radiologist time spent on direct image
-interpretation. This is load-bearing for condition one and needs a real
-source.
+**verified, with caveat.** Vancouver Workload Utilization Evaluation Study,
+*J Am Coll Radiol* 2013: direct image interpretation 36.4% of radiologist
+time; non-interpretive work 43.8%; total clinical productivity 87.7%; an
+average of six interactions per hour with other clinical staff, 81.2% of
+which influenced patient care in real time. **Caveat:** the figure is
+methodology-dependent — a later interruption-focused study found 52% spent
+interpreting. The chapter now states both and rests the argument only on the
+claim both support, which is that a large share of the work is
+non-interpretive.
 
 **unverified.** UK 40% consultant radiologist shortfall by 2028 (RCR
 workforce census) and US physician shortfall projections (AAMC).
@@ -87,11 +93,19 @@ figures. See `writing-plan.md` §6.3.
 
 ## Ch8 — Statistics
 
-**unverified.** All NNT figures: strep antibiotics ≈4, post-stroke BP
-medication ≈11, aspirin during MI ≈40, intensive BP control ≈61, statins for
-primary prevention 100–300. Each needs checking against current sources, and
-the statin range in particular varies substantially by baseline risk and by
-which endpoint is counted.
+**partial.** Statins in primary prevention: TheNNT gives NNT 104 to prevent
+one nonfatal MI and 154 to prevent one stroke over five years. In higher-risk
+hyperlipidemic men the five-year NNT falls to roughly 40–70. **The draft
+originally said "one to three hundred" for one heart attack, which was too
+loose; corrected to roughly one hundred, with the risk-dependence stated in
+text.** Two downstream sentences that referenced the old range have been
+brought into line.
+
+**unverified.** The remaining calibration figures — strep antibiotics,
+post-stroke BP medication, aspirin during acute MI. The chapter now gives
+these as approximate magnitudes rather than precise numbers, since the spread
+is what the argument needs. Pin them down against TheNNT before typesetting
+if precise figures are wanted.
 
 ## Ch6 — Scarcity as Virtue
 
@@ -109,9 +123,16 @@ plasmaMATCH 96–99% concordance.
 
 ## Ch4 — Turn the Volume Up
 
-**unverified.** Joel Bervell details and the pulse-oximetry racial bias
-literature. The bias finding itself is well established and should be cited
-directly rather than through a secondary account.
+**verified (the science).** Sjoding MW, Dickson RP, Iwashyna TJ, Gay SE,
+Valley TS. "Racial Bias in Pulse Oximetry Measurement." *N Engl J Med*
+2020;383:2477–2478. Black patients had nearly three times the frequency of
+occult hypoxemia undetected by pulse oximetry. Among readings of 92–96%,
+arterial saturation was below 88% in 12% of measurements in Black patients
+versus 4% in white patients. Cited directly in the chapter now rather than
+through a secondary account.
+
+**unverified (the anecdote).** Joel Bervell's specific account of being
+warned by advisors. Needs a primary interview or published profile.
 
 **unverified.** The Andreessen "blue links" anecdote. Commonly told; find the
 original interview or attribute it as commonly reported.
