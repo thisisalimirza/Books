@@ -115,17 +115,17 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 08 | What $300,000 in Education Failed to Teach Me | planned | 4,000 | — |
 | 09 | The Compression Loss Problem | planned | 5,500 | — |
 | 10 | What a $1 MRI Would Actually Tell You | planned | 3,500 | — |
-| 11 | On the Midjourney Whole-Body Ultrasound Scanner | planned | 4,500 | — |
-| 12 | When Does Technology Kill a Profession | planned | 5,500 | — |
-| 13 | Psychiatry and the Double Moat | planned | 4,000 | — |
+| 11 | On the Midjourney Whole-Body Ultrasound Scanner | revising | 4,500 | 2,245 |
+| 12 | When Does Technology Kill a Profession | revising | 5,500 | 2,697 |
+| 13 | Psychiatry and the Double Moat | revising | 4,000 | 1,607 |
 | 14 | The Wedge | planned | 4,500 | — |
 | 15 | Capitalism vs. Humanitarianism Is a False Choice | planned | 3,500 | — |
 | 16 | The Pattern Problem | planned | 4,500 | — |
 | 17 | What I'd Change | revising | 5,500 | 1725 |
-| | **Total** | | **76,500** | **7530** |
+| | **Total** | | **76,500** | **14,079** |
 
-**In progress:** Wave 1 complete — Ch6, Ch7, and Ch17 drafted as continuous prose. Both are running
+**In progress:** Waves 1 and 2 complete — six chapters drafted (6, 7, 11, 12, 13, 17) as continuous prose. Both are running
 short of target — see the note in `writing-plan.md` §1 on rebalancing the
 budget once more chapters exist, rather than padding chapters to hit a number.
-**Next:** Wave 2 (Ch12, Ch11, Ch13). Drafting order is not chapter order — see
+**Next:** Wave 3 (Ch5, Ch8, Ch9, Ch10). Drafting order is not chapter order — see
 `writing-plan.md` §2.
