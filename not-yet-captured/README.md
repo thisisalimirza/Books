@@ -109,12 +109,12 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 02 | What Business Taught Me That Medical School Never Could | planned | 3,500 | — |
 | 03 | What I Got Wrong | planned | 5,000 | — |
 | 04 | Turn the Volume Up, Doctor | planned | 4,000 | — |
-| 05 | Why Healthcare Feels Broken | planned | 4,000 | — |
+| 05 | Why Healthcare Feels Broken | revising | 4,000 | 1,222 |
 | 06 | Scarcity as Virtue | revising | 6,000 | 3,654 |
 | 07 | The Steelman | revising | 5,000 | 2,151 |
-| 08 | What $300,000 in Education Failed to Teach Me | planned | 4,000 | — |
-| 09 | The Compression Loss Problem | planned | 5,500 | — |
-| 10 | What a $1 MRI Would Actually Tell You | planned | 3,500 | — |
+| 08 | What $300,000 in Education Failed to Teach Me | revising | 4,000 | 1,532 |
+| 09 | The Compression Loss Problem | revising | 5,500 | 2,078 |
+| 10 | What a $1 MRI Would Actually Tell You | revising | 3,500 | 1,106 |
 | 11 | On the Midjourney Whole-Body Ultrasound Scanner | revising | 4,500 | 2,245 |
 | 12 | When Does Technology Kill a Profession | revising | 5,500 | 2,697 |
 | 13 | Psychiatry and the Double Moat | revising | 4,000 | 1,607 |
@@ -122,10 +122,10 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 15 | Capitalism vs. Humanitarianism Is a False Choice | planned | 3,500 | — |
 | 16 | The Pattern Problem | planned | 4,500 | — |
 | 17 | What I'd Change | revising | 5,500 | 1725 |
-| | **Total** | | **76,500** | **14,079** |
+| | **Total** | | **76,500** | **20,017** |
 
-**In progress:** Waves 1 and 2 complete — six chapters drafted (6, 7, 11, 12, 13, 17) as continuous prose. Both are running
-short of target — see the note in `writing-plan.md` §1 on rebalancing the
-budget once more chapters exist, rather than padding chapters to hit a number.
-**Next:** Wave 3 (Ch5, Ch8, Ch9, Ch10). Drafting order is not chapter order — see
-`writing-plan.md` §2.
+**In progress:** Waves 1–3 complete — 10 of 17 chapters drafted (5, 6, 7, 8, 9,
+10, 11, 12, 13, 17) at 20,017 words. All of Part Two now exists. Chapters are
+running roughly half of target; see `writing-plan.md` §1 — the gap closes with
+scenes and verified sources, not by inflating prose. **Next:** Wave 4 (Ch3,
+Ch2, Ch4, Ch14, Ch15, Ch16), then Ch1 and the revision pass.
