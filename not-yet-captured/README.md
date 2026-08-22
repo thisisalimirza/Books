@@ -52,8 +52,15 @@ legitimate when established and mostly not now.
 > and it is a trained reflex, not a law of nature.
 
 Each chapter is a named instance of that pattern, argued from a concrete case.
-The book ends where diagnosis becomes prescription: what would have to change,
-for patients specifically, rather than for the system's own metrics.
+The book ends where diagnosis becomes prescription: what he thinks should
+change, and why.
+
+**On vantage point:** this is narrated from the author's chair throughout — a
+physician-builder in training. It is not a book of patient testimony. What is
+patient-side is the *yardstick*: the test applied to every proposed change is
+whether it would alter what medicine is actually like to be on the receiving
+end of, rather than whether it moves a system metric. That's the standard the
+argument is judged by, not a change of narrator.
 
 ## Structure
 
@@ -62,7 +69,7 @@ for patients specifically, rather than for the system's own metrics.
 | One — The Vantage Point | 1–4 | Who's speaking, what they see, what they've gotten wrong, why they're speaking at all |
 | Two — The Diagnosis | 5–9 | Misaligned incentives → scarcity as virtue → the steelman → two reasoning tools |
 | Three — Institutional Lag | 10–12 | The pattern tested against specific fights, including one where medicine is right |
-| Four — Whom Medicine Serves | 13–14 | Money, and what all of it looks like from the patient's chair |
+| Four — Whom Medicine Serves | 13–14 | Money, and what he thinks should actually change |
 
 See `outline.md` for full chapter specs and `writing-plan.md` for drafting
 order, the anecdote ledger, research gaps, and the definition of done.
@@ -88,9 +95,9 @@ rewritten, expanded, book-length treatment of its seed, not a copy-paste;
 `writing-plan.md` §4 covers how that expansion works. Chapter 14 has no seed
 at all and carries the book's ending.
 
-`reference/` holds material specific to this book: sources for the
-diagnosis chapters, technology-adoption research, and — pending the decision
-in `writing-plan.md` §6.1 — patient interview material.
+`reference/` holds material specific to this book: sources for the diagnosis
+chapters, technology-adoption research, and any optional patient material
+gathered later (`writing-plan.md` §6.1 — enrichment, not a requirement).
 
 ## Chapters
 
@@ -111,7 +118,7 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 11 | When Does Technology Kill a Profession | planned | 5,000 | — |
 | 12 | Psychiatry and the Double Moat | planned | 4,000 | — |
 | 13 | Capitalism vs. Humanitarianism Is a False Choice | planned | 3,500 | — |
-| 14 | What This Looks Like From the Patient's Chair | planned | 5,000 | — |
+| 14 | What I'd Change | planned | 5,000 | — |
 
 **Next:** draft Ch6 (`06-scarcity-as-virtue.md`). Drafting order is not
 chapter order — see `writing-plan.md` §2.

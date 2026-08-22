@@ -26,7 +26,7 @@ still missing, and what has to be true before a chapter counts as done.
 | 11 | When Does Technology Kill a Profession | 2,956 | 5,000 | 2,050 |
 | 12 | Psychiatry and the Double Moat | 997 | 4,000 | 3,000 |
 | 13 | Capitalism vs. Humanitarianism | 769 | 3,500 | 2,750 |
-| 14 | From the Patient's Chair | 0 | 5,000 | 5,000 |
+| 14 | What I'd Change | 0 | 5,000 | 5,000 |
 | | **Total** | **~20,600** | **59,500** | **~38,900** |
 
 Roughly a third of the book exists in some form. That is a real head start and
@@ -51,9 +51,9 @@ it is. Ch7 is its structural pair and should follow immediately while the
 argument is loaded.
 
 Then **Ch14, third** — deliberately, despite being last in the book. It has no
-seed, it carries the ending, and it's the chapter that tests whether the thesis
-actually cashes out into anything a patient can use. If Ch14 can't be written,
-the book has a problem at its center, and that is worth discovering in week
+seed, it carries the ending, and it's the chapter where the book stops
+diagnosing and commits to what should change. If Ch14 can't be written, the
+thesis doesn't cash out into anything, and that is worth discovering in week
 three rather than month nine.
 
 ### Wave 2 — The case studies (Ch11, Ch10, Ch12)
@@ -106,7 +106,7 @@ gets one sentence and a cross-reference, or nothing.**
 | Blue hyperlinks / Andreessen | **Ch4** | blue-link | Absorbed essay. |
 | Radiology CEO / group-chat argument | **Ch11** | when-does-tech-kill | |
 | Psychiatry rotation voice note | **Ch12** | psychiatry | |
-| Guilty secret: lifestyle over medicine | **Ch3** | what-i-got-wrong | Ch14 may call back when talking to patients. |
+| Guilty secret: lifestyle over medicine | **Ch3** | what-i-got-wrong | Ch14 may call back to it when committing. |
 | Asaf ud-Daulah / build-destroy-build | **Epigraph** | man-who-built | Not a chapter. |
 | CGM / pulse-ox / liquid-biopsy adoption lag | **Ch6**, cited in **Ch7** | anti-abundance | Ch6 tells it; Ch7 argues from it. |
 
@@ -138,9 +138,11 @@ couldn't afford. Seven moves, in rough order of value:
 5. **Extend the mechanism.** Essays say *this happens*. Chapters say why, what
    would have to be true for it not to, and what would falsify it. Ch12 already
    does this explicitly and should set the standard.
-6. **Land it in the chair.** Every chapter touches what this means for a
-   patient, even briefly. Otherwise Ch14 has to do all of that work alone and
-   will buckle.
+6. **Apply the yardstick.** Every chapter says, at least briefly, what the
+   pattern it describes costs on the receiving end — not to hand the chapter
+   to a patient, but because "does this change what medicine is actually like
+   to be treated by?" is the standard the book judges everything against.
+   Otherwise Ch14 has to establish that standard alone and will buckle.
 7. **Build the bridge.** Standalone essays end; chapters hand off. Each
    chapter's last beat should create the question the next one answers.
 
@@ -157,7 +159,7 @@ A chapter is draft-complete when all of these are true:
 - [ ] Every anecdote in it is one this chapter **owns** per §3
 - [ ] Every factual claim is either sourced or explicitly flagged as the
       narrator's judgment
-- [ ] Touches the patient consequence at least once
+- [ ] Applies the yardstick at least once: what this costs on the receiving end
 - [ ] Last beat sets up the next chapter
 - [ ] Substack artifacts stripped (§7)
 - [ ] Nothing in it depends on the reader having read the Substack
@@ -169,28 +171,29 @@ A chapter is draft-complete when all of these are true:
 
 Ordered by how much they threaten the book.
 
-### 6.1 No patient voices anywhere in the source material — *the big one*
+### 6.1 Patient evidence — optional enrichment, not a structural gap
 
-The book's stated purpose is improving American healthcare **as perceived by
-patients**. All 51 archived essays are written from the physician-builder's
-chair. There is not one patient interview, quote, or reconstructed encounter in
-the entire archive.
+**This book is narrated from the author's chair throughout.** He is a
+physician-builder in training, and that vantage point is the entire premise.
+It is not a book of patient testimony and does not need one.
 
-Ch14 cannot be written well from argument alone, and Ch6's most important claim
-— that patients are treated as unable to handle their own data — is currently
-asserted rather than evidenced by anyone it happens to.
+What *is* patient-side is the **yardstick**: the test applied to each proposed
+change is whether it would alter what medicine is like to be on the receiving
+end of, rather than whether it moves a system metric. That's a standard for
+judging the argument, not a requirement to hand the microphone to anyone else.
 
-**Options, in descending order of strength:**
-- Interview 8–12 patients about specific moments: being told a test wasn't
-  necessary, being refused their own records, being handed a "statistically
-  significant" result. Even six good conversations transform Ch14 and give
-  every other chapter something to land on.
-- Use rotation encounters — but see §6.5 on consent and de-identification,
-  which is non-negotiable.
-- Use published patient narratives and survey data. Weakest option, but real.
+So this is an enrichment option, not a blocker:
 
-**This is a decision to make before Wave 1 finishes, because Ch14 is drafted
-third.**
+- A handful of patient accounts would give Ch6's claim about data
+  paternalism something concrete to land on, and would strengthen Ch14. Worth
+  doing if the opportunity is natural — not worth restructuring the book for.
+- Rotation encounters can serve the same purpose, but only under §6.5
+  (consent and de-identification), which is non-negotiable regardless.
+- Published patient narratives and survey data are a fine substitute and
+  require no new reporting.
+
+**Nothing here blocks any wave.** Ch14 is drafted third because it has no seed
+and carries the ending, not because it is waiting on interviews.
 
 ### 6.2 Citations to verify before drafting
 
@@ -265,15 +268,17 @@ this carefully rather than a reason to be cavalier.
 
 1. **Ch14 carries the ending and has no source material.** Mitigated by
    drafting it third, not last.
-2. **No patient voices** (§6.1). The largest gap between the book's stated
-   purpose and its actual material.
+2. **Single-vantage narration.** The book is told from one chair by design,
+   which is its strength and its exposure — there's no second perspective to
+   check the argument against. Ch7 (the steelman) and Ch12 (the counter-case)
+   carry that load; they are structural, not optional. See also §6.1.
 3. **The vantage point expires.** The premise is a closing window. That's a
    great hook and a real deadline — the book is more credible written from
    inside training than after it.
 4. **Self-citation density.** Thirteen essays by one author, plus his own
-   experience. Without substantial outside evidence and other people's voices,
-   this reads as a blog compilation rather than a book. §6.2 and §6.1 are the
-   fix.
+   experience. First-person is the point, but without outside evidence
+   underneath the claims it reads as a blog compilation rather than a book.
+   §6.2 is the fix.
 5. **Tone.** "I'm embarrassed by the doctors in this debate" is bracing once
    and corrosive across 60,000 words. The book needs its affection for
    medicine to be as visible as its frustration — Ch3 and Ch12 are where that
@@ -292,8 +297,9 @@ None of these block Wave 1. Answer them when convenient.
    well; whether it's a bookstore title is a separate question. Alternatives
    worth testing against it: *Scarcity as Virtue*, *The Window*, *Abundance of
    Data*.
-2. **Patient material** (§6.1) — interviews, rotation encounters with consent,
-   or published sources only. Decide before Ch14 drafting.
+2. **Patient material** (§6.1) — optional enrichment. Whether to gather any
+   at all, and if so from interviews, consented rotation encounters, or
+   published sources. Not blocking.
 3. **Narration point in time** (§6.4) — fixed moment or updated to publication.
 4. **The *Policy Patient* bridge.** Whether Ch14 explicitly points readers to
    the other book, or the two stay independent.
@@ -312,4 +318,4 @@ been reassigned to Ch1 and the post-mortem to Ch7, so the chapter starts from
 the reflex itself. Target 5,500 words. Expansion comes chiefly from playbook
 moves 2 (carry pulse-oximetry and liquid-biopsy all the way through, not just
 CGM), 4 (verify and cite the adoption-lag research), and 6 (what the scarcity
-reflex costs a patient, not just a system).
+reflex costs on the receiving end, not just what it costs the system).

@@ -323,20 +323,25 @@ with the third deliberately arguing the other way.
 - **Ends on:** medicine needs architects rather than heroes or hustlers.
 - **Words:** 3,500
 
-### 14 — What This Looks Like From the Patient's Chair
+### 14 — What I'd Change
 
-- **Argues:** the synthesis and the payoff — translating every prior
-  diagnosis into what a patient actually experiences, and what they can
-  concretely ask for. Written for patients, not for physicians.
-- **Must deliver:** the specific, addressable things that would change how
-  American healthcare is *perceived by patients* — the book's stated purpose.
-  Data access and the right to one's own information; what to ask when told a
-  test isn't necessary; how to read "statistically significant" in a
-  headline or a consent conversation; what a realigned incentive would feel
-  like from the chair rather than the boardroom.
-- **Seed:** none. **This chapter has no existing draft and carries the
-  book's ending.** See `writing-plan.md` → Research gaps; it also needs
-  patient material the archive does not currently contain.
+- **Argues:** the synthesis and the payoff — the narrator naming which of the
+  things he's diagnosed are actually addressable, and what fixing them would
+  do. Narrated from the same chair as every other chapter: his. This is what
+  he thinks should change, argued by someone still inside the training that
+  produced the diagnosis.
+- **The measure of success is patient-side, the vantage point is not.** The
+  test he applies to each proposed change is whether it would alter what
+  medicine is actually like to be on the receiving end of — not whether it
+  improves a system metric, a quality score, or a reimbursement rate. That's
+  the argument's yardstick, not a change of narrator.
+- **Covers:** which fights are winnable and which aren't; data access and a
+  patient's right to their own information; what the significant-vs-meaningful
+  gap costs once it reaches a consent conversation; what a realigned incentive
+  would actually feel like on the receiving end; and what he intends to do
+  about it, given that he'll be practicing inside this system for forty years.
+- **Seed:** none. **This chapter has no existing draft and carries the book's
+  ending** — it's the one place the book stops diagnosing and commits.
 - **Ends on:** the closing claim, plus an optional bridge to *Policy Patient*
   for readers who want the systems-level version of the same argument.
 - **Words:** 5,000
