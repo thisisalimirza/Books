@@ -246,12 +246,17 @@ this carefully rather than a reason to be cavalier.
 
 ## 7. Voice and Substack de-linting
 
+**Format first:** chapters are written as continuous prose — ordinary
+paragraphs, no one-sentence-per-line. Scene breaks get a centered typographic
+break at typeset time (`publishing.md`), not a bare blank line.
+
 ### Keep — these are the writer's actual strengths
 
 - Opening on a specific scene, conversation, or object rather than a thesis
   statement. Nearly every strong essay in the archive does this.
 - Short declarative sentences as paragraph closers. *"I've stopped
-  explaining." "That's the whole game. We invented it."*
+  explaining." "That's the whole game. We invented it."* These land inside a
+  paragraph, not as isolated lines.
 - Explicit self-adversarial sections — stating what would make him wrong.
   Rare and genuinely valuable; keep it prominent.
 - Business and markets vocabulary used as an analytical instrument inside

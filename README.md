@@ -30,8 +30,11 @@ Books/
   reading order: `01-`, `02-`, … `10-`. Front matter chapters get `00-`.
 - **Renumbering is a rename**, not a rewrite. Use `git mv` so history follows
   the chapter.
-- **One sentence per line** in prose, or at least one line per paragraph.
-  Diffs stay readable and edits stay local instead of rewrapping a whole block.
+- **Write chapters as normal prose** — flowing paragraphs, the way a book
+  actually reads. Don't break sentences onto separate lines; that makes for
+  tidy diffs and unreadable drafts, and the draft is the thing that matters.
+  Planning files (outlines, notes, this README) can use whatever structure
+  helps.
 - **Reference material** — research notes, source PDFs, transcripts, cover
   art — goes in `reference/` so the top level of a book folder is only the
   book itself.
