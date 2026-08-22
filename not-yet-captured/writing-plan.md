@@ -15,19 +15,29 @@ still missing, and what has to be true before a chapter counts as done.
 | --- | --- | ---: | ---: | ---: |
 | 01 | Not Yet Captured | ~1,000 | 4,000 | 3,000 |
 | 02 | What Business Taught Me | 613 | 3,500 | 2,900 |
-| 03 | What I Got Wrong | 2,103 | 4,500 | 2,400 |
+| 03 | What I Got Wrong | 2,103 | 5,000 | 2,900 |
 | 04 | Turn the Volume Up, Doctor | 1,354 | 4,000 | 2,650 |
 | 05 | Why Healthcare Feels Broken | 1,011 | 4,000 | 3,000 |
-| 06 | Scarcity as Virtue | ~2,800 | 5,500 | 2,700 |
-| 07 | The Steelman | ~1,700 | 4,500 | 2,800 |
+| 06 | Scarcity as Virtue | ~2,800 | 6,000 | 3,200 |
+| 07 | The Steelman | ~1,700 | 5,000 | 3,300 |
 | 08 | What $300,000 Failed to Teach Me | 1,438 | 4,000 | 2,550 |
-| 09 | What a $1 MRI Would Tell You | 1,507 | 3,500 | 2,000 |
-| 10 | Midjourney Ultrasound | 2,331 | 4,500 | 2,150 |
-| 11 | When Does Technology Kill a Profession | 2,956 | 5,000 | 2,050 |
-| 12 | Psychiatry and the Double Moat | 997 | 4,000 | 3,000 |
-| 13 | Capitalism vs. Humanitarianism | 769 | 3,500 | 2,750 |
-| 14 | What I'd Change | 0 | 5,000 | 5,000 |
-| | **Total** | **~20,600** | **59,500** | **~38,900** |
+| 09 | The Compression Loss Problem | 5,562 | 5,500 | ~3,000 rewritten |
+| 10 | What a $1 MRI Would Tell You | 1,507 | 3,500 | 2,000 |
+| 11 | Midjourney Ultrasound | 2,331 | 4,500 | 2,150 |
+| 12 | When Does Technology Kill a Profession | 2,956 | 5,500 | 2,550 |
+| 13 | Psychiatry and the Double Moat | 997 | 4,000 | 3,000 |
+| 14 | The Wedge | 1,253 | 4,500 | 3,250 |
+| 15 | Capitalism vs. Humanitarianism | 769 | 3,500 | 2,750 |
+| 16 | The Pattern Problem | 1,647 | 4,500 | 2,850 |
+| 17 | What I'd Change | 0 | 5,500 | 5,500 |
+| | **Total** | **~29,000** | **76,500** | **~47,500** |
+
+Sized for 200-300 pages at 6"x9" - see `publishing.md` for the page math and
+the words-per-page sensitivity.
+
+Ch9 is the odd row: its seed is longer than its target, but the seed is
+entirely about textual analysis. The clinical half is new writing and the
+textual half compresses, so treat it as ~3,000 words of genuinely new work.
 
 Roughly a third of the book exists in some form. That is a real head start and
 also a trap — see §5, because the existing third is the *easiest* third, and
@@ -43,37 +53,37 @@ source material should be written early enough that its difficulty is a course
 correction rather than a crisis; and openings should be written last, once you
 know what you're opening.
 
-### Wave 1 — Prove the spine (Ch6, Ch7, Ch14)
+### Wave 1 — Prove the spine (Ch6, Ch7, Ch17)
 
 Ch6 is the thesis. Every other chapter is downstream of how sharply the
 data/action distinction lands here, so nothing else should be finished before
 it is. Ch7 is its structural pair and should follow immediately while the
 argument is loaded.
 
-Then **Ch14, third** — deliberately, despite being last in the book. It has no
+Then **Ch17, third** — deliberately, despite being last in the book. It has no
 seed, it carries the ending, and it's the chapter where the book stops
-diagnosing and commits to what should change. If Ch14 can't be written, the
+diagnosing and commits to what should change. If Ch17 can't be written, the
 thesis doesn't cash out into anything, and that is worth discovering in week
 three rather than month nine.
 
-### Wave 2 — The case studies (Ch11, Ch10, Ch12)
+### Wave 2 — The case studies (Ch12, Ch11, Ch13)
 
-Strong seeds, most self-contained, least dependent on the rest. Ch11 first
-because it produces the framework Ch12 then inverts. Drafting these while the
+Strong seeds, most self-contained, least dependent on the rest. Ch12 first
+because it produces the framework Ch13 then inverts. Drafting these while the
 thesis is fresh keeps them instances of an argument rather than loose opinions.
 
-### Wave 3 — The diagnosis supports (Ch5, Ch8, Ch9)
+### Wave 3 — The diagnosis supports (Ch5, Ch8, Ch9, Ch10)
 
 Ch5 frames Part Two but is easier to write once Ch6 exists, because its job is
-to set up a chapter that will already be on the page. Ch8 and Ch9 are largely
-self-contained.
+to set up a chapter that will already be on the page. Ch8, Ch9, and Ch10 are largely self-contained. Ch9 needs the most invention -
+its seed carries no clinical material at all.
 
-### Wave 4 — The vantage point (Ch3, Ch2, Ch4, Ch13)
+### Wave 4 — The vantage point and Part Four (Ch3, Ch2, Ch4, Ch14, Ch15, Ch16)
 
 Part One is written *after* the critique it introduces, so it can promise
 precisely what the book delivers. Ch3 leads because it's the richest seed and
-because the narrator's self-audit sets the register for the whole part. Ch13
-belongs here — it's credibility work, same as Part One.
+because the narrator's self-audit sets the register for the whole part. Ch14, Ch15, and Ch16 join this wave: Part Four is credibility work too — it
+answers who the author is to make this argument, and what his own motives are.
 
 ### Wave 5 — The opening and the pass (Ch1, then everything)
 
@@ -98,15 +108,15 @@ gets one sentence and a cross-reference, or nothing.**
 | $200k undergrad / $350k debt / $600k total | **Ch8** | why-i-write-this, $300k | Ch1 may cite the debt number once, in passing. |
 | Four countries before middle school | **Ch1** | why-i-write-this | Origin of the outsider frame. |
 | Agency shut down at 65% compounding | **Ch2** | why-i-write-this, what-i-got-wrong | Ch3 references as a wrong prediction only. |
-| Claim-denial MVP → CEO → SVP silence | **Ch3** | what-i-got-wrong | Also perfect for Part Three; Ch10/11 may reference in one line. |
+| Claim-denial MVP → CEO → SVP silence | **Ch3** | what-i-got-wrong | Also perfect for Part Three; Ch11/Ch12 may reference in one line. |
 | Tall poppy / peacock / "represented an institution" | **Ch3** | what-i-got-wrong | The capture mechanism, first-person. Ch1 foreshadows without telling it. |
 | Messaging the imaging-company exec directly | **Ch1** | anti-abundance | Part of the classroom scene. |
 | Sam Parr / "turn the volume knob up" | **Ch4** | turn-the-volume | |
 | Joel Bervell warned by advisors | **Ch4** | turn-the-volume | |
 | Blue hyperlinks / Andreessen | **Ch4** | blue-link | Absorbed essay. |
-| Radiology CEO / group-chat argument | **Ch11** | when-does-tech-kill | |
-| Psychiatry rotation voice note | **Ch12** | psychiatry | |
-| Guilty secret: lifestyle over medicine | **Ch3** | what-i-got-wrong | Ch14 may call back to it when committing. |
+| Radiology CEO / group-chat argument | **Ch12** | when-does-tech-kill | |
+| Psychiatry rotation voice note | **Ch13** | psychiatry | |
+| Guilty secret: lifestyle over medicine | **Ch3** | what-i-got-wrong | Ch17 may call back to it when committing. |
 | Asaf ud-Daulah / build-destroy-build | **Epigraph** | man-who-built | Not a chapter. |
 | CGM / pulse-ox / liquid-biopsy adoption lag | **Ch6**, cited in **Ch7** | anti-abundance | Ch6 tells it; Ch7 argues from it. |
 
@@ -136,13 +146,13 @@ couldn't afford. Seven moves, in rough order of value:
 4. **Source it.** Essays assert; books cite. The adoption-lag research already
    compiled for anti-abundance is the model — every chapter needs some version.
 5. **Extend the mechanism.** Essays say *this happens*. Chapters say why, what
-   would have to be true for it not to, and what would falsify it. Ch12 already
+   would have to be true for it not to, and what would falsify it. Ch13 already
    does this explicitly and should set the standard.
 6. **Apply the yardstick.** Every chapter says, at least briefly, what the
    pattern it describes costs on the receiving end — not to hand the chapter
    to a patient, but because "does this change what medicine is actually like
    to be treated by?" is the standard the book judges everything against.
-   Otherwise Ch14 has to establish that standard alone and will buckle.
+   Otherwise Ch17 has to establish that standard alone and will buckle.
 7. **Build the bridge.** Standalone essays end; chapters hand off. Each
    chapter's last beat should create the question the next one answers.
 
@@ -185,7 +195,7 @@ judging the argument, not a requirement to hand the microphone to anyone else.
 So this is an enrichment option, not a blocker:
 
 - A handful of patient accounts would give Ch6's claim about data
-  paternalism something concrete to land on, and would strengthen Ch14. Worth
+  paternalism something concrete to land on, and would strengthen Ch17. Worth
   doing if the opportunity is natural — not worth restructuring the book for.
 - Rotation encounters can serve the same purpose, but only under §6.5
   (consent and de-identification), which is non-negotiable regardless.
@@ -205,11 +215,11 @@ and carries the ending, not because it is waiting on interviews.
 - Midjourney / Butterfly Network licensing details and the regulatory posture
   in Ch10 — a fast-moving story that will need a re-check near publication.
 - Joel Bervell specifics and the pulse-oximetry bias literature in Ch4.
-- The hospital-system CEO's radiology/AI statement in Ch11 — quote it exactly.
+- The hospital-system CEO's radiology/AI statement in Ch12 — quote it exactly.
 
 ### 6.3 Data with a short shelf life
 
-Ch12 leans on 2026 psychiatrist compensation figures and software-employment
+Ch13 leans on 2026 psychiatrist compensation figures and software-employment
 trends. These age fast and are load-bearing for that chapter's argument. Either
 re-pull near publication or rewrite the argument to depend on the direction
 rather than the numbers.
@@ -266,11 +276,11 @@ this carefully rather than a reason to be cavalier.
 
 ## 8. Standing risks
 
-1. **Ch14 carries the ending and has no source material.** Mitigated by
+1. **Ch17 carries the ending and has no source material.** Mitigated by
    drafting it third, not last.
 2. **Single-vantage narration.** The book is told from one chair by design,
    which is its strength and its exposure — there's no second perspective to
-   check the argument against. Ch7 (the steelman) and Ch12 (the counter-case)
+   check the argument against. Ch7 (the steelman) and Ch13 (the counter-case)
    carry that load; they are structural, not optional. See also §6.1.
 3. **The vantage point expires.** The premise is a closing window. That's a
    great hook and a real deadline — the book is more credible written from
@@ -301,7 +311,7 @@ None of these block Wave 1. Answer them when convenient.
    at all, and if so from interviews, consented rotation encounters, or
    published sources. Not blocking.
 3. **Narration point in time** (§6.4) — fixed moment or updated to publication.
-4. **The *Policy Patient* bridge.** Whether Ch14 explicitly points readers to
+4. **The *Policy Patient* bridge.** Whether Ch17 explicitly points readers to
    the other book, or the two stay independent.
 5. **Publication path.** Trade vs. self-publication changes length norms,
    citation expectations, and timeline. It doesn't change the drafting order,
@@ -315,7 +325,7 @@ Draft **Ch6 — Scarcity as Virtue** as `06-scarcity-as-virtue.md`.
 
 Its seed is the archive's most fully-argued essay; the classroom opening has
 been reassigned to Ch1 and the post-mortem to Ch7, so the chapter starts from
-the reflex itself. Target 5,500 words. Expansion comes chiefly from playbook
+the reflex itself. Target 6,000 words. Expansion comes chiefly from playbook
 moves 2 (carry pulse-oximetry and liquid-biopsy all the way through, not just
 CGM), 4 (verify and cite the adoption-lag research), and 6 (what the scarcity
 reflex costs on the receiving end, not just what it costs the system).

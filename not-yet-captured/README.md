@@ -3,7 +3,7 @@
 **Working subtitle:** A Physician-in-Training's Case Against Medicine's Scarcity Mindset
 **Status:** outlining
 **Started:** 2026-08-22
-**Target length:** ~59,500 words / 14 chapters
+**Target length:** ~76,500 words / 17 chapters → ~250pp at 6"×9" (see `publishing.md`)
 
 *(Title and subtitle are both provisional — the folder name is an ID, not a
 commitment. See `writing-plan.md` §9 for title alternatives under
@@ -67,9 +67,9 @@ argument is judged by, not a change of narrator.
 | Part | Chapters | Does |
 | --- | --- | --- |
 | One — The Vantage Point | 1–4 | Who's speaking, what they see, what they've gotten wrong, why they're speaking at all |
-| Two — The Diagnosis | 5–9 | Misaligned incentives → scarcity as virtue → the steelman → two reasoning tools |
-| Three — Institutional Lag | 10–12 | The pattern tested against specific fights, including one where medicine is right |
-| Four — Whom Medicine Serves | 13–14 | Money, and what he thinks should actually change |
+| Two — The Diagnosis | 5–10 | Misaligned incentives → scarcity as virtue → the steelman → the limits of reductionism → two reasoning tools |
+| Three — Institutional Lag | 11–13 | The pattern tested against specific fights, including one where medicine is right |
+| Four — Whom Medicine Serves | 14–17 | Disruption, money, motive, and what he thinks should actually change |
 
 See `outline.md` for full chapter specs and `writing-plan.md` for drafting
 order, the anecdote ledger, research gaps, and the definition of done.
@@ -84,7 +84,7 @@ order, the anecdote ledger, research gaps, and the definition of done.
   feed concrete human case material *to* Policy Patient's abstraction.
 - **Providence** is the full-life autobiography. This book draws on the same
   Substack archive (`providence/substack-essays/`) but is scoped tightly to
-  the medicine-and-building argument. 13 of ~51 essays are used here; that
+  the medicine-and-building argument. 16 of ~51 essays are used here; that
   ratio is the discipline, not an oversight.
 
 ## Source material
@@ -92,7 +92,7 @@ order, the anecdote ledger, research gaps, and the definition of done.
 Seed essays live in `providence/substack-essays/` and are **not duplicated
 here** — `outline.md` maps each chapter to its source. A chapter is a
 rewritten, expanded, book-length treatment of its seed, not a copy-paste;
-`writing-plan.md` §4 covers how that expansion works. Chapter 14 has no seed
+`writing-plan.md` §4 covers how that expansion works. Chapter 17 has no seed
 at all and carries the book's ending.
 
 `reference/` holds material specific to this book: sources for the diagnosis
@@ -107,18 +107,22 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | --- | --- | --- | ---: | ---: |
 | 01 | Not Yet Captured | planned | 4,000 | — |
 | 02 | What Business Taught Me That Medical School Never Could | planned | 3,500 | — |
-| 03 | What I Got Wrong | planned | 4,500 | — |
+| 03 | What I Got Wrong | planned | 5,000 | — |
 | 04 | Turn the Volume Up, Doctor | planned | 4,000 | — |
 | 05 | Why Healthcare Feels Broken | planned | 4,000 | — |
-| 06 | Scarcity as Virtue | planned | 5,500 | — |
-| 07 | The Steelman | planned | 4,500 | — |
+| 06 | Scarcity as Virtue | drafting | 6,000 | — |
+| 07 | The Steelman | planned | 5,000 | — |
 | 08 | What $300,000 in Education Failed to Teach Me | planned | 4,000 | — |
-| 09 | What a $1 MRI Would Actually Tell You | planned | 3,500 | — |
-| 10 | On the Midjourney Whole-Body Ultrasound Scanner | planned | 4,500 | — |
-| 11 | When Does Technology Kill a Profession | planned | 5,000 | — |
-| 12 | Psychiatry and the Double Moat | planned | 4,000 | — |
-| 13 | Capitalism vs. Humanitarianism Is a False Choice | planned | 3,500 | — |
-| 14 | What I'd Change | planned | 5,000 | — |
+| 09 | The Compression Loss Problem | planned | 5,500 | — |
+| 10 | What a $1 MRI Would Actually Tell You | planned | 3,500 | — |
+| 11 | On the Midjourney Whole-Body Ultrasound Scanner | planned | 4,500 | — |
+| 12 | When Does Technology Kill a Profession | planned | 5,500 | — |
+| 13 | Psychiatry and the Double Moat | planned | 4,000 | — |
+| 14 | The Wedge | planned | 4,500 | — |
+| 15 | Capitalism vs. Humanitarianism Is a False Choice | planned | 3,500 | — |
+| 16 | The Pattern Problem | planned | 4,500 | — |
+| 17 | What I'd Change | planned | 5,500 | — |
+| | **Total** | | **76,500** | **0** |
 
 **Next:** draft Ch6 (`06-scarcity-as-virtue.md`). Drafting order is not
 chapter order — see `writing-plan.md` §2.

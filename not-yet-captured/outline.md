@@ -1,6 +1,7 @@
 # Outline
 
-14 chapters, four parts, ~59,500 words.
+17 chapters, four parts, ~76,500 words — sized for a 200–300 page KDP
+paperback at 6"×9". See `publishing.md` for the page math.
 
 Each entry states what the chapter **argues** (not what it's about), names its
 seed essay(s) in `providence/substack-essays/`, and gives a word target.
@@ -210,7 +211,33 @@ here, the self-adversarial defense lives in Ch7.
   know what else it has — which is the rest of the book.
 - **Words:** 4,000
 
-### 09 — What a $1 MRI Would Actually Tell You
+### 09 — The Compression Loss Problem
+
+- **Argues:** the companion to Ch6, and the answer to its hardest practical
+  objection. Ch6 says gather more data. This chapter says data is not
+  understanding — that medicine's habit of dissecting a patient into systems,
+  labs, and a numbered problem list loses the gestalt the same way analyzing a
+  text word by word destroys its meaning. Both errors come from the same
+  belief: that comprehension is a matter of inventory rather than insight.
+- **Covers:** how the scalpel approach to reading is *mathematically*
+  guaranteed to diverge from the original meaning, developed from the seed
+  essay; then the clinical translation — the patient who is fully worked up
+  and not understood, the problem list that captures every finding and misses
+  the person, why the best attendings synthesize rather than enumerate.
+- **Why it belongs next to the abundance argument:** without it, Ch6 reads as
+  a case for indiscriminate data collection. With it, the argument is
+  complete — gather abundantly, act selectively, and *read holistically*. The
+  processing problem Ch6 names as infrastructure is also an epistemological
+  one, and this chapter is where the book says so.
+- **Seed:** `180897054.the-compression-loss-problem-how.md` — at 5,562 words
+  the archive's longest and most developed essay, and one the author rates
+  among his three best. It is currently entirely about textual analysis; the
+  clinical half is the new writing.
+- **Ends on:** the limits of reductionism as a *method*, not as a slur —
+  setting up Ch10's reasoning tool.
+- **Words:** 5,500
+
+### 10 — What a $1 MRI Would Actually Tell You
 
 - **Argues:** a reasoning-tools chapter. Cheaper and more accessible is not
   automatically better for patients, and the reader needs to be able to read
@@ -236,7 +263,7 @@ here, the self-adversarial defense lives in Ch7.
 Three chapters. The pattern from Part Two, tested against specific fights,
 with the third deliberately arguing the other way.
 
-### 10 — On the Midjourney Whole-Body Ultrasound Scanner
+### 11 — On the Midjourney Whole-Body Ultrasound Scanner
 
 - **Argues:** a live case study in the reflex — an image-generation company
   ships a whole-body ultrasound prototype, radiologists dunk within hours,
@@ -260,7 +287,7 @@ with the third deliberately arguing the other way.
   refusing to extend.
 - **Words:** 4,500
 
-### 11 — When Does Technology Kill a Profession
+### 12 — When Does Technology Kill a Profession
 
 - **Argues:** the load-bearing framework chapter — three conditions determine
   whether a technology destroys a profession or expands it, and applying them
@@ -278,7 +305,7 @@ with the third deliberately arguing the other way.
   psychiatry and gets the opposite answer.
 - **Words:** 5,000
 
-### 12 — Psychiatry and the Double Moat
+### 13 — Psychiatry and the Double Moat
 
 - **Argues:** the deliberate counter-chapter. Some of medicine's resistance
   is *correct*, and the book has to say where — otherwise "scarcity is a
@@ -304,7 +331,32 @@ with the third deliberately arguing the other way.
 
 ## Part Four — Whom Medicine Actually Serves
 
-### 13 — Capitalism vs. Humanitarianism Is a False Choice
+### 14 — The Wedge
+
+- **Argues:** medicine's moats are real but they are not protection, because
+  incumbents don't lose to better competitors — they lose to the customers
+  they stopped paying attention to. Healthcare has spent decades neglecting
+  the experience of being a patient while assuming its credentials, scale, and
+  regulatory position made that safe. It doesn't.
+- **Covers:** the incumbent-versus-upstart dynamic from the seed essay — that
+  both want the same outcomes and differ only in what they're willing to
+  neglect, and that finding the neglected seam is an explicitly taught startup
+  playbook, not an accident; then the medical application, which is where the
+  book's own argument turns uncomfortable: every reflex Part Two describes —
+  gatekeeping data, dismissing new modalities, treating patient questions as
+  noise — is a wedge left open for someone with no clinical training and
+  excellent bedside manner.
+- **Absorbs:** `166861916.the-death-of-the-internet.md` — the emerging reason
+  experts stay quiet, that publishing knowledge now carries downside risk
+  rather than reputational upside. Pairs with Ch4's institutional silence to
+  explain why the vacuum is widening from both directions at once.
+- **Seed:** `171393545.the-hidden-wedge-that-always-destroys.md` +
+  `166861916.the-death-of-the-internet.md`
+- **Ends on:** the profession's choice — close the seam by being better at the
+  thing it neglected, or keep the moat and lose the patient anyway.
+- **Words:** 4,500
+
+### 15 — Capitalism vs. Humanitarianism Is a False Choice
 
 - **Argues:** the dichotomy — you either care or you capitalize — is wrong
   and is itself blocking repair. Profit isn't inherently corrupting; the
@@ -323,7 +375,32 @@ with the third deliberately arguing the other way.
 - **Ends on:** medicine needs architects rather than heroes or hustlers.
 - **Words:** 3,500
 
-### 14 — What I'd Change
+### 16 — The Pattern Problem
+
+- **Argues:** the motive chapter, and the one that earns the book's right to
+  make its argument at all. If no one helps without something in it for them,
+  then a physician-builder's commercial interest isn't a disqualification —
+  it's the ordinary human case, made visible. The chapter refuses both the
+  cynical reading (all altruism is transaction, so nothing counts) and the
+  flattering one (my motives are clean).
+- **Covers:** the friend's claim over dinner that everyone who helps does it
+  for something — blessings, credit in a ledger, reputation — and the second
+  friend who couldn't name a recent time he'd gone out of his way, and was
+  bothered by what that revealed; the two questions the essay builds toward;
+  then the medical application: what it means that medicine's public story
+  about itself is pure service, and what that story costs when it collides
+  with salary negotiations, RVUs, and the fact that everyone in the building
+  is also making a living.
+- **Why here:** Ch15 argues the capitalism/humanitarianism split is a false
+  choice at the level of systems. This chapter argues it at the level of a
+  person, which is the harder and more honest version, and it clears the last
+  objection standing between the reader and Ch17's prescription.
+- **Seed:** `180051552.the-pattern-problem-and-the-2-questions.md`
+- **Ends on:** mixed motives as the normal condition rather than a scandal —
+  which is what makes it possible to talk about incentives honestly.
+- **Words:** 4,500
+
+### 17 — What I'd Change
 
 - **Argues:** the synthesis and the payoff — the narrator naming which of the
   things he's diagnosed are actually addressable, and what fixing them would
