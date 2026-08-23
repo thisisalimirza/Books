@@ -129,9 +129,30 @@ still-striking claim.
 **unverified.** The barrier analyses (PMC4717493) behind the physician-side
 objections. Directionally consistent with the verified timeline.
 
-**unverified.** Pulse oximetry timeline: 1970s invention, ~200 units of the
-first Japanese commercial device sold, 1980s commercial availability, Neff's
-1988 "fifth vital sign" proposal, late-1980s standard of care in anesthesia.
+**verified — and the draft was materially wrong.** Takuo Aoyagi worked out
+the pulse oximetry principle in 1974 and presented it in Osaka that year.
+Nihon Kohden's OLV-5100 ear oximeter reached market in 1975 and was not a
+commercial success. Minolta adapted and improved the design around 1978,
+prompting wider development and marketing through the mid-1980s. The ASA
+adopted pulse oximetry as a standard in **1986**; Neff proposed the
+fifth-vital-sign framing in 1988.
+
+**That is roughly twelve years from principle to standard of care, not the
+forty the draft claimed.** The forty-year figure came from folding in a
+separate and later debate about routine oximetry in emergency departments,
+which ran into the late 1990s. Those are different questions and merging them
+inflated the lag.
+
+The chapter now states the real timeline, names the error explicitly, and
+keeps the smaller true point: the first device failed commercially and the
+principle sat underused for years — not because it was shown wrong, but
+because the field had not decided it wanted continuous oxygen data.
+
+**Propagation check done.** The inflated figure had spread to Ch1, Ch3, Ch6
+and the epilogue as "fifteen to forty years" or "the forty years." All four
+corrected to "a decade or two." Sources: *J Anesth* 2021 tribute to Aoyagi;
+Anesthesia Patient Safety Foundation on Japanese and US commercialization;
+ACP Hospitalist (Newman) 2014 on the fifth vital sign.
 
 **unverified.** Liquid biopsy: PADA-1 progression-free survival result;
 plasmaMATCH 96–99% concordance.

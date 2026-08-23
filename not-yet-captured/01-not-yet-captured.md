@@ -70,7 +70,7 @@ It also isn't a memoir, though there's biography in it where the biography is th
 
 It's an argument, and the argument is narrow enough to state on one page.
 
-Medicine has internalized scarcity as a virtue — in testing, in data, in access, in what patients are told about their own bodies. That instinct was a good adaptation to a world where tests were expensive, invasive, and genuinely limited. That world is going away unevenly, and the instinct is outliving it. Because it's carried as identity rather than as technique, it will keep outliving it, and each new technology will spend fifteen to forty years waiting for permission while people who could have been helped are not.
+Medicine has internalized scarcity as a virtue — in testing, in data, in access, in what patients are told about their own bodies. That instinct was a good adaptation to a world where tests were expensive, invasive, and genuinely limited. That world is going away unevenly, and the instinct is outliving it. Because it's carried as identity rather than as technique, it will keep outliving it, and each new technology will spend a decade or two waiting for permission while people who could have been helped are not.
 
 The specific error underneath is that medicine treats gathering information and taking action as the same category of risk. They aren't. Information is cheap now; intervention still isn't. Restraint belongs on the second and has quietly been extended over the first, and almost nobody has examined the extension because it never had to be examined before.
 

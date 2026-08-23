@@ -108,10 +108,10 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 00 | Author's Note | revising | — | 509 |
 | 01 | Not Yet Captured | revising | 4,000 | 1,538 |
 | 02 | What Business Taught Me That Medical School Never Could | revising | 3,500 | 1,252 |
-| 03 | What I Got Wrong | revising | 5,000 | 1,917 |
+| 03 | What I Got Wrong | revising | 5,000 | 1,916 |
 | 04 | Turn the Volume Up, Doctor | revising | 4,000 | 1,411 |
 | 05 | Why Healthcare Feels Broken | revising | 4,000 | 1,230 |
-| 06 | Scarcity as Virtue | revising | 6,000 | 3,748 |
+| 06 | Scarcity as Virtue | revising | 6,000 | 3,861 |
 | 07 | The Steelman | revising | 5,000 | 2,166 |
 | 08 | What $300,000 in Education Failed to Teach Me | revising | 4,000 | 1,657 |
 | 09 | The Compression Loss Problem | revising | 5,500 | 2,090 |
@@ -124,18 +124,20 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 16 | The Pattern Problem | revising | 4,500 | 1,545 |
 | 17 | What I'd Change | revising | 5,500 | 1,741 |
 | 18 | Epilogue: What Has Already Changed | revising | — | 1,014 |
-| | **Total** | | **76,500** | **32,209** |
+| | **Total** | | **76,500** | **32,321** |
 
-**All 17 chapters plus author's note and epilogue drafted** — 31,728 words.
+**All 17 chapters plus author's note and epilogue drafted** — 32,321 words.
 Every piece is a complete argument in continuous prose. The manuscript is
-roughly 41% of the word target and about 102 pages at 6"×9", so it does not
+roughly 42% of the word target and about 103 pages at 6"×9", so it does not
 yet meet the 200-page floor. See `writing-plan.md` §1: that gap closes with
 the marked scenes and verified citations, not by inflating prose.
 
-**Citation status:** see `reference/sources.md`. Nine claims verified, six
-corrected where the draft overstated or misreported evidence, two figures
-pulled from the text entirely for lack of a source. 13 bracketed markers
-remain.
+**Citation status:** see `reference/sources.md`. Eleven claims verified,
+seven corrected where the draft overstated or misreported evidence, two
+figures pulled entirely for lack of a source. One error — the pulse oximetry
+adoption lag — had propagated to four other files and has been corrected
+throughout. 10 bracketed markers remain, mostly time-sensitive figures to
+re-pull near publication.
 
 **Next:** finish citation verification, then the revision pass and the scene
 list.

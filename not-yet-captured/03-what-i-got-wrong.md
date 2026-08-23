@@ -84,7 +84,7 @@ I walked to the CEO's office. He directed me to the Senior VP of Billing. The SV
 
 That was the lesson, and it cost me nothing but a weekend and some pride, which is a cheap price for it. Hospitals don't want to buy systems that are new. They want to buy systems that let them sleep at night because someone else already de-risked them. Providing that is much harder than building the thing, and it requires a kind of creativity I hadn't developed.
 
-I want to flag something about this story, because it's easy to read as a complaint about institutional sclerosis and it isn't only that. Every chapter in Part Three describes institutional lag from the outside — the fifteen years, the forty years, the profession failing to move. This is what it looked like from inside, aimed at me, and my read at the time was that the institution was being obtuse. Some of it was. Some of it was a large organization correctly declining to run unvalidated software against its revenue cycle on the word of a second-year student who had built it over a weekend.
+I want to flag something about this story, because it's easy to read as a complaint about institutional sclerosis and it isn't only that. Every chapter in Part Three describes institutional lag from the outside — the decade and a half, the profession failing to move. This is what it looked like from inside, aimed at me, and my read at the time was that the institution was being obtuse. Some of it was. Some of it was a large organization correctly declining to run unvalidated software against its revenue cycle on the word of a second-year student who had built it over a weekend.
 
 Both readings are true. Holding both is most of what this book is trying to do.
 
