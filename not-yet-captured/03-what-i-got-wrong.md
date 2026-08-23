@@ -68,7 +68,7 @@ I've watched medications and interventions change trajectories in severe cases w
 
 *Lesson: hold convictions, stay open to being wrong. People are usually trying to do the right thing with the tools and information they have. Not everyone has the same tools, and that doesn't make them malicious — it usually just reflects the limits of their environment and training.*
 
-That last sentence is the one I most want the reader to carry into Part Two. Almost everything I'm about to criticize was built by people acting reasonably inside constraints they didn't choose.
+That last sentence is the one I most want the reader to carry into Part Two. Nearly everyone I am about to disagree with is doing their best inside a structure they did not design and cannot individually change.
 
 ## I thought medical school would give me an unfair advantage
 

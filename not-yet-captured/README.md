@@ -105,14 +105,14 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 
 | # | Title | Status | Target | Words |
 | --- | --- | --- | ---: | ---: |
-| 00 | Author's Note | revising | — | 509 |
-| 01 | Not Yet Captured | revising | 4,000 | 1,538 |
+| 00 | Author's Note | revising | — | 495 |
+| 01 | Not Yet Captured | revising | 4,000 | 1,551 |
 | 02 | What Business Taught Me That Medical School Never Could | revising | 3,500 | 1,252 |
-| 03 | What I Got Wrong | revising | 5,000 | 1,916 |
+| 03 | What I Got Wrong | revising | 5,000 | 1,922 |
 | 04 | Turn the Volume Up, Doctor | revising | 4,000 | 1,411 |
 | 05 | Why Healthcare Feels Broken | revising | 4,000 | 1,230 |
-| 06 | Scarcity as Virtue | revising | 6,000 | 3,861 |
-| 07 | The Steelman | revising | 5,000 | 2,166 |
+| 06 | Scarcity as Virtue | revising | 6,000 | 3,850 |
+| 07 | The Steelman | revising | 5,000 | 2,150 |
 | 08 | What $300,000 in Education Failed to Teach Me | revising | 4,000 | 1,657 |
 | 09 | The Compression Loss Problem | revising | 5,500 | 2,090 |
 | 10 | What a $1 MRI Would Actually Tell You | revising | 3,500 | 1,113 |
@@ -124,7 +124,7 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 16 | The Pattern Problem | revising | 4,500 | 1,545 |
 | 17 | What I'd Change | revising | 5,500 | 1,741 |
 | 18 | Epilogue: What Has Already Changed | revising | — | 1,014 |
-| | **Total** | | **76,500** | **32,321** |
+| | **Total** | | **76,500** | **32,299** |
 
 **All 17 chapters plus author's note and epilogue drafted** — 32,321 words.
 Every piece is a complete argument in continuous prose. The manuscript is
@@ -139,5 +139,18 @@ adoption lag — had propagated to four other files and has been corrected
 throughout. 10 bracketed markers remain, mostly time-sensitive figures to
 re-pull near publication.
 
-**Next:** finish citation verification, then the revision pass and the scene
-list.
+**Revision pass, first sweep:** ran a cross-chapter duplicate check and found
+three passages appearing near-verbatim in two or three places each — the
+alienation-into-a-market argument, the theory-versus-clinical-reality
+disclaimer, and the clinical-knowledge caveat. Each now has a single owner
+and the others reference rather than repeat. This is the characteristic
+failure of a book assembled from essays and it needs re-running after any
+substantial edit.
+
+**→ `scenes-needed.md` is the current ask.** Nine scenes only the author can
+write, ranked, with the two highest-priority ones named. Roughly 5,000 words
+directly and considerably more indirectly, since chapters expand around a
+concrete anchor. This is the honest path to the page target; padding is not.
+
+**Then:** remaining 10 citation markers (mostly time-sensitive), chapter
+bridge check, and the compile pass described in `publishing.md`.

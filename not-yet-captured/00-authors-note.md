@@ -8,7 +8,7 @@ That's an unusual thing to lead with in a book that spends three hundred pages a
 
 Medicine has a trust problem that worries me considerably more than being wrong does.
 
-When physicians reflexively dismiss technologies patients find valuable, and when the gap between what's technically possible and what's clinically permitted grows wide enough to see from the outside, patients don't conclude that we're being careful. They disengage. I watch this happening from the startup side every week, and it only takes one company with real distribution and anti-medicine messaging to convert a diffuse feeling of alienation into a market.
+Patients are quietly withdrawing their trust, and not because they've been misled. They're withdrawing it because too many of their questions get answered with a tone rather than a reason. I see the other end of that from the startup side every week, and the last chapters of this book are about where it leads.
 
 Transparency is the only way to extend a hand to people who already feel dismissed by the establishment. We can't regain their trust while hiding how we think. So this book is partly an attempt to think out loud — to put my reasoning where it can be examined, invite the correction, and build a record of having argued honestly rather than only having been right.
 

@@ -46,7 +46,7 @@ Then I spent years building and running a business before medical school, which 
 
 So I came into medicine with a comparison set. Not a better one — just a different one, and enough of one that the profession's assumptions arrived to me as *choices* rather than as the shape of reality.
 
-That's the entire vantage point of this book. Not superior knowledge. I have less clinical knowledge than nearly everyone I'm writing about. Just the accident of having somewhere to stand while I look.
+That's the entire vantage point of this book. Not expertise — the people I'm writing about know far more medicine than I do, and will for years. Just the accident of having somewhere else to stand while I look at the same thing they're looking at.
 
 ## The window is closing
 

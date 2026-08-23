@@ -124,7 +124,7 @@ You ask for your own data and meet friction that is difficult to interpret. The 
 
 This, more than any individual technology fight, is what I think the profession is actually risking. When physicians reflexively dismiss things patients find valuable, and when the gap between what is technically possible and what is clinically permitted grows wide enough to see from outside, patients do not conclude that medicine is being careful. They conclude that medicine is hiding something, or protecting something, or simply isn't interested. And then they leave — not the healthcare system, which they still need, but its authority, which they stop consulting first.
 
-I see the destination of that trajectory every week in the startup ecosystem. It takes one company with real distribution and anti-medicine messaging to convert a diffuse feeling of alienation into a market. The people building that company do not need to be right. They need to be more interested in the patient's question than the establishment was. That is a low bar, and we keep failing to clear it.
+Where that goes is the subject of Chapter Fourteen, so I'll leave it there rather than argue it twice. For now the narrower point is enough: a reflex that was built to protect people is being experienced by those people as indifference, and the profession has almost no way of noticing that, because nothing it measures would show it.
 
 ## What restraint was actually for
 

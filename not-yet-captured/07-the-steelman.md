@@ -4,7 +4,7 @@ A second-year medical student writing a chapter about what his profession gets w
 
 The response is: *you haven't seen anything yet.* You have not watched a patient go down the cascade. You have not sat with someone through the biopsy that found nothing and the complication that followed it. You have read about incidentalomas; you have not caused one. Come back in ten years and see whether you still think the profession is being precious about data.
 
-That objection is not a dodge. It is the strongest thing anyone can say to me, and part of it is simply true. My views are high on theory and low on clinical reality, and I expect them to change as I spend more time in hospitals. Anyone who tells you their opinions survived contact with the wards unchanged is either lying or wasn't paying attention.
+That objection is not a dodge. It is the strongest thing anyone can say to me, and part of it is simply true — I said as much before the book started, and I'd rather concede it twice than pretend it stops being true because I've written a chapter since.
 
 But "you'll understand later" is not an argument. It is a prediction about my future mental state, and it has the awkward property of being unfalsifiable in the present. If it turns out I'm wrong, I want to be shown wrong with evidence rather than seniority. So this chapter takes the four strongest objections to the previous one, states each in the best form I can manage, and answers them on the merits. Where the objection wins, I say so.
 
