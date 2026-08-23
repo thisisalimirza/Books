@@ -79,9 +79,15 @@ verify at typesetting.
 **verified as attribution.** Christensen C. *The Innovator's Prescription* —
 the new-visibility-creates-specialties argument.
 
-**unverified.** GP share of US physicians: 84% in 1931 vs ~25% in 2019.
-**unverified.** Lillehei cross-circulation, first successful open-heart
-operation 1954, University of Minnesota.
+**unverified — figures pulled from the text.** GP share of US physicians,
+claimed as 84% in 1931 and ~25% in 2019. Could not source either. The chapter
+now states the direction without the percentages. **Do not restore the
+numbers without a primary source.**
+**verified.** Lillehei performed the first successful open-heart operation
+using cross-circulation on 26 March 1954 at the University of Minnesota,
+connecting the patient to a living human donor as oxygenator. In a subsequent
+operation the donor was the patient's father; that child lived to 67. The
+series ran 1954–55 and won the 1955 Lasker Award. See *Ann Thorac Surg* 2020.
 
 ## Ch13 — Psychiatry
 
@@ -109,10 +115,19 @@ if precise figures are wanted.
 
 ## Ch6 — Scarcity as Virtue
 
-**unverified.** CGM adoption history (first devices 1999–2000, FDA
-supplemental-use approval, 2016 approval to replace fingersticks) and the
-barrier analyses. Sources exist in the seed essay's reference list; each
-needs re-verification.
+**verified, with correction.** MiniMed's retrospective CGMS received FDA
+approval in 1999 — the first CGM — for supplemental use alongside standard
+home monitoring. On 20 December 2016 the FDA expanded the Dexcom G5 Mobile
+CGM indication to non-adjunctive use, allowing treatment decisions without a
+confirmatory fingerstick, in patients aged two and older. That is the
+seventeen-year gap the chapter turns on, and it holds.
+**Correction:** the draft said the 2016 approval replaced fingerstick testing
+"altogether." The G5 still required two calibration fingersticks daily. The
+chapter now says it ended *confirmatory* testing, which is the accurate and
+still-striking claim.
+
+**unverified.** The barrier analyses (PMC4717493) behind the physician-side
+objections. Directionally consistent with the verified timeline.
 
 **unverified.** Pulse oximetry timeline: 1970s invention, ~200 units of the
 first Japanese commercial device sold, 1980s commercial availability, Neff's
