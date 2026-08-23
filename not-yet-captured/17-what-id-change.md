@@ -44,13 +44,25 @@ Capitated models and direct-to-consumer arrangements have the incentive structur
 
 ## What I'm going to do about it
 
-I'll be practicing inside this system for something like forty years, which makes all of the above less abstract than it would be coming from someone passing through.
+I'll be practicing inside this system for decades, which makes all of the above less abstract than it would be coming from someone passing through.
 
-I intend to keep writing this way — publicly, with the reasoning exposed, including the parts that turn out wrong. Chapter 4 argues that physician silence hands the public square to people with no clinical training and total mastery of the volume knob. That argument obligates me. The alternative is to write one book and then go quiet, which would make the book a performance.
+I want to be careful here, because the natural move at this point in a book is to promise something, and I've spent seventeen chapters arguing that people should say what they can actually defend.
 
-I intend to build in the interpretation layer, because it's where my two sets of skills actually overlap and because I think it's the bottleneck. I've been wrong about how easy this is before — Chapter 3 is partly the record of walking an MVP into a CEO's office and learning what a healthcare sales cycle looks like from the inside — and I expect to be wrong again in less predictable ways.
+So: I can't guarantee I'll keep writing through residency. Anyone who has watched residency happen to a person would be right to doubt it. It is going to be a monumental claim on my time and my attention, and I have no useful evidence about who I'll be on the other side of it.
 
-And I intend to keep a record of what I got wrong. Not as performance, but because the alternative is what I've spent this book criticizing: an institution that revises its story after the fact so that every delay becomes prudence and nothing is ever learned. If I'm going to ask that of a profession, the least I can do is model it at the scale of one person.
+What I can say is that it's hard for me to imagine not writing, and the reason is mechanical rather than aspirational. I will be reflecting and thinking regardless — that isn't optional, it's what happens in the gaps — and writing is simply how I process. The publishing part is a habit layered on top of a thing I would be doing anyway. Removing it wouldn't free up much, because the underlying activity isn't the writing. It's the thinking, and the writing is only where it becomes legible.
+
+The building is the same answer for a different reason. I can't seem to help taking the next step immediately once I've noticed a problem. And the gap between noticing and having something crude that works has collapsed over the last few years — it used to be weeks, and now it is frequently a few hours.
+
+There's a term for what's happening there and it happens to be a medical one. Positive cooperativity: hemoglobin binds one oxygen molecule and the next one binds more easily, and the next more easily still, because each binding changes the shape of the thing doing the binding. That is the honest description of what building has done to me. Each thing made the next thing cheaper, not because I got dramatically smarter but because the shape changed. The activation energy for starting something is now close to zero, which is a genuinely strange thing to be true about a person and is also the single largest practical difference between me at twenty-two and me now.
+
+Can I promise that pace survives residency? No. Do I currently see a reason it would stop? Also no — and I'd rather leave both of those sitting next to each other than resolve them into a commitment I can't back.
+
+Some people find that kind of ambiguity uncomfortable. I've come to think it's the most useful thing about me. The 50-year plan in Chapter Three was an attempt to eliminate exactly this uncertainty — to specify every step so that nothing depended on who I turned out to be. It was wrong precisely because it was certain.
+
+The one thing I will commit to is the record. I'm going to keep track of what I got wrong. Not as performance, but because the alternative is the thing this entire book has been criticizing: an institution that revises its story afterward so that every delay becomes prudence and nothing is ever learned. If I'm going to ask that of a profession, the least I can do is model it at the scale of one person.
+
+That much I can promise, because it costs nothing but honesty and I've already started.
 
 ## The thing I actually believe
 

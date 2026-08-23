@@ -416,7 +416,7 @@ with the third deliberately arguing the other way.
   patient's right to their own information; what the significant-vs-meaningful
   gap costs once it reaches a consent conversation; what a realigned incentive
   would actually feel like on the receiving end; and what he intends to do
-  about it, given that he'll be practicing inside this system for forty years.
+  about it — stated as what he can actually defend rather than as a promise, since he cannot know who residency will make him.
 - **Seed:** none. **This chapter has no existing draft and carries the book's
   ending** — it's the one place the book stops diagnosing and commits.
 - **Ends on:** the closing claim, plus an optional bridge to *Policy Patient*

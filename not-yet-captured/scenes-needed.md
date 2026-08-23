@@ -143,9 +143,24 @@ book's argument, built accidentally, before you had articulated it.
 thing in this section — see `reference/external/projects.md`. Ch17 now
 carries it, and Ch9 has a forward pointer.
 
-**Still open:** whether you actually intend to keep writing publicly through
-residency, and whether the forty-year framing is how you think about it or
-just how it reads.
+**Now closed.** You answered both. Ch17's closing section no longer promises
+anything — it says you can't guarantee you'll keep writing through residency,
+explains why it's hard to imagine not (writing is how you process; the
+publishing is a habit layered on something you'd do anyway), and gives the
+building the same treatment.
+
+Your "positive cooperativity" framing is in the book, and it's one of the
+best things in it: each thing built made the next cheaper, not because you
+got smarter but because the shape changed. Using a hemoglobin metaphor to
+describe your own building is exactly the move that makes this book yours
+rather than generic.
+
+The section now ends where you ended: two statements sitting next to each
+other unresolved — can't promise the pace survives, see no current reason it
+stops — and the observation that discomfort with that ambiguity is what
+produced the 50-year plan, which was wrong *because* it was certain.
+
+The forty-year framing is gone; "decades" throughout.
 
 ---
 

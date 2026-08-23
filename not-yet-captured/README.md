@@ -122,12 +122,12 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 14 | The Wedge | revising | 4,500 | 1,425 |
 | 15 | Capitalism vs. Humanitarianism Is a False Choice | revising | 3,500 | 1,234 |
 | 16 | The Pattern Problem | revising | 4,500 | 1,545 |
-| 17 | What I'd Change | revising | 5,500 | 1,749 |
-| 18 | Epilogue: What Has Already Changed | revising | — | 1,021 |
-| | **Total** | | **76,500** | **33,369** |
+| 17 | What I'd Change | revising | 5,500 | 2,079 |
+| 18 | Epilogue: What Has Already Changed | revising | — | 1,018 |
+| | **Total** | | **76,500** | **33,696** |
 
-**All 17 chapters plus author's note and epilogue drafted** — 33,369 words,
-about 108 pages at 6"×9". Still short of the 200-page floor; see
+**All 17 chapters plus author's note and epilogue drafted** — 33,696 words,
+about 110 pages at 6"×9". Still short of the 200-page floor; see
 `writing-plan.md` §1 and `scenes-needed.md`. The gap closes with scenes and
 verified sources, not by inflating prose.
 
