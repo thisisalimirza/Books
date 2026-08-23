@@ -14,11 +14,11 @@ I think there are three conditions that determine the answer, plus a fourth thin
 
 Before the conditions, Jevons.
 
-In 1865, William Stanley Jevons noticed something that should have been impossible. As steam engines became more fuel-efficient, Britain consumed *more* coal, not less. Efficiency didn't reduce demand. It expanded it, because lower cost unlocked uses nobody had bothered to imagine while coal was expensive. [^15]
+In 1865, William Stanley Jevons noticed something that should have been impossible. As steam engines became more fuel-efficient, Britain consumed *more* coal, not less. Efficiency didn't reduce demand. It expanded it, because lower cost unlocked uses nobody had bothered to imagine while coal was expensive. [^17]
 
 The ATM is the modern textbook case. When automated teller machines spread through the 1980s and 1990s, the obvious prediction was fewer tellers. The machine handled deposits, withdrawals, balance checks — the core of the job. And per branch, the prediction held: the average urban branch needed about twenty-one tellers in 1988 and about thirteen by 2004.
 
-But total teller employment *rose* over that period. James Bessen's work on this puts it at roughly 500,000 in the early 1980s to nearly 600,000 by 2010, across a stretch when some 400,000 ATMs were installed nationwide. Cheaper branches meant more branches — urban branch counts rose about 43 percent — and more branches meant more tellers even at lower headcount per location. Jevons won. [^16]
+But total teller employment *rose* over that period. James Bessen's work on this puts it at roughly 500,000 in the early 1980s to nearly 600,000 by 2010, across a stretch when some 400,000 ATMs were installed nationwide. Cheaper branches meant more branches — urban branch counts rose about 43 percent — and more branches meant more tellers even at lower headcount per location. Jevons won. [^18]
 
 Which produces the comfortable conclusion that technology doesn't kill jobs, it creates them.
 
@@ -36,7 +36,7 @@ ATMs automated one task within a multi-task job. Tellers still handled loan inqu
 
 Mobile banking was different in kind rather than degree. It didn't make branches more efficient; it made the question "how do we staff this branch?" collapse into "why does this branch exist?" When that question flips, there is no peripheral role to retreat into. The institution dissolves and the job goes with it.
 
-For radiology, this is the first diagnostic question. AI is advancing fast on image interpretation, which is the core diagnostic read. But interpretation is a smaller share of the job than outsiders assume. The Vancouver Workload Utilization Evaluation Study put direct image interpretation at 36.4 percent of radiologists' time, with 43.8 percent going to non-interpretive work — protocolling requisitions, supervising studies, image-guided procedures, consulting with other physicians, direct patient care. The same study found radiologists averaging six interactions per hour with other clinical staff, of which more than eighty percent influenced patient care in real time. [^17]
+For radiology, this is the first diagnostic question. AI is advancing fast on image interpretation, which is the core diagnostic read. But interpretation is a smaller share of the job than outsiders assume. The Vancouver Workload Utilization Evaluation Study put direct image interpretation at 36.4 percent of radiologists' time, with 43.8 percent going to non-interpretive work — protocolling requisitions, supervising studies, image-guided procedures, consulting with other physicians, direct patient care. The same study found radiologists averaging six interactions per hour with other clinical staff, of which more than eighty percent influenced patient care in real time. [^19]
 
 That last detail is the one worth holding onto. A job with six real-time clinical interactions an hour is not primarily a reading job that happens to involve colleagues. It is a consultative job in which reading is the core technical act.
 
@@ -50,11 +50,11 @@ ATMs made branches cheaper to run and banks responded by opening more of them �
 
 Mobile banking also made transactions dramatically cheaper. But it didn't generate more banking activity requiring human presence; it routed existing activity away from the places humans worked. The gain went to consumers and to margins, and it shrank the institutional context those jobs depended on.
 
-For radiology the structural case is stronger than it looks. Global imaging volume is growing faster than radiologist supply. The UK projects a forty percent shortfall in consultant radiologists by 2028; the US faces a projected gap of well over a hundred thousand physicians across specialties by the early 2030s. [^18] Cheaper, faster reads could make imaging more accessible, enable broader screening, and generate volume the current workforce cannot absorb. That's the ATM outcome: efficiency enabling expansion, expansion requiring expertise.
+For radiology the structural case is stronger than it looks. Global imaging volume is growing faster than radiologist supply. The UK projects a forty percent shortfall in consultant radiologists by 2028; the US faces a projected gap of well over a hundred thousand physicians across specialties by the early 2030s. [^20] Cheaper, faster reads could make imaging more accessible, enable broader screening, and generate volume the current workforce cannot absorb. That's the ATM outcome: efficiency enabling expansion, expansion requiring expertise.
 
 But there's a deeper version of this argument that I think gets missed.
 
-Clayton Christensen makes an observation about medical history that cuts to the center of the debate. Every time medicine developed a new way of seeing something previously invisible, it didn't merely improve care. It discovered new disease. New disease created new clinical categories, and new categories required new specialists. The EKG didn't just help cardiologists see hearts more clearly; it revealed arrhythmias nobody had characterized, which is part of what made cardiology a distinct specialty. The endoscope helped create gastroenterologists. MRI didn't augment neurology so much as birth neuroradiology. [^19]
+Clayton Christensen makes an observation about medical history that cuts to the center of the debate. Every time medicine developed a new way of seeing something previously invisible, it didn't merely improve care. It discovered new disease. New disease created new clinical categories, and new categories required new specialists. The EKG didn't just help cardiologists see hearts more clearly; it revealed arrhythmias nobody had characterized, which is part of what made cardiology a distinct specialty. The endoscope helped create gastroenterologists. MRI didn't augment neurology so much as birth neuroradiology. [^21]
 
 The pattern is consistent enough to feel like a law. New visibility creates new disease categories, which create new high-value subspecialties.
 
@@ -70,7 +70,7 @@ Branch banking survived ATMs partly because it was regulated, liability-laden, a
 
 Mobile banking eventually breached the moat — but not by defeating the regulations. It changed what customers wanted so completely that the structure protecting branches became irrelevant. The moat didn't get filled in. The river feeding it changed course.
 
-For radiology the moat is deeper. The most important word in healthcare is licensure. You cannot practice medicine without it. You cannot bill for a diagnostic read without a credentialed physician signing off. You cannot deploy autonomous AI for clinical diagnosis without regulatory clearance, and no FDA-cleared radiology tool is currently approved for fully autonomous diagnosis without physician oversight. [^20]
+For radiology the moat is deeper. The most important word in healthcare is licensure. You cannot practice medicine without it. You cannot bill for a diagnostic read without a credentialed physician signing off. You cannot deploy autonomous AI for clinical diagnosis without regulatory clearance, and no FDA-cleared radiology tool is currently approved for fully autonomous diagnosis without physician oversight. [^22]
 
 This is structural rather than incidental. The regulatory architecture around physician practice was built over a century, is defended by organized professional associations, and serves genuine patient-safety interests that make it politically durable. Any scenario where AI fully replaces radiologists requires not just technical capability but regulatory permission, liability restructuring, and coverage changes — each of which moves slowly and faces organized resistance.
 
@@ -100,9 +100,9 @@ The routine overnight reads are the cash-handling teller: under pressure, probab
 
 None of this is novel theory. It's what medicine has been doing for two centuries.
 
-The general practitioner nearly disappeared. In the early 1930s the large majority of American physicians identified as general practitioners; today family and internal medicine physicians — their successors — make up roughly a quarter of the workforce. [^21] Technology didn't kill generalism. It fragmented generalism into dozens of specialties and subspecialties, because each new technology made something visible that hadn't been and generated enough clinical demand to justify a new kind of expert.
+The general practitioner nearly disappeared. In the early 1930s the large majority of American physicians identified as general practitioners; today family and internal medicine physicians — their successors — make up roughly a quarter of the workforce. [^23] Technology didn't kill generalism. It fragmented generalism into dozens of specialties and subspecialties, because each new technology made something visible that hadn't been and generated enough clinical demand to justify a new kind of expert.
 
-Cardiac surgery didn't exist before the bypass machine. On 26 March 1954, C. Walton Lillehei performed the first successful open-heart operation using cross-circulation at the University of Minnesota — connecting the patient's circulation to a living human donor who served as the oxygenator, because mechanical bypass wasn't ready. In the operation that followed a few weeks later, the donor was the patient's own father, and that child lived to sixty-seven. [^22] The bypass machine didn't threaten cardiac surgery. It *was* cardiac surgery.
+Cardiac surgery didn't exist before the bypass machine. On 26 March 1954, C. Walton Lillehei performed the first successful open-heart operation using cross-circulation at the University of Minnesota — connecting the patient's circulation to a living human donor who served as the oxygenator, because mechanical bypass wasn't ready. In the operation that followed a few weeks later, the donor was the patient's own father, and that child lived to sixty-seven. [^24] The bypass machine didn't threaten cardiac surgery. It *was* cardiac surgery.
 
 In none of these cases did technology produce clean elimination. It produced bifurcation, transformation, or creation — outcomes that looked very different depending on where in the profession you sat and how quickly you moved.
 

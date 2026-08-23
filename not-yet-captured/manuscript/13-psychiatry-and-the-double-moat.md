@@ -46,7 +46,7 @@ I think we will look back and find that some meaningful part of a coming mental 
 
 ## What the numbers suggest
 
-Psychiatrist compensation currently sits in a range that has been climbing against chronic, years-long shortages. Mental health roles more broadly are projected to grow substantially faster than the overall economy through the mid-2030s. Meanwhile entry-level software employment in AI-exposed roles has fallen sharply for younger workers. [^23]
+Psychiatrist compensation currently sits in a range that has been climbing against chronic, years-long shortages. Mental health roles more broadly are projected to grow substantially faster than the overall economy through the mid-2030s. Meanwhile entry-level software employment in AI-exposed roles has fallen sharply for younger workers. [^25]
 
 The prestige hierarchy is inverting in real time, and I don't think most people making career decisions have noticed. I'm not sure I would have noticed if I weren't looking at it from inside medicine.
 

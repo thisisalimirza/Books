@@ -24,7 +24,7 @@ I'm keeping the analogy anyway, with its failure attached, because the policy lo
 
 ## South Korea, which is the case against me
 
-Starting in the 1990s, South Korea made cheap thyroid ultrasound widely available alongside government-funded cancer screening. By 2011 the rate of thyroid cancer diagnoses was fifteen times the 1993 rate. Mortality did not move. Cancers under two centimeters accounted for 94.4 percent of the increase. [^10]
+Starting in the 1990s, South Korea made cheap thyroid ultrasound widely available alongside government-funded cancer screening. By 2011 the rate of thyroid cancer diagnoses was fifteen times the 1993 rate. Mortality did not move. Cancers under two centimeters accounted for 94.4 percent of the increase. [^12]
 
 The scans were finding small, indolent disease that autopsy studies show sits quietly in a large fraction of the population and never does anything. For years the only response on offer was surgery — tens of thousands of thyroidectomies, with their real complication rates, performed on people who were never in danger.
 
@@ -32,7 +32,7 @@ That is not "the data was bad." That is data with no normalization layer doing r
 
 But sit with the whole case rather than half of it, because both halves matter. The fix was not to stop scanning. The fix was to build the thresholds this chapter argues demand should produce: risk stratification systems that score a nodule before anyone reaches for a needle, plus active surveillance for small low-risk lesions instead of reflexive surgery. That took decades and a great many unnecessary operations to get right.
 
-And it still isn't clean. After public concern mounted, screening and thyroidectomy rates fell sharply — the follow-up in the same journal was titled "Turning the Tide." Whether the pullback carried its own cost in missed aggressive disease is contested and the data is observational. [^11]
+And it still isn't clean. After public concern mounted, screening and thyroidectomy rates fell sharply — the follow-up in the same journal was titled "Turning the Tide." Whether the pullback carried its own cost in missed aggressive disease is contested and the data is observational. [^13]
 
 So the honest read isn't that screening won or that screening lost. It's that building the right threshold is real, ongoing, expensive work rather than something that materializes the moment the data shows up. I had been treating threshold-building as a footnote to the abundance argument. Korea says it's the main event.
 
@@ -40,7 +40,7 @@ So the honest read isn't that screening won or that screening lost. It's that bu
 
 The reason I still land where I land is that the ledger has a second column, and medicine is much worse at reading it.
 
-In 2012 the US Preventive Services Task Force recommended against routine PSA screening for prostate cancer at any age, largely over overdiagnosis and overtreatment — the same logic now aimed at whole-body scanning. Screening dropped sharply. In the years following, multiple analyses found higher-stage disease and rising metastatic prostate cancer at diagnosis. Mortality, which had been falling for two decades, flattened. The Task Force revised the recommendation in 2018 to shared decision-making for men aged 55 to 69. [^12]
+In 2012 the US Preventive Services Task Force recommended against routine PSA screening for prostate cancer at any age, largely over overdiagnosis and overtreatment — the same logic now aimed at whole-body scanning. Screening dropped sharply. In the years following, multiple analyses found higher-stage disease and rising metastatic prostate cancer at diagnosis. Mortality, which had been falling for two decades, flattened. The Task Force revised the recommendation in 2018 to shared decision-making for men aged 55 to 69. [^14]
 
 The evidence there is mostly observational rather than a randomized smoking gun, and I won't oversell it. But the direction and the timing line up closely enough to take seriously the proposition that excess caution kills people too, and that its victims are just as real as the woman who had an unnecessary thyroidectomy. They are only harder to count. Korea produced a number; the PSA reversal produced a trend line and an argument about what caused it.
 
@@ -52,9 +52,9 @@ The objection I find close to impossible to accept is that we need rigorous stud
 
 Except that I overstated it, and the correction matters.
 
-You *can* study an immature screening technology, if you point it at a population whose risk justifies it and track outcomes prospectively. Inova Health System is doing exactly that. Their pilot enrolls eight hundred career and volunteer firefighters aged thirty-five and over with at least ten cumulative years on the job, randomizes them between whole-body MRI and whole-body ultrasound, and screens everyone with a multi-cancer detection assay on top. The design builds in the follow-up question that matters most — what the downstream workup actually looks like when these modalities flag something. [^13]
+You *can* study an immature screening technology, if you point it at a population whose risk justifies it and track outcomes prospectively. Inova Health System is doing exactly that. Their pilot enrolls eight hundred career and volunteer firefighters aged thirty-five and over with at least ten cumulative years on the job, randomizes them between whole-body MRI and whole-body ultrasound, and screens everyone with a multi-cancer detection assay on top. The design builds in the follow-up question that matters most — what the downstream workup actually looks like when these modalities flag something. [^15]
 
-The population choice is the whole lesson. In July 2022 an International Agency for Research on Cancer working group concluded that occupational firefighting is carcinogenic to humans. [^14] That is what an enriched-risk cohort looks like: not the general public, not the worried wealthy, but a group with a documented occupational exposure and a real prior probability of disease.
+The population choice is the whole lesson. In July 2022 an International Agency for Research on Cancer working group concluded that occupational firefighting is carcinogenic to humans. [^16] That is what an enriched-risk cohort looks like: not the general public, not the worried wealthy, but a group with a documented occupational exposure and a real prior probability of disease.
 
 Screen those people and the false-positive mathematics that makes population screening so punishing becomes considerably more forgiving, because prevalence is doing work for you rather than against you. This is the answer to my own objection two paragraphs ago, and it did not require anyone to wait for permission or to skip validation. It required picking the right eight hundred people.
 

@@ -62,7 +62,7 @@ Your doctor suggests a statin. "Studies show it reduces heart attack risk."
 
 The studies are real. The effect is real. Statistically significant, replicated, solid evidence.
 
-What the studies show is that for people with no prior heart disease, you need to treat roughly a hundred people with statins for five years to prevent one nonfatal heart attack — and around a hundred and fifty to prevent one stroke. Not one death. One heart attack. [^8]
+What the studies show is that for people with no prior heart disease, you need to treat roughly a hundred people with statins for five years to prevent one nonfatal heart attack — and around a hundred and fifty to prevent one stroke. Not one death. One heart attack. [^10]
 
 So a hundred people take a daily medication for five years. They deal with potential side effects. They spend money on pills and visits. They become, in a small but real way, patients — people who take something every morning because a professional told them to.
 
@@ -76,7 +76,7 @@ What makes me want to flip a table is this: my education taught me to trust *sta
 
 Medicine has a metric for exactly this. Number needed to treat: how many people must be treated for one person to benefit.
 
-Some calibration, with the caveat that every one of these numbers depends on the population and the endpoint being counted. Antibiotics for strep throat, single digits. Blood pressure medication after a stroke, low double digits. Aspirin given during an acute heart attack, a few dozen. Statins for primary prevention in low-risk people, around a hundred for a nonfatal heart attack — falling to forty or seventy in higher-risk groups. [^9]
+Some calibration, with the caveat that every one of these numbers depends on the population and the endpoint being counted. Antibiotics for strep throat, single digits. Blood pressure medication after a stroke, low double digits. Aspirin given during an acute heart attack, a few dozen. Statins for primary prevention in low-risk people, around a hundred for a nonfatal heart attack — falling to forty or seventy in higher-risk groups. [^11]
 
 All of these interventions are statistically significant. All of them work in the technical sense. And a number needed to treat in the single digits versus one in the hundreds describes wildly different clinical realities — one is close to a cure, the other is a lottery ticket with side effects.
 

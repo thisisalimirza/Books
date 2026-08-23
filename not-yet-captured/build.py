@@ -141,6 +141,20 @@ def main():
     with open(os.path.join(OUT, "not-yet-captured-manuscript.md"), "w") as f:
         f.write(manuscript + "\n")
 
+    # --- Validation --------------------------------------------------------
+    # Anything still in square brackets that isn't a footnote marker, a link,
+    # or the scene block is a citation the converter missed. Fail loudly:
+    # a bare [Cite: PMC1234567] shipping to a typesetter is how notes get lost.
+    leftover = []
+    for base, _, body in compiled:
+        for m in re.finditer(r'\[(?!\^)([^\]]*)\]', body):
+            frag = m.group(1)
+            if frag.startswith("[ SCENE") or frag.startswith(" SCENE"):
+                continue
+            if body[m.end():m.end() + 1] == "(":   # markdown link
+                continue
+            leftover.append((base, frag[:70]))
+
     # --- Report ------------------------------------------------------------
     words = sum(len(b.split()) for _, _, b in compiled)
     scenes = sum(b.count("[ SCENE TO BE ADDED ]") for _, _, b in compiled)
@@ -151,6 +165,10 @@ def main():
     print(f"scene placeholders: {scenes}")
     print(f"draft notes moved : {len(draft_notes)}")
     print(f"output            : manuscript/")
+    if leftover:
+        print(f"\nUNCONVERTED BRACKETS ({len(leftover)}) — these will not become notes:")
+        for base, frag in leftover:
+            print(f"  {base}: [{frag}]")
 
 
 if __name__ == "__main__":

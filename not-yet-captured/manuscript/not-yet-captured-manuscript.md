@@ -655,25 +655,25 @@ This is not unique to medicine. Every institution carries rules whose original j
 
 Consider what actually happened with continuous glucose monitoring. The FDA approved the first CGM — MiniMed's retrospective system — in 1999. Enthusiasm cooled fast, even inside the research community. The sensors drifted. Approval was for supplemental use alongside standard home glucose monitoring, not as a basis for treatment decisions. [^3]
 
-Read the objections from that period and you find they are not primarily technical. Physicians argued that patients did not need continuous data when a quarterly A1C was sufficient. The listed barriers were lack of FDA approval for insulin dosing, cost and variable reimbursement, the need for recalibration, and lack of physician training in interpreting results. Physicians themselves were named as a major barrier to implementation, facing time demands impossible to meet in a brief visit, unclear reimbursement, medico-legal exposure, and the ordinary uncertainty that attends anything new. [Cite: PMC4717493]
+Read the objections from that period and you find they are not primarily technical. Physicians argued that patients did not need continuous data when a quarterly A1C was sufficient. The listed barriers were lack of FDA approval for insulin dosing, cost and variable reimbursement, the need for recalibration, and lack of physician training in interpreting results. Physicians themselves were named as a major barrier to implementation, facing time demands impossible to meet in a brief visit, unclear reimbursement, medico-legal exposure, and the ordinary uncertainty that attends anything new. [^4]
 
 That is a complete inventory of reasonable-sounding reasons to wait. Every one of them is about the system's capacity to absorb the information rather than about whether the information was true or useful. Notice that distinction, because it recurs. Almost none of the resistance to any of these technologies has been a claim that the data is wrong. It has been a claim that the data is inconvenient, and the two get argued in the same tone.
 
-Then the evidence arrived. Patients could see patterns in real time, adjust behavior, catch dangerous swings before they became events. On 20 December 2016 — seventeen years after that first approval — the FDA expanded the Dexcom G5's indication so that continuous readings could be used to make treatment decisions without a confirmatory fingerstick, in patients aged two and older. [^4] "Too much data" had become the basis for dosing insulin.
+Then the evidence arrived. Patients could see patterns in real time, adjust behavior, catch dangerous swings before they became events. On 20 December 2016 — seventeen years after that first approval — the FDA expanded the Dexcom G5's indication so that continuous readings could be used to make treatment decisions without a confirmatory fingerstick, in patients aged two and older. [^5] "Too much data" had become the basis for dosing insulin.
 
 Seventeen years.
 
 Pulse oximetry tells a shorter version of the same story, and I want to tell it accurately rather than dramatically, because when I first wrote about it I got the timeline badly wrong.
 
-Takuo Aoyagi worked out the principle in 1974 and presented it in Osaka that year. Nihon Kohden brought the first ear oximeter to market in 1975. It was not a commercial success, and Aoyagi's insight was largely ignored for a period. Minolta adapted and improved the design around 1978, which prompted other firms to develop and market oximeters through the mid-1980s. The American Society of Anesthesiologists made pulse oximetry a standard in 1986, and in 1988 Thomas Neff proposed treating oxygen saturation as a fifth vital sign. [^5]
+Takuo Aoyagi worked out the principle in 1974 and presented it in Osaka that year. Nihon Kohden brought the first ear oximeter to market in 1975. It was not a commercial success, and Aoyagi's insight was largely ignored for a period. Minolta adapted and improved the design around 1978, which prompted other firms to develop and market oximeters through the mid-1980s. The American Society of Anesthesiologists made pulse oximetry a standard in 1986, and in 1988 Thomas Neff proposed treating oxygen saturation as a fifth vital sign. [^6]
 
 So roughly twelve years from principle to standard of care in the operating room — considerably faster than CGM, and worth conceding plainly. **An earlier version of this chapter said forty years, which was wrong.** I had stretched the timeline by folding in a separate and later argument about whether routine oximetry was warranted for emergency department patients, a debate that ran into the late 1990s. Those are two different questions and merging them made the lag look worse than it was.
 
 What survives is the smaller and more interesting fact: the first device failed commercially, and the principle sat underused for years, not because anyone showed it was wrong but because the field had not decided it wanted continuous oxygen data. The lag was in appetite rather than evidence. That is the same shape as CGM, just on a kinder clock.
 
-Liquid biopsy is the same story happening in the present tense, where we can watch it rather than reconstruct it. Adoption for excluding patients from targeted therapy has been slow, driven largely by concern about false negatives; current guidance is that a negative liquid biopsy should be followed by tissue sequencing. [^6] The stated barriers are workflow integration, the need for clinician training in interpretation and limitations, and a lack of protocol standardization. [Cite: PMC12140778] The objections are the familiar set: false positives leading to unnecessary treatment and psychological distress, false negatives delaying diagnosis, an unsettled regulatory picture, and the management of incidental findings.
+Liquid biopsy is the same story happening in the present tense, where we can watch it rather than reconstruct it. Adoption for excluding patients from targeted therapy has been slow, driven largely by concern about false negatives; current guidance is that a negative liquid biopsy should be followed by tissue sequencing. [^7] The stated barriers are workflow integration, the need for clinician training in interpretation and limitations, and a lack of protocol standardization. [^8] The objections are the familiar set: false positives leading to unnecessary treatment and psychological distress, false negatives delaying diagnosis, an unsettled regulatory picture, and the management of incidental findings.
 
-Meanwhile the evidence accumulates anyway, the way it did before. PADA-1 demonstrated improved progression-free survival using liquid biopsy to guide therapy. plasmaMATCH found ninety-six to ninety-nine percent concordance between liquid biopsy and tissue sequencing. [^7] Multi-cancer early detection tests are moving from curiosity to product while the profession is still deciding how it feels.
+Meanwhile the evidence accumulates anyway, the way it did before. PADA-1 demonstrated improved progression-free survival using liquid biopsy to guide therapy. plasmaMATCH found ninety-six to ninety-nine percent concordance between liquid biopsy and tissue sequencing. [^9] Multi-cancer early detection tests are moving from curiosity to product while the profession is still deciding how it feels.
 
 Three technologies, three decades apart, one sequence. A technology becomes feasible. The people who built it are enthusiastic. The establishment resists, citing practical concerns, absent evidence, false positives, cost, and workflow disruption. Contrarians use it anyway and study it. Evidence accumulates over ten to twenty years. The establishment accepts it, grudgingly. And then — this is the step that matters most — the delay gets described retroactively as appropriate caution.
 
@@ -925,7 +925,7 @@ Your doctor suggests a statin. "Studies show it reduces heart attack risk."
 
 The studies are real. The effect is real. Statistically significant, replicated, solid evidence.
 
-What the studies show is that for people with no prior heart disease, you need to treat roughly a hundred people with statins for five years to prevent one nonfatal heart attack — and around a hundred and fifty to prevent one stroke. Not one death. One heart attack. [^8]
+What the studies show is that for people with no prior heart disease, you need to treat roughly a hundred people with statins for five years to prevent one nonfatal heart attack — and around a hundred and fifty to prevent one stroke. Not one death. One heart attack. [^10]
 
 So a hundred people take a daily medication for five years. They deal with potential side effects. They spend money on pills and visits. They become, in a small but real way, patients — people who take something every morning because a professional told them to.
 
@@ -939,7 +939,7 @@ What makes me want to flip a table is this: my education taught me to trust *sta
 
 Medicine has a metric for exactly this. Number needed to treat: how many people must be treated for one person to benefit.
 
-Some calibration, with the caveat that every one of these numbers depends on the population and the endpoint being counted. Antibiotics for strep throat, single digits. Blood pressure medication after a stroke, low double digits. Aspirin given during an acute heart attack, a few dozen. Statins for primary prevention in low-risk people, around a hundred for a nonfatal heart attack — falling to forty or seventy in higher-risk groups. [^9]
+Some calibration, with the caveat that every one of these numbers depends on the population and the endpoint being counted. Antibiotics for strep throat, single digits. Blood pressure medication after a stroke, low double digits. Aspirin given during an acute heart attack, a few dozen. Statins for primary prevention in low-risk people, around a hundred for a nonfatal heart attack — falling to forty or seventy in higher-risk groups. [^11]
 
 All of these interventions are statistically significant. All of them work in the technical sense. And a number needed to treat in the single digits versus one in the hundreds describes wildly different clinical realities — one is close to a cure, the other is a lottery ticket with side effects.
 
@@ -1207,7 +1207,7 @@ I'm keeping the analogy anyway, with its failure attached, because the policy lo
 
 ## South Korea, which is the case against me
 
-Starting in the 1990s, South Korea made cheap thyroid ultrasound widely available alongside government-funded cancer screening. By 2011 the rate of thyroid cancer diagnoses was fifteen times the 1993 rate. Mortality did not move. Cancers under two centimeters accounted for 94.4 percent of the increase. [^10]
+Starting in the 1990s, South Korea made cheap thyroid ultrasound widely available alongside government-funded cancer screening. By 2011 the rate of thyroid cancer diagnoses was fifteen times the 1993 rate. Mortality did not move. Cancers under two centimeters accounted for 94.4 percent of the increase. [^12]
 
 The scans were finding small, indolent disease that autopsy studies show sits quietly in a large fraction of the population and never does anything. For years the only response on offer was surgery — tens of thousands of thyroidectomies, with their real complication rates, performed on people who were never in danger.
 
@@ -1215,7 +1215,7 @@ That is not "the data was bad." That is data with no normalization layer doing r
 
 But sit with the whole case rather than half of it, because both halves matter. The fix was not to stop scanning. The fix was to build the thresholds this chapter argues demand should produce: risk stratification systems that score a nodule before anyone reaches for a needle, plus active surveillance for small low-risk lesions instead of reflexive surgery. That took decades and a great many unnecessary operations to get right.
 
-And it still isn't clean. After public concern mounted, screening and thyroidectomy rates fell sharply — the follow-up in the same journal was titled "Turning the Tide." Whether the pullback carried its own cost in missed aggressive disease is contested and the data is observational. [^11]
+And it still isn't clean. After public concern mounted, screening and thyroidectomy rates fell sharply — the follow-up in the same journal was titled "Turning the Tide." Whether the pullback carried its own cost in missed aggressive disease is contested and the data is observational. [^13]
 
 So the honest read isn't that screening won or that screening lost. It's that building the right threshold is real, ongoing, expensive work rather than something that materializes the moment the data shows up. I had been treating threshold-building as a footnote to the abundance argument. Korea says it's the main event.
 
@@ -1223,7 +1223,7 @@ So the honest read isn't that screening won or that screening lost. It's that bu
 
 The reason I still land where I land is that the ledger has a second column, and medicine is much worse at reading it.
 
-In 2012 the US Preventive Services Task Force recommended against routine PSA screening for prostate cancer at any age, largely over overdiagnosis and overtreatment — the same logic now aimed at whole-body scanning. Screening dropped sharply. In the years following, multiple analyses found higher-stage disease and rising metastatic prostate cancer at diagnosis. Mortality, which had been falling for two decades, flattened. The Task Force revised the recommendation in 2018 to shared decision-making for men aged 55 to 69. [^12]
+In 2012 the US Preventive Services Task Force recommended against routine PSA screening for prostate cancer at any age, largely over overdiagnosis and overtreatment — the same logic now aimed at whole-body scanning. Screening dropped sharply. In the years following, multiple analyses found higher-stage disease and rising metastatic prostate cancer at diagnosis. Mortality, which had been falling for two decades, flattened. The Task Force revised the recommendation in 2018 to shared decision-making for men aged 55 to 69. [^14]
 
 The evidence there is mostly observational rather than a randomized smoking gun, and I won't oversell it. But the direction and the timing line up closely enough to take seriously the proposition that excess caution kills people too, and that its victims are just as real as the woman who had an unnecessary thyroidectomy. They are only harder to count. Korea produced a number; the PSA reversal produced a trend line and an argument about what caused it.
 
@@ -1235,9 +1235,9 @@ The objection I find close to impossible to accept is that we need rigorous stud
 
 Except that I overstated it, and the correction matters.
 
-You *can* study an immature screening technology, if you point it at a population whose risk justifies it and track outcomes prospectively. Inova Health System is doing exactly that. Their pilot enrolls eight hundred career and volunteer firefighters aged thirty-five and over with at least ten cumulative years on the job, randomizes them between whole-body MRI and whole-body ultrasound, and screens everyone with a multi-cancer detection assay on top. The design builds in the follow-up question that matters most — what the downstream workup actually looks like when these modalities flag something. [^13]
+You *can* study an immature screening technology, if you point it at a population whose risk justifies it and track outcomes prospectively. Inova Health System is doing exactly that. Their pilot enrolls eight hundred career and volunteer firefighters aged thirty-five and over with at least ten cumulative years on the job, randomizes them between whole-body MRI and whole-body ultrasound, and screens everyone with a multi-cancer detection assay on top. The design builds in the follow-up question that matters most — what the downstream workup actually looks like when these modalities flag something. [^15]
 
-The population choice is the whole lesson. In July 2022 an International Agency for Research on Cancer working group concluded that occupational firefighting is carcinogenic to humans. [^14] That is what an enriched-risk cohort looks like: not the general public, not the worried wealthy, but a group with a documented occupational exposure and a real prior probability of disease.
+The population choice is the whole lesson. In July 2022 an International Agency for Research on Cancer working group concluded that occupational firefighting is carcinogenic to humans. [^16] That is what an enriched-risk cohort looks like: not the general public, not the worried wealthy, but a group with a documented occupational exposure and a real prior probability of disease.
 
 Screen those people and the false-positive mathematics that makes population screening so punishing becomes considerably more forgiving, because prevalence is doing work for you rather than against you. This is the answer to my own objection two paragraphs ago, and it did not require anyone to wait for permission or to skip validation. It required picking the right eight hundred people.
 
@@ -1301,11 +1301,11 @@ I think there are three conditions that determine the answer, plus a fourth thin
 
 Before the conditions, Jevons.
 
-In 1865, William Stanley Jevons noticed something that should have been impossible. As steam engines became more fuel-efficient, Britain consumed *more* coal, not less. Efficiency didn't reduce demand. It expanded it, because lower cost unlocked uses nobody had bothered to imagine while coal was expensive. [^15]
+In 1865, William Stanley Jevons noticed something that should have been impossible. As steam engines became more fuel-efficient, Britain consumed *more* coal, not less. Efficiency didn't reduce demand. It expanded it, because lower cost unlocked uses nobody had bothered to imagine while coal was expensive. [^17]
 
 The ATM is the modern textbook case. When automated teller machines spread through the 1980s and 1990s, the obvious prediction was fewer tellers. The machine handled deposits, withdrawals, balance checks — the core of the job. And per branch, the prediction held: the average urban branch needed about twenty-one tellers in 1988 and about thirteen by 2004.
 
-But total teller employment *rose* over that period. James Bessen's work on this puts it at roughly 500,000 in the early 1980s to nearly 600,000 by 2010, across a stretch when some 400,000 ATMs were installed nationwide. Cheaper branches meant more branches — urban branch counts rose about 43 percent — and more branches meant more tellers even at lower headcount per location. Jevons won. [^16]
+But total teller employment *rose* over that period. James Bessen's work on this puts it at roughly 500,000 in the early 1980s to nearly 600,000 by 2010, across a stretch when some 400,000 ATMs were installed nationwide. Cheaper branches meant more branches — urban branch counts rose about 43 percent — and more branches meant more tellers even at lower headcount per location. Jevons won. [^18]
 
 Which produces the comfortable conclusion that technology doesn't kill jobs, it creates them.
 
@@ -1323,7 +1323,7 @@ ATMs automated one task within a multi-task job. Tellers still handled loan inqu
 
 Mobile banking was different in kind rather than degree. It didn't make branches more efficient; it made the question "how do we staff this branch?" collapse into "why does this branch exist?" When that question flips, there is no peripheral role to retreat into. The institution dissolves and the job goes with it.
 
-For radiology, this is the first diagnostic question. AI is advancing fast on image interpretation, which is the core diagnostic read. But interpretation is a smaller share of the job than outsiders assume. The Vancouver Workload Utilization Evaluation Study put direct image interpretation at 36.4 percent of radiologists' time, with 43.8 percent going to non-interpretive work — protocolling requisitions, supervising studies, image-guided procedures, consulting with other physicians, direct patient care. The same study found radiologists averaging six interactions per hour with other clinical staff, of which more than eighty percent influenced patient care in real time. [^17]
+For radiology, this is the first diagnostic question. AI is advancing fast on image interpretation, which is the core diagnostic read. But interpretation is a smaller share of the job than outsiders assume. The Vancouver Workload Utilization Evaluation Study put direct image interpretation at 36.4 percent of radiologists' time, with 43.8 percent going to non-interpretive work — protocolling requisitions, supervising studies, image-guided procedures, consulting with other physicians, direct patient care. The same study found radiologists averaging six interactions per hour with other clinical staff, of which more than eighty percent influenced patient care in real time. [^19]
 
 That last detail is the one worth holding onto. A job with six real-time clinical interactions an hour is not primarily a reading job that happens to involve colleagues. It is a consultative job in which reading is the core technical act.
 
@@ -1337,11 +1337,11 @@ ATMs made branches cheaper to run and banks responded by opening more of them �
 
 Mobile banking also made transactions dramatically cheaper. But it didn't generate more banking activity requiring human presence; it routed existing activity away from the places humans worked. The gain went to consumers and to margins, and it shrank the institutional context those jobs depended on.
 
-For radiology the structural case is stronger than it looks. Global imaging volume is growing faster than radiologist supply. The UK projects a forty percent shortfall in consultant radiologists by 2028; the US faces a projected gap of well over a hundred thousand physicians across specialties by the early 2030s. [^18] Cheaper, faster reads could make imaging more accessible, enable broader screening, and generate volume the current workforce cannot absorb. That's the ATM outcome: efficiency enabling expansion, expansion requiring expertise.
+For radiology the structural case is stronger than it looks. Global imaging volume is growing faster than radiologist supply. The UK projects a forty percent shortfall in consultant radiologists by 2028; the US faces a projected gap of well over a hundred thousand physicians across specialties by the early 2030s. [^20] Cheaper, faster reads could make imaging more accessible, enable broader screening, and generate volume the current workforce cannot absorb. That's the ATM outcome: efficiency enabling expansion, expansion requiring expertise.
 
 But there's a deeper version of this argument that I think gets missed.
 
-Clayton Christensen makes an observation about medical history that cuts to the center of the debate. Every time medicine developed a new way of seeing something previously invisible, it didn't merely improve care. It discovered new disease. New disease created new clinical categories, and new categories required new specialists. The EKG didn't just help cardiologists see hearts more clearly; it revealed arrhythmias nobody had characterized, which is part of what made cardiology a distinct specialty. The endoscope helped create gastroenterologists. MRI didn't augment neurology so much as birth neuroradiology. [^19]
+Clayton Christensen makes an observation about medical history that cuts to the center of the debate. Every time medicine developed a new way of seeing something previously invisible, it didn't merely improve care. It discovered new disease. New disease created new clinical categories, and new categories required new specialists. The EKG didn't just help cardiologists see hearts more clearly; it revealed arrhythmias nobody had characterized, which is part of what made cardiology a distinct specialty. The endoscope helped create gastroenterologists. MRI didn't augment neurology so much as birth neuroradiology. [^21]
 
 The pattern is consistent enough to feel like a law. New visibility creates new disease categories, which create new high-value subspecialties.
 
@@ -1357,7 +1357,7 @@ Branch banking survived ATMs partly because it was regulated, liability-laden, a
 
 Mobile banking eventually breached the moat — but not by defeating the regulations. It changed what customers wanted so completely that the structure protecting branches became irrelevant. The moat didn't get filled in. The river feeding it changed course.
 
-For radiology the moat is deeper. The most important word in healthcare is licensure. You cannot practice medicine without it. You cannot bill for a diagnostic read without a credentialed physician signing off. You cannot deploy autonomous AI for clinical diagnosis without regulatory clearance, and no FDA-cleared radiology tool is currently approved for fully autonomous diagnosis without physician oversight. [^20]
+For radiology the moat is deeper. The most important word in healthcare is licensure. You cannot practice medicine without it. You cannot bill for a diagnostic read without a credentialed physician signing off. You cannot deploy autonomous AI for clinical diagnosis without regulatory clearance, and no FDA-cleared radiology tool is currently approved for fully autonomous diagnosis without physician oversight. [^22]
 
 This is structural rather than incidental. The regulatory architecture around physician practice was built over a century, is defended by organized professional associations, and serves genuine patient-safety interests that make it politically durable. Any scenario where AI fully replaces radiologists requires not just technical capability but regulatory permission, liability restructuring, and coverage changes — each of which moves slowly and faces organized resistance.
 
@@ -1387,9 +1387,9 @@ The routine overnight reads are the cash-handling teller: under pressure, probab
 
 None of this is novel theory. It's what medicine has been doing for two centuries.
 
-The general practitioner nearly disappeared. In the early 1930s the large majority of American physicians identified as general practitioners; today family and internal medicine physicians — their successors — make up roughly a quarter of the workforce. [^21] Technology didn't kill generalism. It fragmented generalism into dozens of specialties and subspecialties, because each new technology made something visible that hadn't been and generated enough clinical demand to justify a new kind of expert.
+The general practitioner nearly disappeared. In the early 1930s the large majority of American physicians identified as general practitioners; today family and internal medicine physicians — their successors — make up roughly a quarter of the workforce. [^23] Technology didn't kill generalism. It fragmented generalism into dozens of specialties and subspecialties, because each new technology made something visible that hadn't been and generated enough clinical demand to justify a new kind of expert.
 
-Cardiac surgery didn't exist before the bypass machine. On 26 March 1954, C. Walton Lillehei performed the first successful open-heart operation using cross-circulation at the University of Minnesota — connecting the patient's circulation to a living human donor who served as the oxygenator, because mechanical bypass wasn't ready. In the operation that followed a few weeks later, the donor was the patient's own father, and that child lived to sixty-seven. [^22] The bypass machine didn't threaten cardiac surgery. It *was* cardiac surgery.
+Cardiac surgery didn't exist before the bypass machine. On 26 March 1954, C. Walton Lillehei performed the first successful open-heart operation using cross-circulation at the University of Minnesota — connecting the patient's circulation to a living human donor who served as the oxygenator, because mechanical bypass wasn't ready. In the operation that followed a few weeks later, the donor was the patient's own father, and that child lived to sixty-seven. [^24] The bypass machine didn't threaten cardiac surgery. It *was* cardiac surgery.
 
 In none of these cases did technology produce clean elimination. It produced bifurcation, transformation, or creation — outcomes that looked very different depending on where in the profession you sat and how quickly you moved.
 
@@ -1473,7 +1473,7 @@ I think we will look back and find that some meaningful part of a coming mental 
 
 ## What the numbers suggest
 
-Psychiatrist compensation currently sits in a range that has been climbing against chronic, years-long shortages. Mental health roles more broadly are projected to grow substantially faster than the overall economy through the mid-2030s. Meanwhile entry-level software employment in AI-exposed roles has fallen sharply for younger workers. [^23]
+Psychiatrist compensation currently sits in a range that has been climbing against chronic, years-long shortages. Mental health roles more broadly are projected to grow substantially faster than the overall economy through the mid-2030s. Meanwhile entry-level software employment in AI-exposed roles has fallen sharply for younger workers. [^25]
 
 The prestige hierarchy is inverting in real time, and I don't think most people making career decisions have noticed. I'm not sure I would have noticed if I weren't looking at it from inside medicine.
 
@@ -1925,53 +1925,57 @@ Sources are given by chapter. Where a claim could not be verified against a prim
 
 [^3]: MiniMed CGMS, FDA approval 1999. On the early sensor-drift and enthusiasm problem see the CGM historical literature, e.g. *Int J Diabetes Technol* 2023 review of 25 years of CGM.
 
-[^4]: FDA expanded indication for the Dexcom G5 Mobile CGM System, 20 December 2016 — the first non-adjunctive CGM approval. The device still required two calibration fingersticks daily, so this was the end of confirmatory testing rather than of fingersticks altogether.
+[^4]: Rodbard D. "Continuous Glucose Monitoring: A Review of Successes, Challenges, and Opportunities." *Diabetes Technol Ther* 2016;18(Suppl 2):S3–S13; doi 10.1089/dia.2015.0417. Rodbard's list of barriers is the source for the clinician-side items here — training in interpretation, absence of standardized analysis software, and the lack of practice guidelines defining CGM's role.
 
-[^5]: Aoyagi's 1974 presentation and the Nihon Kohden OLV-5100; see the *J Anesth* 2021 tribute to Aoyagi and the Anesthesia Patient Safety Foundation account of the Japanese and US commercialization paths. ASA standard 1986; Neff's fifth-vital-sign proposal 1988, see ACP Hospitalist, Newman 2014.
+[^5]: FDA expanded indication for the Dexcom G5 Mobile CGM System, 20 December 2016 — the first non-adjunctive CGM approval. The device still required two calibration fingersticks daily, so this was the end of confirmatory testing rather than of fingersticks altogether.
 
-[^6]: Current guidance that a negative liquid biopsy should be followed by tissue sequencing: College of American Pathologists, "The Liquid Biopsy," member resource. The concordance and outcome data are cited below.
+[^6]: Aoyagi's 1974 presentation and the Nihon Kohden OLV-5100; see the *J Anesth* 2021 tribute to Aoyagi and the Anesthesia Patient Safety Foundation account of the Japanese and US commercialization paths. ASA standard 1986; Neff's fifth-vital-sign proposal 1988, see ACP Hospitalist, Newman 2014.
 
-[^7]: PADA-1 progression-free survival results and the plasmaMATCH concordance figures of 96–99 percent are summarized in *Communications Medicine* (Nature Portfolio), 2025; doi 10.1038/s43856-025-00885-9. Both are worth reading in the original before being quoted in print.
+[^7]: Current guidance that a negative liquid biopsy should be followed by tissue sequencing: College of American Pathologists, "The Liquid Biopsy," member resource. The concordance and outcome data are cited below.
+
+[^8]: Liquid biopsies for early detection and monitoring of cancer: advances, challenges, and future directions. *Ann Med Surg* 2025;87(6):3244–3253; doi 10.1097/MS9.0000000000002776. The review's own summary of obstacles is protocol standardization, platform heterogeneity, the sensitivity–specificity tradeoff, and cost and access.
+
+[^9]: PADA-1 progression-free survival results and the plasmaMATCH concordance figures of 96–99 percent are summarized in *Communications Medicine* (Nature Portfolio), 2025; doi 10.1038/s43856-025-00885-9. Both are worth reading in the original before being quoted in print.
 
 ## What $300,000 in Education Failed to Teach Me
 
-[^8]: TheNNT summary of statins in primary prevention: NNT 104 for one nonfatal MI and 154 for one stroke over five years. These numbers move substantially with baseline risk — in higher-risk hyperlipidemic men the five-year NNT falls to roughly 40 to 70 — which is itself the point: an NNT is a statement about a population, not about you.
+[^10]: TheNNT summary of statins in primary prevention: NNT 104 for one nonfatal MI and 154 for one stroke over five years. These numbers move substantially with baseline risk — in higher-risk hyperlipidemic men the five-year NNT falls to roughly 40 to 70 — which is itself the point: an NNT is a statement about a population, not about you.
 
-[^9]: Individual figures need checking against current sources before typesetting; TheNNT is the standard reference. The spread is the argument, so approximate figures serve here better than false precision.
+[^11]: Individual figures need checking against current sources before typesetting; TheNNT is the standard reference. The spread is the argument, so approximate figures serve here better than false precision.
 
 ## On the Midjourney Whole-Body Ultrasound Scanner
 
-[^10]: Ahn HS, Kim HJ, Welch HG. "Korea's Thyroid-Cancer 'Epidemic' — Screening and Overdiagnosis." *N Engl J Med* 2014;371:1765–1767.
+[^12]: Ahn HS, Kim HJ, Welch HG. "Korea's Thyroid-Cancer 'Epidemic' — Screening and Overdiagnosis." *N Engl J Med* 2014;371:1765–1767.
 
-[^11]: Ahn HS, Welch HG. "South Korea's Thyroid-Cancer 'Epidemic' — Turning the Tide." *N Engl J Med* 2015. The post-pullback mortality question needs a current source before this sentence can say anything stronger.
+[^13]: Ahn HS, Welch HG. "South Korea's Thyroid-Cancer 'Epidemic' — Turning the Tide." *N Engl J Med* 2015. The post-pullback mortality question needs a current source before this sentence can say anything stronger.
 
-[^12]: USPSTF 2012 and 2018 recommendation statements; *JAMA Netw Open* 2022 on the grade D recommendation and prostate-cancer-specific mortality. Note: mortality flattened rather than rose, and no causal relationship has been established — the association is real, the mechanism inferred.
+[^14]: USPSTF 2012 and 2018 recommendation statements; *JAMA Netw Open* 2022 on the grade D recommendation and prostate-cancer-specific mortality. Note: mortality flattened rather than rose, and no causal relationship has been established — the association is real, the mechanism inferred.
 
-[^13]: Occupational Cancer Screening in Firefighters: A Pilot Study Within the Inova Health System, NCT06931561, run through Inova's Saville Cancer Screening and Prevention Center with its Department of Occupational Health.
+[^15]: Occupational Cancer Screening in Firefighters: A Pilot Study Within the Inova Health System, NCT06931561, run through Inova's Saville Cancer Screening and Prevention Center with its Department of Occupational Health.
 
-[^14]: IARC Monographs Volume 132, 2022.
+[^16]: IARC Monographs Volume 132, 2022.
 
 ## When Does Technology Kill a Profession
 
-[^15]: Jevons WS. *The Coal Question: An Inquiry Concerning the Progress of the Nation, and the Probable Exhaustion of Our Coal-Mines.* London: Macmillan, 1865.
+[^17]: Jevons WS. *The Coal Question: An Inquiry Concerning the Progress of the Nation, and the Probable Exhaustion of Our Coal-Mines.* London: Macmillan, 1865.
 
-[^16]: Bessen, *Learning by Doing*, and his 2015 IMF *Finance & Development* essay. Figures vary by series; some retellings cite a larger increase using a different employment measure, so use Bessen's numbers rather than the doubled-from-268,000 version that circulates.
+[^18]: Bessen, *Learning by Doing*, and his 2015 IMF *Finance & Development* essay. Figures vary by series; some retellings cite a larger increase using a different employment measure, so use Bessen's numbers rather than the doubled-from-268,000 version that circulates.
 
-[^17]: Vancouver Workload Utilization Evaluation Study, *J Am Coll Radiol* 2013. Note that the figure is methodology-dependent: a later study focused on interruptions found radiologists interpreting 52 percent of the time. The argument here needs only that a large share of the work is non-interpretive, which both studies support.
+[^19]: Vancouver Workload Utilization Evaluation Study, *J Am Coll Radiol* 2013. Note that the figure is methodology-dependent: a later study focused on interruptions found radiologists interpreting 52 percent of the time. The argument here needs only that a large share of the work is non-interpretive, which both studies support.
 
-[^18]: Workforce shortfall projections from the Royal College of Radiologists annual census and, in the United States, the Association of American Medical Colleges physician supply projections. **Both figures move year to year and neither has been independently verified for this edition; re-pull before any subsequent printing.**
+[^20]: Workforce shortfall projections from the Royal College of Radiologists annual census and, in the United States, the Association of American Medical Colleges physician supply projections. **Both figures move year to year and neither has been independently verified for this edition; re-pull before any subsequent printing.**
 
-[^19]: Christensen CM, Grossman JH, Hwang J. *The Innovator's Prescription: A Disruptive Solution for Health Care.* New York: McGraw-Hill, 2009.
+[^21]: Christensen CM, Grossman JH, Hwang J. *The Innovator's Prescription: A Disruptive Solution for Health Care.* New York: McGraw-Hill, 2009.
 
-[^20]: Regulatory status as of writing in 2026. **This is the most perishable claim in the chapter and should be re-checked immediately before any printing** — a single autonomous clearance would change the argument's terms.
+[^22]: Regulatory status as of writing in 2026. **This is the most perishable claim in the chapter and should be re-checked immediately before any printing** — a single autonomous clearance would change the argument's terms.
 
-[^21]: Both figures still need a primary source. The direction is not in dispute; the specific percentages should not be printed until checked.
+[^23]: Both figures still need a primary source. The direction is not in dispute; the specific percentages should not be printed until checked.
 
-[^22]: Lillehei's cross-circulation series, University of Minnesota, 1954–55; see *Ann Thorac Surg* 2020 on the first successful cross-circulation operation. The work won the 1955 Lasker Award.
+[^24]: Lillehei's cross-circulation series, University of Minnesota, 1954–55; see *Ann Thorac Surg* 2020 on the first successful cross-circulation operation. The work won the 1955 Lasker Award.
 
 ## Psychiatry and the Double Moat
 
-[^23]: Compensation ranges from annual physician compensation surveys; occupational growth from Bureau of Labor Statistics projections; the software-employment comparison from published analyses of entry-level technology hiring. **These are the fastest-aging figures in this book and have not been independently verified for this edition.** The argument in this chapter rests on the double moat, which is structural, rather than on these numbers — as the text says.
+[^25]: Compensation ranges from annual physician compensation surveys; occupational growth from Bureau of Labor Statistics projections; the software-employment comparison from published analyses of entry-level technology hiring. **These are the fastest-aging figures in this book and have not been independently verified for this edition.** The argument in this chapter rests on the double moat, which is structural, rather than on these numbers — as the text says.
 
 \newpage
 

@@ -110,8 +110,10 @@ Working chapter files keep their draft notes. The build is regenerated from
 scratch each run, so never edit inside `manuscript/` — edit the chapter file
 and rebuild.
 
-**Current build:** 19 chapters, 23 endnotes, 33,341 words, ~108 pages at
-6"×9". One scene placeholder remains in the text.
+**Current build:** 19 chapters, 25 endnotes, 33,339 words, ~108 pages at
+6"×9". One scene placeholder remains in the text. The build fails loudly on
+any bracketed citation it could not convert, so nothing reaches a typesetter
+as a bare source note.
 
 ## What is finished
 
