@@ -46,7 +46,7 @@ I think we will look back and find that some meaningful part of a coming mental 
 
 ## What the numbers suggest
 
-Psychiatrist compensation currently sits in a range that has been climbing against chronic, years-long shortages. Mental health roles more broadly are projected to grow substantially faster than the overall economy through the mid-2030s. Meanwhile entry-level software employment in AI-exposed roles has fallen sharply for younger workers. [Compensation ranges from annual physician compensation surveys; occupational growth from Bureau of Labor Statistics projections; the software-employment comparison from published analyses of entry-level technology hiring. **These are the fastest-aging figures in this book and have not been independently verified for this edition.** The argument in this chapter rests on the double moat, which is structural, rather than on these numbers — as the text says.]
+Psychiatrist compensation currently sits in a range that has been climbing against chronic, years-long shortages. Mental health roles more broadly are projected to grow substantially faster than the overall economy through the mid-2030s. Meanwhile entry-level software employment in AI-exposed roles has fallen sharply for younger workers. [^23]
 
 The prestige hierarchy is inverting in real time, and I don't think most people making career decisions have noticed. I'm not sure I would have noticed if I weren't looking at it from inside medicine.
 
@@ -77,5 +77,3 @@ That distinction is what I'd want a reader to take from this book more than any 
 The machines will handle more of what we do. The people who matter most in a world where that's true will be the ones helping other people work out who they are. That work requires a human, and some of the humans doing it come with regulatory protection that makes them among the more durable bets in the labor market. Psychiatry has been quietly sitting on this for years.
 
 ---
-
-*[Draft — Wave 2. Grew from a voice note recorded before a psychiatry rotation; the three-conditions framing is new and connects it to Ch12. Compensation and employment figures need re-pulling near publication (§6.3) — flagged in-text as the book's most perishable claims. A scene from the rotation itself would strengthen the opening considerably.]*

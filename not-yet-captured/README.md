@@ -1,7 +1,7 @@
 # Not Yet Captured
 
 **Working subtitle:** A Physician-in-Training's Case Against Medicine's Scarcity Mindset
-**Status:** drafting complete / revising
+**Status:** production build — awaiting author scenes
 **Started:** 2026-08-22
 **Target length:** ~76,500 words / 17 chapters → ~250pp at 6"×9" (see `publishing.md`)
 
@@ -99,57 +99,44 @@ at all and carries the book's ending.
 chapters, technology-adoption research, and any optional patient material
 gathered later (`writing-plan.md` §6.1 — enrichment, not a requirement).
 
-## Chapters
+## Production build
 
-Status values: `planned` → `drafting` → `revising` → `done`.
+`python3 build.py` compiles everything into `manuscript/`. It converts inline
+bracketed citations into numbered endnotes, generates the Notes section
+grouped by chapter, strips editorial draft notes into `production-notes.md`,
+assembles front and back matter, and writes a single-file manuscript.
 
-| # | Title | Status | Target | Words |
-| --- | --- | --- | ---: | ---: |
-| 00 | Author's Note | revising | — | 495 |
-| 01 | Not Yet Captured | revising | 4,000 | 1,551 |
-| 02 | What Business Taught Me That Medical School Never Could | revising | 3,500 | 1,252 |
-| 03 | What I Got Wrong | revising | 5,000 | 2,564 |
-| 04 | Turn the Volume Up, Doctor | revising | 4,000 | 1,411 |
-| 05 | Why Healthcare Feels Broken | revising | 4,000 | 1,230 |
-| 06 | Scarcity as Virtue | revising | 6,000 | 3,850 |
-| 07 | The Steelman | revising | 5,000 | 2,150 |
-| 08 | What $300,000 in Education Failed to Teach Me | revising | 4,000 | 1,657 |
-| 09 | The Compression Loss Problem | revising | 5,500 | 2,212 |
-| 10 | What a $1 MRI Would Actually Tell You | revising | 3,500 | 1,113 |
-| 11 | On the Midjourney Whole-Body Ultrasound Scanner | revising | 4,500 | 2,343 |
-| 12 | When Does Technology Kill a Profession | revising | 5,500 | 2,946 |
-| 13 | Psychiatry and the Double Moat | revising | 4,000 | 1,621 |
-| 14 | The Wedge | revising | 4,500 | 1,425 |
-| 15 | Capitalism vs. Humanitarianism Is a False Choice | revising | 3,500 | 1,234 |
-| 16 | The Pattern Problem | revising | 4,500 | 1,545 |
-| 17 | What I'd Change | revising | 5,500 | 2,079 |
-| 18 | Epilogue: What Has Already Changed | revising | — | 1,018 |
-| | **Total** | | **76,500** | **33,696** |
+Working chapter files keep their draft notes. The build is regenerated from
+scratch each run, so never edit inside `manuscript/` — edit the chapter file
+and rebuild.
 
-**All 17 chapters plus author's note and epilogue drafted** — 33,696 words,
-about 110 pages at 6"×9". Still short of the 200-page floor; see
-`writing-plan.md` §1 and `scenes-needed.md`. The gap closes with scenes and
-verified sources, not by inflating prose.
+**Current build:** 19 chapters, 23 endnotes, 33,341 words, ~108 pages at
+6"×9". One scene placeholder remains in the text.
 
-**Citation status:** see `reference/sources.md`. Eleven claims verified,
-seven corrected where the draft overstated or misreported evidence, two
-figures pulled entirely for lack of a source. One error — the pulse oximetry
-adoption lag — had propagated to four other files and has been corrected
-throughout. 10 bracketed markers remain, mostly time-sensitive figures to
-re-pull near publication.
+## What is finished
 
-**Revision pass, first sweep:** ran a cross-chapter duplicate check and found
-three passages appearing near-verbatim in two or three places each — the
-alienation-into-a-market argument, the theory-versus-clinical-reality
-disclaimer, and the clinical-knowledge caveat. Each now has a single owner
-and the others reference rather than repeat. This is the characteristic
-failure of a book assembled from essays and it needs re-running after any
-substantial edit.
+- Author's note and epilogue, both complete
+- All 17 chapters as continuous prose
+- Front matter: half title, title page, copyright with a medical-advice
+  disclaimer and de-identification statement, epigraph, contents
+- Back matter: Notes by chapter, acknowledgments stub, about the author
+- Citations converted to endnotes; every note either cites a real source or
+  says plainly that it could not be verified
+- Cross-chapter duplication resolved, verbatim and conceptual
+- Mechanically clean: no double spaces, no trailing whitespace, straight
+  apostrophes
 
-**→ `scenes-needed.md` is the current ask.** Nine scenes only the author can
-write, ranked, with the two highest-priority ones named. Roughly 5,000 words
-directly and considerably more indirectly, since chapters expand around a
-concrete anchor. This is the honest path to the page target; padding is not.
+## What is not finished
 
-**Then:** remaining 10 citation markers (mostly time-sensitive), chapter
-bridge check, and the compile pass described in `publishing.md`.
+1. **The scenes.** See `scenes-needed.md` — nine of them, only the author can
+   write them. This is the length gap and the quality gap simultaneously.
+2. **Acknowledgments.** Stub only.
+3. **ISBN, imprint, cover.** Cover cannot be commissioned until the final
+   page count is known, which depends on the scenes.
+4. **Four time-sensitive citations** flagged in-text as unverified for this
+   edition: radiologist workforce projections, FDA autonomous-clearance
+   status, psychiatry compensation and employment figures, and the Bervell
+   anecdote. Each says so in the note rather than implying confidence.
+5. **A full human read.** Nobody has read this end to end, including the
+   author. It should happen after the scenes go in.
+6. **Copyedit** by someone who is not the author or me.
