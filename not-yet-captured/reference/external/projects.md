@@ -31,8 +31,13 @@ Related repos: `roundsapp-landing`, `RoundsWebTools`, `rounds-its`,
 
 ## Corroborations found in the repo list
 
-- **`claimguard`** (private, Aug 2025) — almost certainly the claim-denial
-  prediction MVP described in Ch3. Worth confirming; if so, Ch3 can name it.
+- **`claimguard`** (private, Aug 2025) — **confirmed by the author** as the
+  claim-denial MVP in Ch3. His description: a spell check for hospital
+  billing. Catches inappropriately coded claims before submission, using a
+  machine learning model trained on that individual hospital's own historical
+  claims data rather than a generic rules engine. Ch3 now carries the full
+  mechanism in non-technical terms; Ch17 uses the spell-check analogy to
+  define the interpretation-layer category.
 - **`rvulookup`**, **`healthliteracy`**, **`sitr`/`seatingsystem`/
   `formalseating`** — the tools named in the LinkedIn piece and now in Ch17.
 - **`janus`**, `janus-client-logos` — the agency (Ch2, Ch3).

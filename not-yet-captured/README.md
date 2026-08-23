@@ -108,29 +108,28 @@ Status values: `planned` → `drafting` → `revising` → `done`.
 | 00 | Author's Note | revising | — | 495 |
 | 01 | Not Yet Captured | revising | 4,000 | 1,551 |
 | 02 | What Business Taught Me That Medical School Never Could | revising | 3,500 | 1,252 |
-| 03 | What I Got Wrong | revising | 5,000 | 2,419 |
+| 03 | What I Got Wrong | revising | 5,000 | 2,564 |
 | 04 | Turn the Volume Up, Doctor | revising | 4,000 | 1,411 |
 | 05 | Why Healthcare Feels Broken | revising | 4,000 | 1,230 |
 | 06 | Scarcity as Virtue | revising | 6,000 | 3,850 |
 | 07 | The Steelman | revising | 5,000 | 2,150 |
 | 08 | What $300,000 in Education Failed to Teach Me | revising | 4,000 | 1,657 |
-| 09 | The Compression Loss Problem | revising | 5,500 | 2,090 |
+| 09 | The Compression Loss Problem | revising | 5,500 | 2,212 |
 | 10 | What a $1 MRI Would Actually Tell You | revising | 3,500 | 1,113 |
 | 11 | On the Midjourney Whole-Body Ultrasound Scanner | revising | 4,500 | 2,343 |
 | 12 | When Does Technology Kill a Profession | revising | 5,500 | 2,946 |
 | 13 | Psychiatry and the Double Moat | revising | 4,000 | 1,621 |
-| 14 | The Wedge | revising | 4,500 | 1,328 |
+| 14 | The Wedge | revising | 4,500 | 1,425 |
 | 15 | Capitalism vs. Humanitarianism Is a False Choice | revising | 3,500 | 1,234 |
 | 16 | The Pattern Problem | revising | 4,500 | 1,545 |
 | 17 | What I'd Change | revising | 5,500 | 1,749 |
 | 18 | Epilogue: What Has Already Changed | revising | — | 1,021 |
-| | **Total** | | **76,500** | **33,005** |
+| | **Total** | | **76,500** | **33,369** |
 
-**All 17 chapters plus author's note and epilogue drafted** — 32,321 words.
-Every piece is a complete argument in continuous prose. The manuscript is
-roughly 42% of the word target and about 103 pages at 6"×9", so it does not
-yet meet the 200-page floor. See `writing-plan.md` §1: that gap closes with
-the marked scenes and verified citations, not by inflating prose.
+**All 17 chapters plus author's note and epilogue drafted** — 33,369 words,
+about 108 pages at 6"×9". Still short of the 200-page floor; see
+`writing-plan.md` §1 and `scenes-needed.md`. The gap closes with scenes and
+verified sources, not by inflating prose.
 
 **Citation status:** see `reference/sources.md`. Eleven claims verified,
 seven corrected where the draft overstated or misreported evidence, two

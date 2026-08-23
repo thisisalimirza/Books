@@ -106,7 +106,13 @@ I was delusional about this.
 
 Healthcare may be the slowest sales cycle I will ever encounter. Despite being on good terms with senior people at various hospitals, there are endless steps and gatekeepers regardless of who you know or where you enter.
 
-I built a system I was certain would win. It predicted billing claim denials before submission and auto-suggested fixes to get them approved — a machine learning model trained locally on the hospital's own data, aimed squarely at reducing denial rates. I built the MVP in a weekend, right after an email went out to the hospital community about hiring a consulting agency to address revenue cycle management problems. The timing seemed perfect.
+I built a system I was certain would win. The idea was a spell check for billing.
+
+Hospitals submit claims, insurers deny a fraction of them, and the denials are expensive in a way that compounds: staff time to identify the problem, staff time to rework it, delay in payment, and sometimes revenue simply written off. Most of those denials are not fraud or dispute. They are coding errors — a claim assembled slightly wrong, submitted, and rejected for a reason that would have been obvious if anyone had looked before it went out.
+
+So: catch them before submission. A model trained on that specific hospital's own historical claims, learning which patterns had been denied before, flagging a claim on the way out the door the way a word processor flags a misspelling. Not a rules engine bought off a shelf and applied uniformly, which is what already existed and which is why it worked poorly. Something trained on the institution's own history, because denial patterns are local — they depend on which payers you contract with and which of their idiosyncrasies you keep tripping over.
+
+I built the MVP in a weekend, right after an email went out to the hospital community about hiring a consulting agency to address revenue cycle management problems. The timing seemed perfect.
 
 I walked to the CEO's office. He directed me to the Senior VP of Billing. The SVP expressed some interest. Then he never quite responded again.
 
