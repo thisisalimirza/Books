@@ -143,6 +143,45 @@ you think about it or just how it reads.
 
 ---
 
+## 10. Outside writing I can't reach
+**Priority: high, and blocked on you.**
+
+You sent two links and this environment's egress policy blocks both at the
+network layer — `thisisalimirza.com` and `linkedin.com` both return 403 on
+the proxy tunnel. Not a TLS problem and not something I can work around from
+here.
+
+Web *search* still works, and it surfaced enough of one piece to say it
+matters:
+
+**"The First Dream Is Never the Real Dream (how I learned to get unstuck,
+and you can too)"** — LinkedIn, 23 March 2025. The premise, from the
+snippet: when you got into medical school, you felt lost.
+
+That is a genuinely useful thing for this book and it is nowhere in the
+manuscript. Chapter Three covers what you got wrong about medicine, but it
+covers *predictions* — the agency, the difficulty, the insider advantage.
+Ambivalence at the moment of arrival is a different and more interesting
+admission, and it strengthens the Chapter One claim about arriving with a
+comparison set: someone who felt lost on getting in was already measuring
+medicine against something else.
+
+I am not going to build on a search snippet. That is exactly the thin
+sourcing this project has spent three passes correcting.
+
+**What I need:** paste the text of that piece, and anything else from the
+site worth pulling — the essays, the project descriptions, whatever the
+about page says. Raw paste is fine. If there's a lot, a list of titles first
+and I'll say which ones look load-bearing.
+
+**Also worth knowing:** the LinkedIn profile headline reads "Building things
+| MD Candidate @ UConn." UConn is not named anywhere in the manuscript.
+Decide whether the book names the institution — it affects how specific the
+rotation scenes can be, and it is easier to decide now than after they're
+written.
+
+---
+
 ## What happens when you send these
 
 Write them roughly. Don't polish — I'd rather have the real texture than a
