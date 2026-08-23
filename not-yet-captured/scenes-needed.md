@@ -130,16 +130,20 @@ chapter.
 Consent and de-identification apply. 300–500 words.
 
 ## 9. Ch17 — What you actually intend
-**Priority: high, and it isn't really a scene.**
+**Priority: mostly resolved.** ~~Partially open.~~
 
-Chapter Seventeen ends with "what I'm going to do about it," and I wrote it
-from what the argument implies rather than from what you actually plan.
-Some of it may be wrong.
+The LinkedIn piece answered most of this. Ch17 now names the five things you
+built in your first eight months — the RVU tool, the health literacy
+screener, the priorities tool, the suicide risk model, the seating app — and
+makes the observation that nearly all of them are attempts to put a layer
+between raw information and the person who has to act on it. Which is this
+book's argument, built accidentally, before you had articulated it.
 
-Read that section and tell me what's true. Specifically: are you actually
-going to keep writing publicly through residency, is the interpretation
-layer genuinely what you intend to build, and is the forty-year framing how
-you think about it or just how it reads.
+**Still open:** whether you actually intend to keep writing publicly through
+residency, and whether the forty-year framing is how you think about it or
+just how it reads. Also: **what is Rounds?** Your byline says "Founder @
+Rounds" and I know nothing about it. If it's material to the argument it
+belongs in Ch17; if it isn't, say so and I'll leave it out.
 
 ---
 

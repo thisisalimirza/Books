@@ -2,9 +2,37 @@
 
 I'm halfway through medical school. Two years in, rotations just started, psychiatry first.
 
+When I got in, I felt something I hadn't expected: lost.
+
+Not because I didn't want to be there. Medicine had been the dream since I was a child — I never weighed it against alternatives, I simply always knew. I liked science, I liked helping people, and in every story I knew the doctor was the one who showed up when it mattered.
+
+But something strange happens when you finally reach the thing you've been chasing your whole life. You arrive, you pause, and then you ask: now what? People celebrate the acceptance letter and the white coat. Nobody prepares you for the dream coming true and leaving you incomplete.
+
+I think that feeling is the earliest evidence for everything in this book. Someone who feels lost on arriving was already, without knowing it, measuring medicine against something else.
+
 Before I spend the rest of this book explaining what my profession has gotten wrong, I want to go through what I got wrong, because I think the exercise is worth more than it looks. Most people quietly bury their incorrect predictions. I think that's foolish. What you were wrong about is where the information is — the place where your model of the world and the world itself came apart, and therefore the only place you can tune the model.
 
 There's also a simpler reason to put this chapter before the critique. If I'm going to ask a profession to audit its own delays and stop describing them as prudence afterward, I should demonstrate that I can do it at the scale of one person first.
+
+## I thought the path had to be fifty years long
+
+The biggest thing I got wrong was written down, in college, as a plan.
+
+Become a doctor. Build patient trust. Use that to influence policy. Move into politics. Then pharma, to build capital. Use the capital to fund schools and hospitals. Then return to medicine, finally free of the constraints that made the whole detour necessary.
+
+Fifty years. My friends knew it by name.
+
+Looking back, it's the kind of ambitious, hyper-structured plan only an analytical college student writes. It assumed the world was a puzzle — that if I played every move correctly across five decades, I would eventually *earn* the right to fix things. Every step was a permission slip for the next one.
+
+What broke it was a year I hadn't planned for. I graduated, joined Epic, and resigned to go to medical school — but the gap between those two things turned into a year of building on my own, and that year taught me the plan had a false premise buried in step one.
+
+I didn't need to wait fifty years. I didn't need permission to start solving problems. I could start immediately, badly, at small scale, and learn more in eight months than the first decade of the plan would have taught me.
+
+So I scrapped it. Not adjusted it — scrapped it. I had been on a trajectory to spend forty years earning access to problems I could already work on.
+
+I want to be precise about what was wrong, because "just start" is the sort of advice that sounds good and means nothing. The plan wasn't wrong about the destination. It was wrong about the *mechanism* — it treated influence as something conferred by accumulated standing rather than something produced by having done useful work. Those look identical from inside a college library. They are not the same thing, and only one of them can be started on a Tuesday.
+
+*Lesson: when a plan requires you to wait for permission at every stage, check whether the permission is real or whether you invented it to justify the waiting.*
 
 ## I thought I could run the agency through medical school
 

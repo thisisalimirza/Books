@@ -30,6 +30,12 @@ Epic sells software, but the software isn't the moat. The moat is how they culti
 
 Why spend money that way? Because longitudinal relationships are the actual product. Bring clients together year after year and you create belonging, loyalty, shared identity. At that point you aren't a vendor. You're part of how the institution understands itself, and switching costs stop being about software migration.
 
+I want to be careful about how admiringly that reads, because my own experience of working there was mostly frustration. Projects that should have taken a day took weeks. There were meetings about meetings. Decisions moved slowly enough that inertia felt like a design choice rather than a failure. The genuinely valuable thing I got from that job was watching how a company shapes culture at scale — the actual work felt like mastering somebody else's system, and I left.
+
+Both of those are true simultaneously, and the combination is the point rather than a caveat. A company can be internally slow and externally indispensable at the same time, because the thing defending it was never operational speed. It was that the people who buy the product feel known. Institutional inertia and institutional loyalty turn out to be produced by the same machinery, which is an uncomfortable observation for anyone who assumes the slow incumbent is the vulnerable one.
+
+That is worth holding onto before applying any of it to medicine, because medicine is also internally slow, and the question is whether it has built the other half.
+
 Apple does the same thing with its developer conference, and for the same reason. Developers leave not only with technical knowledge but with renewed loyalty — they feel seen. Apple gets mindshare every year for two decades, and it becomes nearly unthinkable for a developer to reprioritize, even during periods when a competitor is genuinely innovating faster.
 
 That's the lesson worth extracting: **innovation alone doesn't produce loyalty. Attention does.**
