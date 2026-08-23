@@ -30,11 +30,17 @@ Epic sells software, but the software isn't the moat. The moat is how they culti
 
 Why spend money that way? Because longitudinal relationships are the actual product. Bring clients together year after year and you create belonging, loyalty, shared identity. At that point you aren't a vendor. You're part of how the institution understands itself, and switching costs stop being about software migration.
 
-I want to be careful about how admiringly that reads, because my own experience of working there was mostly frustration. Projects that should have taken a day took weeks. There were meetings about meetings. Decisions moved slowly enough that inertia felt like a design choice rather than a failure. The genuinely valuable thing I got from that job was watching how a company shapes culture at scale — the actual work felt like mastering somebody else's system, and I left.
+I want to hold two things about that place at once, because I held both while I was there and I still do.
 
-Both of those are true simultaneously, and the combination is the point rather than a caveat. A company can be internally slow and externally indispensable at the same time, because the thing defending it was never operational speed. It was that the people who buy the product feel known. Institutional inertia and institutional loyalty turn out to be produced by the same machinery, which is an uncomfortable observation for anyone who assumes the slow incumbent is the vulnerable one.
+The community building was genuinely impressive and I learned more from watching it than from anything else I did. Nobody had to explain the strategy to me; you could see it working. Watching a company shape culture at that scale, deliberately, year over year, was the most valuable thing that job gave me.
 
-That is worth holding onto before applying any of it to medicine, because medicine is also internally slow, and the question is whether it has built the other half.
+And the day-to-day was frustrating. Projects that should have taken a day took weeks. There were meetings about meetings. Decisions moved slowly enough that the inertia stopped reading as a bottleneck and started reading as a property of the place. The work itself felt like mastering somebody else's system, and eventually I left to do something else.
+
+Both true, at the same time, about the same company — and the combination is the finding rather than a caveat on it. An organization can be internally slow and externally indispensable simultaneously, because what defends it was never operational speed. It was that the people who buy the product feel known.
+
+Which suggests something uncomfortable: institutional inertia and institutional loyalty may be produced by the same machinery. The deliberateness that makes a company good at long relationships is the same deliberateness that makes it slow to change anything. You probably cannot have one without some of the other, and an incumbent that fixed its slowness by moving fast and breaking things might find it had broken the moat instead.
+
+Hold that before applying any of it to medicine — because medicine is also internally slow, and the question this chapter is really asking is whether it ever built the other half.
 
 Apple does the same thing with its developer conference, and for the same reason. Developers leave not only with technical knowledge but with renewed loyalty — they feel seen. Apple gets mindshare every year for two decades, and it becomes nearly unthinkable for a developer to reprioritize, even during periods when a competitor is genuinely innovating faster.
 

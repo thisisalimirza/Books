@@ -139,11 +139,13 @@ makes the observation that nearly all of them are attempts to put a layer
 between raw information and the person who has to act on it. Which is this
 book's argument, built accidentally, before you had articulated it.
 
+**Rounds is now in the book**, and it turned out to be the most important
+thing in this section — see `reference/external/projects.md`. Ch17 now
+carries it, and Ch9 has a forward pointer.
+
 **Still open:** whether you actually intend to keep writing publicly through
 residency, and whether the forty-year framing is how you think about it or
-just how it reads. Also: **what is Rounds?** Your byline says "Founder @
-Rounds" and I know nothing about it. If it's material to the argument it
-belongs in Ch17; if it isn't, say so and I'll leave it out.
+just how it reads.
 
 ---
 

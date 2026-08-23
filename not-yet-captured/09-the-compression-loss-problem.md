@@ -112,6 +112,10 @@ They are not. One takes things apart to learn what they are made of. The other h
 
 We train almost exclusively for the first and then grade people on the second.
 
+And we start earlier than I've let on in this chapter. Everything above describes what happens to a patient in front of a clinician. But the same decomposition happens to the knowledge itself, years before anyone sees a patient — thousands of facts drilled as discrete units, with the connective structure between them left to assemble itself or not. Most of my classmates could reproduce any individual fragment on command. Fewer could say what held the fragments together, and nothing in the training was designed to ask them.
+
+I have more to say about that, and it belongs at the end of this book rather than here, because it's the one part of this argument I stopped writing about and started building.
+
 ---
 
 *[Draft — Wave 3. The textual-analysis half comes from the seed essay; the entire clinical half is new, and the multiple-comparisons bridge between them is the chapter's central claim. That bridge should be checked by someone with real statistical training before publication — the analogy between multiple hypothesis testing and repeated reference-range sampling is sound as far as I can tell, but it is doing a lot of load-bearing work here. Needs a scene: a specific patient who was fully worked up and not understood.]*
