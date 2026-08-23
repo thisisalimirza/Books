@@ -40,7 +40,7 @@ That's the only defense I've found against the thing this book describes, and it
 
 I'm going to be inside this system for something like forty years. Nothing here was written from the outside, and nothing was written to be clever about a profession I'm leaving.
 
-The argument was narrow on purpose. Medicine built a reflex for scarcity when tests were expensive and invasive and genuinely limited. That world is going unevenly, faster in imaging and sequencing than in anything requiring a person's hands and time, and the reflex is outliving the conditions that produced it. Because it's carried as identity rather than technique, it will keep outliving them, and each new technology will spend a decade or two waiting for permission while people who could have been helped are not.
+The argument was narrow on purpose. Medicine built a reflex for scarcity when tests were expensive and invasive and genuinely limited. That world is going unevenly, faster in imaging and sequencing than in anything requiring a person's hands and time, and the reflex is outliving the conditions that produced it. And because it is worn as a professional virtue rather than used as a tool, it will keep outliving them, and each new technology will spend a decade or two waiting for permission while people who could have been helped are not.
 
 The fix is not to abandon restraint. It's to notice that restraint was always about *action*, that it quietly expanded to cover *information*, and that the expansion was never examined because it never had to be.
 

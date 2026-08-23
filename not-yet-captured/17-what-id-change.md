@@ -58,7 +58,7 @@ Medicine isn't broken. The incentives and structures around it are, and those we
 
 But I want to end on the narrower claim, because it's the one I can defend from here.
 
-The scarcity reflex was a good adaptation to a world of expensive, invasive, genuinely limited tests. That world is going away unevenly — faster in imaging and sequencing, slower in everything requiring a person's hands and time. The reflex is outliving the conditions that justified it, and because it's carried as identity rather than technique, it will outlive them by a generation unless someone keeps pointing at the gap.
+The scarcity reflex was a good adaptation to a world of expensive, invasive, genuinely limited tests. That world is going away unevenly — faster in imaging and sequencing, slower in everything requiring a person's hands and time. The reflex is outliving the conditions that justified it, and because it long ago stopped being something a physician does and became something a physician is, it will outlive them by a generation unless someone keeps pointing at the gap.
 
 That's what this book was for. Not to prove that doctors are wrong — mostly they aren't, and the ones resisting are usually protecting patients with the time and tools they have. Just to name a specific inherited reflex, show where it came from, show where it no longer fits, and make the case that the distinction between gathering and acting is worth institutionalizing before another technology spends twenty years waiting for permission.
 
